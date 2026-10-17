@@ -1,0 +1,4 @@
+interface:
+  display_name: "Film Character Performance"
+  short_description: "Direct emotions, gestures, movement and listening"
+  default_prompt: "Use $film-character-performance to turn this scene into expressive, motivated acting direction with emotional changes, gestures, movement and continuity."

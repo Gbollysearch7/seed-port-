@@ -1,0 +1,15 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+ "request_id": "01a1364e-0d87-7472-9c4f-ca1535f7be2b",
+ "refs": [],
+ "input": {
+  "prompt": "ONE photorealistic PRODUCTION REFERENCE SHEET, horizontal 16:9, split into THREE equal vertical panels side by side with thin white gutters, all three showing the SAME object or place with identical design, materials and colours. THE PROP: a modern unbranded smartphone with thin flat edges, rounded corners and a matte graphite-grey aluminium frame, a triple camera bump on the back, NO logo anywhere on it, in a clear slim case with a small lilac-and-pink sticker on the back (abstract star shapes, no text). PANEL 1 (left): front view, the screen on and showing a plain warm cream #FFF4E0 blank screen. PANEL 2 (middle): back view showing the camera bump and the sticker. PANEL 3 (right): edge-on three-quarter view lying on an oak coffee table beside a knit blanket. Soft warm studio light, clean grey seamless background for panels 1 and 2. Real photography, true-to-life colour, subtle film grain, natural imperfections, believable and lived-in, not a render, not a cartoon. No people, no hands, no watermark. ",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png"
+ }
+}

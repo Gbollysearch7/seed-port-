@@ -1,0 +1,22 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/edit",
+ "request_id": "01a1365c-7489-79f1-97e7-f079a4a81200",
+ "refs": [
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/order-confirmation-screen.png",
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/assets/smartphone-v1.png"
+ ],
+ "input": {
+  "prompt": "ONE photorealistic PRODUCTION REFERENCE SHEET, horizontal 16:9, split into THREE equal vertical panels side by side with thin white gutters, all three showing the SAME object or place with identical design, materials and colours. STUDIO: every panel on the same plain light-grey seamless studio backdrop and grey floor, soft even key light with a gentle fill and a soft contact shadow, product-catalogue clarity, nothing else in frame. THE ASSET: the smartphone from image 2 (unbranded graphite-grey phone, thin flat edges, clear slim case, the lilac-and-pink star sticker on the back, NO logo anywhere) with its screen ON and displaying EXACTLY the app screen in image 1, the Bolly Eats 'Order confirmed' screen: masala-maroon top with the yellow steam marks and 'bolly eats.' logo, a yellow tick circle, 'Order confirmed', 'Your feast is on its way.', then the cream lower half with 'ARRIVING IN 25 min', the four-step tracker and the order list. Reproduce the screen layout, colours and words exactly, bright and legible, with a faint natural screen reflection. PANEL 1 (left): phone standing upright, screen straight to camera. PANEL 2 (middle): phone propped on a small stand at a slight three-quarter angle, screen still readable. PANEL 3 (right): phone lying flat, seen from above at an angle, screen glowing. Real photography, true-to-life colour, subtle film grain, natural imperfections, believable and lived-in, not a render, not a cartoon. No people, no hands, no watermark. ",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae3e2a/rsELb6LXHDY7t_t2rLm-i_order-confirmation-screen.png",
+   "https://v3b.fal.media/files/b/0aae3e2a/iY2SSmIDII6fJZ8OLGNvy_smartphone-v1.png"
+  ]
+ }
+}

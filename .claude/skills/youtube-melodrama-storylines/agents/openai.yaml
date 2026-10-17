@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Melodrama Storylines"
+  short_description: "Original emotional dramas with earned reversals"
+  default_prompt: "Use $youtube-melodrama-storylines to develop an original emotional drama with a clear hook, escalating choices, and an earned ending."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pop Music Video Stylist"
+  short_description: "Performance fashion and reference-to-video wardrobe"
+  default_prompt: "Use $pop-music-video-stylist to dress the artist and partner, preserve their identities, and prepare wardrobe references for the selected video workflow."

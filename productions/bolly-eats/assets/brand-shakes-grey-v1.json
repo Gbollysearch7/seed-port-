@@ -1,0 +1,24 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/edit",
+ "request_id": "01a1365c-73c9-7003-9608-145cb1978e54",
+ "refs": [
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/bolly-logo-on-turmeric.png",
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/ref-shake-cups-design.png",
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/ref-shake-carrier-design.png"
+ ],
+ "input": {
+  "prompt": "ONE photorealistic PRODUCTION REFERENCE SHEET, horizontal 16:9, split into THREE equal vertical panels side by side with thin white gutters, all three showing the SAME object or place with identical design, materials and colours. BRAND: Bolly Eats, a cheeky Indian food delivery brand. Colours: masala maroon #5B1A1F, turmeric yellow #F4B400, chilli red #E2462B, rose pink #E8889A, warm cream #FFF4E0. The logo is EXACTLY as in image 1: three wavy steam lines above the lowercase words 'bolly eats.' in a heavy rounded grotesque, spelled b-o-l-l-y e-a-t-s with the full stop. Reproduce the logo exactly, never invent other text. STUDIO: every panel on the same plain light-grey seamless studio backdrop and grey floor, soft even key light with a gentle fill and a soft contact shadow, product-catalogue clarity, nothing else in frame. THE ASSET: the two Bolly Eats milkshakes and their carrier, built EXACTLY to images 2 and 3. Cups: tapered paper cups with clear dome lids and wide straws; the Mango Masala Shake in a turmeric-yellow cup with a chilli-red straw, a creamy pale mango-yellow shake visible under the dome; the Rose Falooda Shake in a rose-pink #E8889A cup with a masala-maroon straw, a pink shake visible under the dome; each cup with the masala logo and a masala band reading 'SHAKE IT, HERO'. Carrier: a masala-maroon recycled-board two-cup carrier with a fold-up turmeric handle. Light condensation on the cups. PANEL 1 (left): both cups side by side, front view. PANEL 2 (middle): both cups standing in the carrier, three-quarter view. PANEL 3 (right): the carrier with cups from directly above. Copy the text from images 2 and 3 exactly, no other text. Real photography, true-to-life colour, subtle film grain, natural imperfections, believable and lived-in, not a render, not a cartoon. No people, no hands, no watermark. ",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae3e2a/VYsO_fqtcpKFgNRqn8mHK_bolly-logo-on-turmeric.png",
+   "https://v3b.fal.media/files/b/0aae3e2a/eM9pGENhTH2z-rzYH4P5O_ref-shake-cups-design.png",
+   "https://v3b.fal.media/files/b/0aae3e2b/sD_UO2_KX4fzmammdfA5h_ref-shake-carrier-design.png"
+  ]
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/edit",
+ "request_id": "01a13670-7bd6-7452-a149-048f457e4c7b",
+ "refs": [
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/assets/living-room-34-bluehour-v1.png"
+ ],
+ "input": {
+  "prompt": "Recreate image 1 EXACTLY: the same three-panel sheet with the same three three-quarter camera views, the same room, furniture, rug, posters and the same locked BLUE HOUR lighting. ADD ONE NEW ITEM: a large round floor cushion someone can sit on, about 70 cm across and 20 cm thick, in rust-terracotta velvet with a deep tufted button in the centre and piped edges, lying flat on the rug on the near side of the coffee table, directly opposite the middle of the sofa, so a person sitting on it would face the sofa across the table. Show it in every panel where that spot is in view, consistently placed and identical in each. Change nothing else. Completely empty of people. Framed posters show only abstract images, no readable text. Real photography, true-to-life colour, subtle film grain, natural imperfections, believable and lived-in, not a render, not a cartoon. No people, no hands, no watermark. ",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae3eae/b-91JdAHxE9H0KeJpfR7R_living-room-34-bluehour-v1.png"
+  ]
+ }
+}

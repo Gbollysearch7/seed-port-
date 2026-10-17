@@ -1,0 +1,22 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/edit",
+ "request_id": "01a1364e-1545-7680-9622-9af8cf27bde7",
+ "refs": [
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/bolly-logo-on-turmeric.png",
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/ref-bag-design.png"
+ ],
+ "input": {
+  "prompt": "ONE photorealistic PRODUCTION REFERENCE SHEET, horizontal 16:9, split into THREE equal vertical panels side by side with thin white gutters, all three showing the SAME object or place with identical design, materials and colours. BRAND: Bolly Eats, a cheeky Indian food delivery brand. Colours: masala maroon #5B1A1F, turmeric yellow #F4B400, chilli red #E2462B, rose pink #E8889A, warm cream #FFF4E0. The logo is EXACTLY as in image 1: three wavy steam lines above the lowercase words 'bolly eats.' in a heavy rounded grotesque, spelled b-o-l-l-y e-a-t-s with the full stop. Reproduce the logo exactly, never invent other text. THE ASSET: the Bolly Eats paper delivery bag, built EXACTLY to the design in image 2: heavy kraft-board bag, turmeric-yellow #F4B400 front with the logo, 'Food with drama.' under it and a masala-maroon band at the bottom reading 'HOT \u00b7 FAST \u00b7 FILMI'; masala-maroon gusset sides with 'bolly eats.' running vertically; masala-maroon back reading 'Every meal deserves an entrance.' with a cream round 'sealed for' sticker; twisted brown kraft paper handles. The bag is full and heavy, the top folded and closed with a small turmeric sticker. PANEL 1 (left): one bag front view, standing on a wooden floor. PANEL 2 (middle): the same bag back view. PANEL 3 (right): TWO full bags side by side on a doorstep doormat outside a deep-green apartment door, three-quarter view. Copy the text from image 2 exactly. Real photography, true-to-life colour, subtle film grain, natural imperfections, believable and lived-in, not a render, not a cartoon. No people, no hands, no watermark. ",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae3dcc/WYifam7PyMv5yicuasFIu_bolly-logo-on-turmeric.png",
+   "https://v3b.fal.media/files/b/0aae3dcc/rsS_ckPU-ZcFHihWAXG7X_ref-bag-design.png"
+  ]
+ }
+}

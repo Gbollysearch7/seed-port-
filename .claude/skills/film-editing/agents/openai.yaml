@@ -1,0 +1,4 @@
+interface:
+  display_name: "Film Editing"
+  short_description: "Shape cinematic cuts, pacing and seamless joins"
+  default_prompt: "Use $film-editing to plan or refine this sequence's cuts, audio bridges, pacing and continuity while preserving its story and performances."

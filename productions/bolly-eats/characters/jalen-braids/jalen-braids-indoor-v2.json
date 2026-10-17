@@ -1,0 +1,18 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/edit",
+ "request_id": "01a13664-7abc-7452-814d-2ca0a38c80a2",
+ "source": "jalen-braids-sheet-v1.png",
+ "input": {
+  "prompt": "Recreate image 1 EXACTLY: the same person with the identical face, skin, hair, piercings, jewellery and nails, the same three-panel layout, the same light-grey studio backdrop, lighting, framing and poses. ONE CHANGE ONLY, the INDOOR LOOK for a night in at a friend's apartment: the red leather bomber jacket and the crossbody sling bag are removed. He wears the same faded oversized black graphic tee with the abstract cracked print, now fully visible with the sleeves showing his forearms, the same baggy light-wash carpenter jeans, white crew socks and the same chunky grey-and-cream sneakers. Piercings: exactly ONE silver bar in his right eyebrow only, the left eyebrow has no piercing, in every panel. No text, no captions, no logos, no watermark.",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae3e5f/wmCjePnukakc7sOTdW0dX_jalen-braids-sheet-v1.png"
+  ]
+ }
+}

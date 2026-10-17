@@ -1,0 +1,19 @@
+{
+ "endpoint": "google/nano-banana-2.1/edit",
+ "request_id": "01a144ec-a538-72a3-a51a-6cc74e6e5ff4",
+ "refs": [
+  "../bolly-eats/brand/bolly-logo-on-turmeric.png",
+  "../bolly-eats/assets/brand-packaging-grey-v1.png"
+ ],
+ "input": {
+  "prompt": "Create ONE photoreal 16:9 product reference sheet of the Bolly Eats burger box and fries carton, split into THREE equal vertical panels side by side with thin white gutters, the same seamless warm light-grey studio background, soft even 5600K studio light and gentle contact shadows in every panel. Match the print style, paperboard texture and colours of the packaging in image 2. THE BURGER BOX: a sturdy clamshell burger box with a hinged lid and a tuck-in front tab, matte turmeric yellow #F4B400 paperboard, a thin masala maroon #5B1A1F line around the lid edge, and the logo exactly as in image 1 printed in masala maroon on the lid: three wavy steam lines above the lowercase words 'bolly eats.' with the full stop, spelled exactly. THE FRIES CARTON: a classic tall scoop fries carton in the same turmeric paperboard with the same maroon logo on the front, filled with golden straight-cut fries. PANEL 1 (left): the burger box closed with the fries carton beside it, three-quarter view, both logos readable. PANEL 2 (middle): the burger box open showing a juicy smash burger inside (toasted brioche bun, two smashed patties, melted cheese, lettuce), the full fries carton beside it. PANEL 3 (right): the closed burger box from directly above, lid logo centred. Identical box, carton, colours and logo in every panel. No other text, no other brands, no people, no hands.",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae9d9b/X48LA9U4G4cmVsydyctY__bolly-logo-on-turmeric.png",
+   "https://v3b.fal.media/files/b/0aae9d9c/CxwdMJy_Dbk-2nrAg8L21_brand-packaging-grey-v1.png"
+  ],
+  "resolution": "2K",
+  "aspect_ratio": "16:9",
+  "output_format": "jpeg",
+  "num_images": 1
+ }
+}

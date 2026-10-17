@@ -1,0 +1,18 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/edit",
+ "request_id": "01a13664-7a9e-76c1-b3fa-fc591db7420d",
+ "source": "priya-gloss-sheet-v1.png",
+ "input": {
+  "prompt": "Recreate image 1 EXACTLY: the same person with the identical face, skin, hair, piercings, jewellery and nails, the same three-panel layout, the same light-grey studio backdrop, lighting, framing and poses. ONE CHANGE ONLY, the INDOOR LOOK for a night in at a friend's apartment: the mustard-yellow suede jacket and the black shoulder bag are removed. She wears the same fitted black ribbed cropped halter top, now fully visible with her bare shoulders and arms and gold bangles, the same low-rise khaki parachute cargo pants with toggle hems and the same white chunky sneakers. No text, no captions, no logos, no watermark.",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae3e5f/VhyijmZVfwa32733jdvyA_priya-gloss-sheet-v1.png"
+  ]
+ }
+}

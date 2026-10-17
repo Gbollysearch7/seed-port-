@@ -1,0 +1,20 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/edit",
+ "request_id": "01a1364e-11b8-7ae3-aaa6-a4696a6173c8",
+ "refs": [
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/bolly-logo-on-turmeric.png"
+ ],
+ "input": {
+  "prompt": "ONE photorealistic PRODUCTION REFERENCE SHEET, horizontal 16:9, split into THREE equal vertical panels side by side with thin white gutters, all three showing the SAME object or place with identical design, materials and colours. BRAND: Bolly Eats, a cheeky Indian food delivery brand. Colours: masala maroon #5B1A1F, turmeric yellow #F4B400, chilli red #E2462B, rose pink #E8889A, warm cream #FFF4E0. The logo is EXACTLY as in image 1: three wavy steam lines above the lowercase words 'bolly eats.' in a heavy rounded grotesque, spelled b-o-l-l-y e-a-t-s with the full stop. Reproduce the logo exactly, never invent other text. THE PROP, the hero of the film: an open Bolly Eats takeaway fries box, a sturdy turmeric-yellow #F4B400 paperboard scoop box with the masala-maroon logo from image 1 printed on the front, lightly grease-spotted and slightly crumpled from being passed around. It is ALMOST EMPTY: just a few crumbs of red masala seasoning on the bottom and ONE single golden crinkle-cut masala fry left, dusted with red chilli spice, lying alone inside. Sitting on a warm oak coffee table. PANEL 1 (left): front three-quarter view at table height, logo readable. PANEL 2 (middle): looking straight down into the box, the lone fry sharp in focus. PANEL 3 (right): extreme close-up macro of the single fry with its spice texture, shallow depth of field. Moody warm evening lamp light. Real photography, true-to-life colour, subtle film grain, natural imperfections, believable and lived-in, not a render, not a cartoon. No people, no hands, no watermark. ",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae3dcc/3mAIxkEQKZTUTm-CP9h3a_bolly-logo-on-turmeric.png"
+  ]
+ }
+}

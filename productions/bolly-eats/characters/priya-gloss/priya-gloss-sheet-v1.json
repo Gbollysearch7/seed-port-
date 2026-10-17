@@ -1,0 +1,14 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+ "request_id": "01a1364e-0d83-7312-b04d-8b513e74217a",
+ "input": {
+  "prompt": "ONE photorealistic CHARACTER REFERENCE SHEET, horizontal 16:9, split into THREE equal vertical panels side by side, separated by thin white gutters, all three showing the SAME person with an identical face, hair, skin, piercings and outfit. Every panel uses the same plain light-grey seamless studio backdrop and the same soft, even key light with a gentle fill, true-to-life skin tones. PANEL 1 (left): front-facing head-and-shoulders close-up portrait, looking straight into the lens, neutral relaxed expression, sharp detail on eyes, skin texture and every piercing. PANEL 2 (middle): three-quarter view head-and-shoulders close-up turned to the left, showing the hair from the side and back plus the ear and facial piercings clearly. PANEL 3 (right): FULL-LENGTH OUTFIT panel, the whole body head to toe, standing naturally facing camera, feet and shoes fully visible inside the frame, so every garment, layer, accessory and the footwear read clearly. Real photography, 85mm lens for the close-ups and 50mm for the full length, subtle film grain, natural skin with pores and slight imperfections, not airbrushed, not a render, not a cartoon. No text, no captions, no labels, no numbers, no logos or brand names on any clothing, no watermark. THE CHARACTER: Priya, a 29-year-old Indian-American woman from Jackson Heights, Queens, New York, a young millennial with warm, sharp-witted pop energy and a wide, mischievous grin. Medium-brown skin with a natural glow, strong arched brows, glossy brown lips, soft bronze shimmer on the lids, a tiny gold bindi-style face gem between the brows. HAIR: long, glossy jet-black hair with chunky money-piece face-framing streaks dyed bright cherry red, worn in a high sleek ponytail with two loose front strands. PIERCINGS: a small gold hoop in the left nostril, a gold septum clicker, gold huggie hoops and studs stacked up both ears including a gold chain cuff on the right helix. JEWELLERY: layered thin gold necklaces, a stack of thin gold bangles on one wrist, gold rings, short square nails in glossy cherry red. OUTFIT (downtown New York street style, 2026): an oversized vintage mustard-yellow suede trucker jacket worn open, a fitted black ribbed cropped halter top, low-rise khaki parachute cargo pants with toggle hems, white chunky leather sneakers, a small black leather baguette bag on a short strap.",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png"
+ }
+}

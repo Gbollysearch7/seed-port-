@@ -1,0 +1,15 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+ "request_id": "01a13696-a732-70f1-800e-9a966bfd3fee",
+ "refs": [],
+ "input": {
+  "prompt": "ONE photorealistic PRODUCTION REFERENCE SHEET, horizontal 16:9, split into THREE equal vertical panels side by side with thin white gutters, all three showing the SAME object or place with identical design, materials and colours. STUDIO: every panel on the same plain light-grey seamless studio backdrop and grey floor, soft even key light with a gentle fill and a soft contact shadow, product-catalogue clarity, nothing else in frame. THE CHARACTER: the apartment's cat, a chunky, confident ginger tabby with bold orange-and-cream stripes, a white chest and white front paws, bright green eyes, a slightly smug expression and long white whiskers. A real domestic cat, healthy and well-fed, natural fur texture. PANEL 1 (left): sitting upright facing camera. PANEL 2 (middle): side profile standing, full body and tail visible. PANEL 3 (right): crouched low, nose forward, sniffing something on the floor. Real photography, true-to-life colour, subtle film grain, natural imperfections, believable and lived-in, not a render, not a cartoon. No people, no hands, no collar, no watermark. ",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png"
+ }
+}

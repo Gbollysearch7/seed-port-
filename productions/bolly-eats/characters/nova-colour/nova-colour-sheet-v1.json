@@ -1,0 +1,14 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+ "request_id": "01a13643-7f15-7420-96e7-b98eb5d63180",
+ "input": {
+  "prompt": "ONE photorealistic CHARACTER REFERENCE SHEET, horizontal 16:9, split into THREE equal vertical panels side by side, separated by thin white gutters, all three showing the SAME person with an identical face, hair, skin, piercings and outfit. Every panel uses the same plain light-grey seamless studio backdrop and the same soft, even key light with a gentle fill, true-to-life skin tones. PANEL 1 (left): front-facing head-and-shoulders close-up portrait, looking straight into the lens, neutral relaxed expression, sharp detail on eyes, skin texture and every piercing. PANEL 2 (middle): three-quarter view head-and-shoulders close-up turned to the left, showing the hair from the side and back plus the ear and facial piercings clearly. PANEL 3 (right): FULL-LENGTH OUTFIT panel, the whole body head to toe, standing naturally facing camera, feet and shoes fully visible inside the frame, so every garment, layer, accessory and the footwear read clearly. Real photography, 85mm lens for the close-ups and 50mm for the full length, subtle film grain, natural skin with pores and slight imperfections, not airbrushed, not a render, not a cartoon. No text, no captions, no labels, no numbers, no logos or brand names on any clothing, no watermark. THE CHARACTER: Nova, a 27-year-old mixed-race (Black and Puerto Rican) woman from the Lower East Side, New York, a young millennial with bold pop-star attitude, a knowing smirk and bright eyes. Warm golden-brown skin with natural freckles across the nose, full brows, glossy lips, a sharp graphic electric-blue winged eyeliner. HAIR: vivid two-tone dyed hair, hot bubblegum pink at the crown blending into lilac-lavender lengths, chin-length shaggy wolf cut with curtain bangs, soft natural texture, dark roots just showing. PIERCINGS: a silver septum ring, a silver labret stud under the lower lip, a silver ring in the left eyebrow, both ears filled with silver hoops and studs including an industrial bar across the upper right ear and a conch hoop. JEWELLERY: a silver choker chain with a tiny padlock, layered thin silver necklaces, stacked silver rings, long almond nails in chrome lilac. OUTFIT (downtown New York street style, 2026): a cropped black leather moto jacket with silver zips worn open, over a fitted cropped baby tee in pastel baby-pink with a small abstract heart graphic (no words), a low-slung pair of very wide-leg dark indigo baggy jeans with a silver studded belt, black chunky platform boots, a tiny lilac quilted shoulder bag on a silver chain strap, tinted lilac oval sunglasses pushed up into her hair in the full-length panel only.",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png"
+ }
+}

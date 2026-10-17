@@ -1,0 +1,24 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/edit",
+ "request_id": "01a1364e-1672-7893-b639-3e1e3491456e",
+ "refs": [
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/bolly-logo-on-turmeric.png",
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/ref-shake-carrier-design.png",
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/ref-shake-cups-design.png"
+ ],
+ "input": {
+  "prompt": "ONE photorealistic PRODUCTION REFERENCE SHEET, horizontal 16:9, split into THREE equal vertical panels side by side with thin white gutters, all three showing the SAME object or place with identical design, materials and colours. BRAND: Bolly Eats, a cheeky Indian food delivery brand. Colours: masala maroon #5B1A1F, turmeric yellow #F4B400, chilli red #E2462B, rose pink #E8889A, warm cream #FFF4E0. The logo is EXACTLY as in image 1: three wavy steam lines above the lowercase words 'bolly eats.' in a heavy rounded grotesque, spelled b-o-l-l-y e-a-t-s with the full stop. Reproduce the logo exactly, never invent other text. THE ASSET: a delivered Bolly Eats feast to share, spread across a chunky oak coffee table. Several open takeaway containers: masala-maroon #5B1A1F and turmeric-yellow #F4B400 paperboard boxes and bowls, each with the logo from image 1, holding rich, steaming, glossy, appetising Indian food: a bowl of orange butter chicken with a swirl of cream and coriander, a box of fluffy saffron lamb biryani with fried onions and a lemon wedge, four golden crispy samosas with green chutney and tamarind dips, blistered garlic naan torn open in a paper sleeve, a full box of crinkle-cut masala fries dusted with red chilli spice. The two milkshakes stand in the shake carrier from image 2, cups built exactly like image 3: a turmeric mango masala shake and a rose falooda shake, clear dome lids, wide straws. Steam rising, condensation on the cups, a few napkins, the empty fold-down paper bag to one side. PANEL 1 (left): overhead top-down 'everything on the table' hero view of the whole feast. PANEL 2 (middle): low three-quarter table-level view, food in the foreground with an empty oatmeal sofa and cushions softly out of focus behind. PANEL 3 (right): close-up of the butter chicken and torn naan, sauce glossy, steam visible. Warm evening lamp light, mouth-watering food-commercial styling but natural, not plastic. Real photography, true-to-life colour, subtle film grain, natural imperfections, believable and lived-in, not a render, not a cartoon. No people, no hands, no watermark. ",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae3dcc/qjqtLQSUUNreLzm8qLfts_bolly-logo-on-turmeric.png",
+   "https://v3b.fal.media/files/b/0aae3dcc/cpQUE9WxAZDvxJ5T_7xdK_ref-shake-carrier-design.png",
+   "https://v3b.fal.media/files/b/0aae3dcc/jui1TAqFgHKII16laWBdE_ref-shake-cups-design.png"
+  ]
+ }
+}

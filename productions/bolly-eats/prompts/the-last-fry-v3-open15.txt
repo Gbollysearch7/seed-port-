@@ -1,0 +1,55 @@
+BOLLY EATS · THE LAST FRY · v3 OPENING · THE POLITE OFFER TO THE STOMACH GROWL
+Seedance 2.5 reference-to-video · 480p · 16:9 · 15 s · ~$2.01
+Story change from v2: the polite offer starts the fight and the CAT eats the fry, so v2's S10 ending (Priya eats it) is void.
+
+REFERENCE FILES (upload in this order):
+  @Image1  assets/living-room-master-16x9-v1.png
+  @Image2  assets/living-room-34-bluehour-cushion-v1.png
+  @Image3  characters/jalen-braids/jalen-braids-indoor-v2.png
+  @Image4  characters/theo-bleach/theo-bleach-indoor-v2.png
+  @Image5  characters/nova-colour/nova-colour-indoor-v2.png
+  @Image6  characters/priya-gloss/priya-gloss-indoor-v2.png
+  @Image7  assets/fry-box-plain-grey-v1.png
+  @Image8  assets/cat-grey-v1.png
+
+PROMPT:
+[REFERENCES]
+@Image1 = the living room master view: geometry, furniture, blue-hour light.
+@Image2 = the same living room from three other three-quarter angles.
+@Image3 = Jalen: face, braids, piercings, indoor outfit.
+@Image4 = Theo: face, platinum hair, piercings, indoor outfit.
+@Image5 = Nova: face, pink-lilac hair, piercings, indoor outfit.
+@Image6 = Priya: face, ponytail with red streaks, gold piercings, indoor outfit.
+@Image7 = the original plain white takeaway box with a thin red stripe and ONE straight-cut fry.
+@Image8 = the apartment's cat: a chunky ginger tabby with a white chest and white paws.
+Use each character sheet as identity only: one person per sheet, in one single continuous scene.
+
+[CHARACTERS]
+@Image3: Jalen, Black man, 28: shoulder-length box braids with honey-blonde ends tied half-up in a top knot, short beard, silver nose hoop, lip ring, eyebrow bar and stacked ear hoops, layered silver chains, black nail polish; faded oversized black graphic tee with a grey cracked print, baggy light-wash carpenter jeans, chunky grey-and-cream sneakers.
+@Image4: Theo, Korean-American man, 27: messy bleached platinum crop with dark roots, silver bridge bar between the eyes, eyebrow ring, two studs under the lower lip, silver hoops and a cross earring, ball-chain dog tag; open forest-green chunky cardigan over a white ribbed tank, baggy black denim jorts, white knee socks with green stripes, black chunky loafers.
+@Image5: Nova, mixed-race woman, 27: shaggy pink-to-lilac wolf cut with curtain bangs and dark roots, freckles, electric-blue winged liner, silver septum ring, labret stud, eyebrow ring and ear hoops, silver padlock choker; cropped baby-pink tee with a pink heart, very wide dark indigo jeans with a silver studded belt, black platform boots.
+@Image6: Priya, Indian-American woman, 29: long black hair in a high sleek ponytail with cherry-red face-framing streaks, gold septum ring, nose hoop and ear stack with a chain cuff, tiny gold forehead gem, layered gold necklaces and bangles; black ribbed cropped halter top, khaki parachute cargo pants, white chunky sneakers.
+Exactly 4 people in frame: Jalen, Theo, Nova, Priya.
+
+[LOOK]
+Photoreal live-action comedy commercial, 16:9. Brooklyn walk-up living room exactly as @Image1 and @Image2: exposed brick, black sash windows with fire escape, worn oak floor, patterned red-and-navy rug, oatmeal boucle sofa with mustard, rose, black-and-white checkered and red kilim cushions and a cream knit throw, chunky reclaimed-oak coffee table, brown leather armchair, round rust-velvet floor cushion, plants, string lights, framed posters. BLUE HOUR, about 7:30 pm, the same in every shot: deep cobalt dusk and the lit Manhattan skyline through the windows, warm 2700K table lamps, string lights and a candle inside, warm-and-cool contrast. Fine natural grain, soft halation on practicals, real skin texture. The friends play a silly fight over one fry with total action-movie seriousness, and nobody speaks.
+
+[BLOCKING]
+Fixed for the whole film. Jalen sits on the LEFT end of the oatmeal boucle sofa. Nova SITS on the RIGHT end of the sofa, she never stands. Theo sits cross-legged ON THE ROUND RUST-VELVET FLOOR CUSHION on the near side of the coffee table, facing the sofa and facing Jalen across the table; Theo is NEVER on the sofa. Priya sits apart in the brown leather armchair in the front-left corner by the windows. The plain white fry box is on the coffee table between them. The green front door is at the back right, down the short hallway.
+
+[TIMELINE]
+Six shots joined by hard cuts, one continuous scene, no time jumps.
+0-3 s, THE POLITE OFFER: static wide master from the window corner. Dinner is over: a few crumpled napkins on the coffee table. Theo, on the floor cushion, slides the plain white fry box (@Image7) with its ONE straight-cut fry into the middle of the table and opens both palms: anyone? Jalen, Nova and Priya each raise a hand and politely wave it away with gracious smiles. A beat of awkward stillness.
+3-5 s, THE GRAB: close shot over the table. Jalen's ringed right hand darts at the box; Theo's hand clamps Jalen's wrist an inch from the fry. Cut to the two of them locking eyes across the table, deadly serious.
+5-7 s, IT GETS AWAY: medium shot. Nova lunges from her seat on the right of the sofa and stretches for the box; just as her fingertips arrive, Theo slides the box away across the tabletop and she grabs empty air.
+7-10 s, PILLOW WAR: handheld wide. Total chaos: Jalen swings the black-and-white checkered cushion at Theo, Theo blocks with the mustard cushion, Nova hurls the rose cushion, cushions bounce and fly. Priya, in the armchair, leans calmly out of the way of a stray cushion without looking up. The fry box stays upright on the table, the fry still inside.
+10-12.5 s, THE CAT: low table-level shot. The ginger tabby cat (@Image8) hops up onto the coffee table, strolls to the box, sniffs, takes the single fry in its mouth and eats it. In the background the three fighters freeze mid-swing; a cushion drops to the floor.
+12.5-15 s, THE GROWL: static wide master again. Total stillness. All four stare at the cat as it licks its lips and sits down smugly on the table next to the empty box. A long, loud stomach growl; the friends slowly look down at their bellies, then at each other.
+
+[CAMERA]
+Cuts at 3, 5, 7, 10 and 12.5 s. Every angle is from the window side of the room. Both wide shots match the framing of the room reference @Image1. Close and table-level shots use 35-50mm with shallow depth of field.
+
+[AUDIO]
+Room tone; a paper slide; a sharp wrist-grab; a squeak of the box sliding away; cushion whooshes, thumps and sofa springs; a soft cat landing and tiny crunch; dead silence; then one long, loud stomach growl. Sound design only, no music, no voices.
+
+NEGATIVE: no dialogue, no talking, no lip movement as speech; no music; no on-screen text, captions, subtitles, chat bubbles, title cards or UI overlays; no split screen, no collage, no multi-panel layout, never show the reference sheets themselves; no extra people, no duplicate characters, nobody else enters; no jackets, coats, bags or sunglasses on the cast; no daylight, no sunset sun, no golden-hour sunlight; no McDonald's or any other real fast-food brand, no golden arches, no logos except the lowercase 'bolly eats.' marks exactly as referenced; the original fry box stays plain and unbranded; faces, skin tones, hair colours and outfits never change from the references. No magazines, books or printed paper with writing on the table. The only food on screen is the single fry; the cat is the only animal.

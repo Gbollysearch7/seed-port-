@@ -1,0 +1,75 @@
+{
+  "project": "Bolly Eats — The Last Fry",
+  "version": "v1",
+  "generation_mode": "Built-in image_gen",
+  "palette": {
+    "orange": "#FF5A1F",
+    "cream": "#FFF4E6",
+    "charcoal": "#202020"
+  },
+  "assets": [
+    {
+      "asset": "logo",
+      "filename": "bolly-eats-logo-v1.png",
+      "transparent_background": true,
+      "reference_images": [],
+      "prompt": "Use case: logo-brand.\nAsset type: master raster brand logo for the fictional food delivery service Bolly Eats.\nPrimary request: one clean original horizontal logo on a genuinely transparent background. Brand direction: fictional food-delivery service BOLLY EATS. Palette: appetite orange #FF5A1F, warm cream #FFF4E6, charcoal #202020. Clean bold rounded typography, friendly confident personality. All brand text spelled BOLLY EATS exactly. No invented discounts, prices, delivery-time guarantees or real-company logos.\nSubject: on the left a simple flat orange rounded takeaway paper-bag icon with a handle and one bold warm-cream capital B centred inside; to its right a large charcoal bold rounded sans-serif wordmark in two tightly spaced lines: BOLLY above EATS. Strong legibility at small scale. Icon and wordmark together form ONE unified logo. Visually balanced spacing, crisp edges, ample transparent margin.\nText verbatim: \"BOLLY\" and \"EATS\". No slogan.\nConstraints: flat two-dimensional logo artwork only, true transparent alpha background, no scene, no mockup, no gradients, no bevel, no lighting, no drop shadow, no watermark, no additional text, no variations sheet, no border."
+    },
+    {
+      "asset": "living-room",
+      "filename": "living-room-reference-v1.png",
+      "transparent_background": false,
+      "reference_images": [],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: empty film-location reference for a thirty-second comedic food-delivery ad \"The Last Fry\".\nPrimary request: one cinematic photorealistic wide 16:9 establishing view of a contemporary modest stylish living room for four adult friends to hang out and stage exaggerated cushion slapstick.\nScene: a large muted teal fabric three-seat sofa along the rear wall, four loose cream and mustard cushions; a low rectangular rounded-corner oak coffee table in the foreground, one matching comfy armchair on the left, enough clear floor around table and sofa for action. An apartment entrance door is clearly visible on the right wall with a short unobstructed route to the coffee table. Low-pile neutral rug, a floor lamp, one plant, discreet unbranded decor. Warm late-afternoon sunlight and soft warm practical lighting, inviting lived-in textures.\nComposition: room geography clear in a single image, all seating, table and entrance door visible. Viewer at seated eye level, natural proportions, useful floor space, crisp cinematic photographic detail.\nConstraints: exactly one realistic apartment room, no people, no food, no takeaway boxes, no phones, no logos, no words, no collage, no exaggerated mansion, no kitchen in shot, no blocked door, no clutter on the coffee table, no watermark."
+    },
+    {
+      "asset": "packaging",
+      "filename": "bolly-eats-packaging-v1.png",
+      "transparent_background": false,
+      "reference_images": [
+        "bolly-eats-logo-v1.png"
+      ],
+      "prompt": "Use case: product-mockup.\nAsset type: canonical branded delivery packaging reference.\nInput image 1: exact master BOLLY EATS logo to reproduce, not a scene to edit.\nPrimary request: a polished photorealistic product photograph showing ONE coherent packaging system for Bolly Eats. Brand direction: fictional food-delivery service BOLLY EATS. Palette: appetite orange #FF5A1F, warm cream #FFF4E6, charcoal #202020. Clean bold rounded typography, friendly confident personality. All brand text spelled BOLLY EATS exactly. No invented discounts, prices, delivery-time guarantees or real-company logos.\nScene: warm cream seamless studio surface with soft grounded shadows.\nSubjects: two upright orange matte paper carry bags with twisted cream paper handles; three food-safe clamshell takeaway boxes with warm cream bases and orange hinged lids, one closed box, one partly open EMPTY box revealing clean cream interior, one closed smaller box; a neat stack of orange napkins. Carry bags and outward-facing box lids carry the identical reference logo, charcoal wordmark and the orange-and-cream B bag icon on a small warm-cream printed panel so the icon remains visible on orange packaging.\nComposition: generous landscape 3:2 frame, full objects not cropped, readable front surfaces, one arranged product group, premium everyday delivery-service materials, physical folds and construction accurate.\nConstraints: reproduce reference logo exactly; every box shares the same design and materials; no food, no people, no hands, no extra words, no slogans, no prices, no annotations, no watermarks. Not a contact sheet or collage."
+    },
+    {
+      "asset": "last-fry",
+      "filename": "last-fry-prop-v1.png",
+      "transparent_background": false,
+      "reference_images": [
+        "bolly-eats-logo-v1.png",
+        "bolly-eats-packaging-v1.png",
+        "living-room-reference-v1.png"
+      ],
+      "prompt": "Use case: product-mockup.\nAsset type: hero prop reference for \"The Last Fry\".\nInput image 1: master brand logo. Input image 2: canonical Bolly Eats packaging; preserve the cream-base orange-lid clamshell design.\nPrimary request: a cinematic realistic three-quarter overhead close-up of ONE open Bolly Eats takeaway clamshell on a neutral oak tabletop. The box contains EXACTLY ONE whole golden crispy French fry, about 7cm long, alone in the centre of the cream interior. Tiny salt grains and a faint grease mark imply the rest was eaten, but NO other food pieces. Hinged orange lid open behind the box, the exterior lid carries the reference logo, but that exterior print may be hidden from this inside-facing view; the inside of the lid is unprinted cream fibre, box construction physically plausible.\nBrand direction: fictional food-delivery service BOLLY EATS. Palette: appetite orange #FF5A1F, warm cream #FFF4E6, charcoal #202020. Clean bold rounded typography, friendly confident personality. All brand text spelled BOLLY EATS exactly. No invented discounts, prices, delivery-time guarantees or real-company logos.\nMood: absurdly precious, like a prized object in a tense action movie, attractive warm golden light, detailed crisp fry texture, gentle background falloff while fry and box are clearly resolved.\nComposition: landscape 3:2, entire box and lid within frame, fry prominently readable, box modestly sized for one meal.\nConstraints: exactly one fry, one box, no ketchup, no sauce, no crumbs shaped like fries, no hands, no people, no cutlery, no extra text, no collage, no watermark.\nInput image 3: living-room location reference. Use its rounded oak coffee table; retain the same muted teal sofa, warm cream and mustard cushions, and warm daylight where background is visible. Do not redesign the room."
+    },
+    {
+      "asset": "feast",
+      "filename": "bolly-eats-delivered-feast-v1.png",
+      "transparent_background": false,
+      "reference_images": [
+        "bolly-eats-logo-v1.png",
+        "bolly-eats-packaging-v1.png",
+        "living-room-reference-v1.png"
+      ],
+      "prompt": "Use case: product-mockup.\nAsset type: mouth-watering delivered-food hero reference for the peace-restoring reveal in \"The Last Fry\".\nInput image 1: exact master logo. Input image 2: canonical packaging system.\nPrimary request: a premium photorealistic warm food photograph of a generous but believable takeaway dinner for FOUR friends on a low oak coffee table. Brand direction: fictional food-delivery service BOLLY EATS. Palette: appetite orange #FF5A1F, warm cream #FFF4E6, charcoal #202020. Clean bold rounded typography, friendly confident personality. All brand text spelled BOLLY EATS exactly. No invented discounts, prices, delivery-time guarantees or real-company logos.\nSubjects: FOUR cream-base orange-lid meal boxes, all using the exact reference design, lids open and physically attached. Four clearly distinguishable main portions total: two juicy burgers in two separate boxes, one crispy chicken sandwich in a third, and a neatly cut grilled vegetable wrap in the fourth, each accompanied by golden fries. Three small sauce cups on the table. Two branded orange paper delivery bags upright behind the meal boxes. Visible box logos and bag logos reproduce reference. No additional main portions.\nScene: inviting contemporary living room, softly blurred muted teal sofa and cream cushions in background. Warm appetising late-afternoon light, realistic fresh ingredients, food remains inside the open delivery boxes, physical surfaces and shadows believable.\nComposition: landscape 16:9, close enough to savour the food but all four boxes readable, branded bags fully visible, clean naturally abundant arrangement.\nConstraints: no people, no hands, no plates, no drinks, no labels, no price, no discounts, no extra text, no exaggerated smoke, no watermarks. Not a collage.\nInput image 3: living-room location reference. Use its rounded oak coffee table; retain the same muted teal sofa, warm cream and mustard cushions, and warm daylight where background is visible. Do not redesign the room."
+    },
+    {
+      "asset": "phone-order",
+      "filename": "bolly-eats-order-confirmation-v1.png",
+      "transparent_background": false,
+      "reference_images": [
+        "bolly-eats-logo-v1.png"
+      ],
+      "prompt": "Use case: ui-mockup.\nAsset type: fictional order-confirmation screen for a smartphone insert in a thirty-second Bolly Eats ad.\nInput image 1: canonical master BOLLY EATS logo.\nPrimary request: create a premium clean portrait product image of ONE modern generic black smartphone standing front-on, screen fully visible, on a warm cream seamless background. No hands. Brand direction: fictional food-delivery service BOLLY EATS. Palette: appetite orange #FF5A1F, warm cream #FFF4E6, charcoal #202020. Clean bold rounded typography, friendly confident personality. All brand text spelled BOLLY EATS exactly. No invented discounts, prices, delivery-time guarantees or real-company logos.\nScreen design: warm-cream background, exact reference logo at top, large orange check mark in a circle, bold charcoal heading \"Order confirmed\", supporting sentence \"Your feast is on its way.\", a simple tasteful illustration of two orange takeaway bags and four cream-and-orange boxes matching this visual brand. Bottom has one small rounded orange button reading \"Back to menu\". Use generous spacing, large readable type, minimal UI, no tiny text. The phone's physical frame has no manufacturer logo.\nText verbatim ONLY: \"BOLLY EATS\" within the supplied logo; \"Order confirmed\"; \"Your feast is on its way.\"; \"Back to menu\".\nConstraints: no delivery ETA, no price, no map, no address, no personal data, no notifications, no app store badge, no invented real service integration. It is a fictional ad graphic. No extra words, no duplicate phones, no perspective skew, no watermark."
+    },
+    {
+      "asset": "end-card",
+      "filename": "bolly-eats-end-card-v1.png",
+      "transparent_background": false,
+      "reference_images": [
+        "bolly-eats-logo-v1.png"
+      ],
+      "prompt": "Use case: ads-marketing.\nAsset type: finished landscape 16:9 closing brand card for the fictional thirty-second food-delivery ad \"The Last Fry\".\nInput image 1: exact master logo.\nPrimary request: a clean bold highly legible flat graphic closing frame. Brand direction: fictional food-delivery service BOLLY EATS. Palette: appetite orange #FF5A1F, warm cream #FFF4E6, charcoal #202020. Clean bold rounded typography, friendly confident personality. All brand text spelled BOLLY EATS exactly. No invented discounts, prices, delivery-time guarantees or real-company logos.\nComposition: solid appetite-orange background; one generous warm-cream rounded rectangular panel centred in the upper middle contains the EXACT supplied master logo unchanged, charcoal wordmark with the orange bag/B icon; below it large warm-cream rounded bold type reads \"Peace, delivered.\" Under that smaller warm-cream text reads \"Order with Bolly Eats.\" Strong centre alignment, generous negative space, all elements safely inset from frame edges.\nText verbatim: supplied \"BOLLY EATS\" logo; \"Peace, delivered.\"; \"Order with Bolly Eats.\"\nConstraints: one logo only, reproduce reference precisely, no food photography, no extra icons, no URL, no QR code, no app store badges, no prices, no small print, no border, no mockup, no texture, no watermark. Crisp final graphic, not a concept board."
+    }
+  ]
+}

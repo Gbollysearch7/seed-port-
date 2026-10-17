@@ -1,0 +1,19 @@
+{
+ "endpoint": "bytedance/seedream/v5/pro/edit",
+ "request_id": "01a144c5-7859-7363-b6da-75420b0624d5",
+ "refs": [
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats-seedream/props/cargo-ebike-pink-box-sheet.jpg",
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/bolly-logo-on-turmeric.png"
+ ],
+ "input": {
+  "prompt": "Restyle the delivery e-bike from image 1. Keep EXACTLY the same bike: black step-through urban e-bike, matte frame, black tyres, battery in the down tube, a moulded rear crate over the back wheel with a black elastic cargo strap across the top. BOLLY EATS BRAND COLOURS, replacing every raspberry pink and plum from the original: masala maroon #5B1A1F, turmeric yellow #F4B400, warm cream #FFF4E0, with chilli red #E2462B only as a thin accent. NO raspberry, NO hot pink, NO purple anywhere. LOGO exactly as in the logo images: three short wavy steam lines above the lowercase words 'bolly eats.' in a heavy rounded grotesque, spelled b-o-l-l-y e-a-t-s with the full stop. Reproduce the logo exactly; no other text. Logo as in image 2. NEW COLOURS: the rear crate is turmeric yellow #F4B400 with the masala maroon logo on its back face; a thin masala maroon line along the crate rim. The bike frame stays black. ONE 16:9 reference sheet split into THREE equal vertical panels side by side with thin white gutters, seamless warm light-grey studio background in every panel, soft even 5600K studio light with gentle contact shadows, photoreal, real material texture. Every panel shows the SAME subject with identical proportions, colours and logo. PANEL 1 (left): left side view. PANEL 2 (middle): three-quarter rear view. PANEL 3 (right): straight rear view with the crate logo readable.",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae9c9b/7Lz_OlEM6aZZTbomCppl3_cargo-ebike-pink-box-sheet.jpg",
+   "https://v3b.fal.media/files/b/0aae9c9b/5hgha7eHO6NXlPlgVy48j_bolly-logo-on-turmeric.png"
+  ],
+  "image_size": "auto_2K",
+  "num_images": 1,
+  "output_format": "jpeg",
+  "enhance_prompt_mode": "standard"
+ }
+}

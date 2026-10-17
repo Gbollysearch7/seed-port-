@@ -1,0 +1,21 @@
+{
+ "endpoint": "bytedance/seedream/v5/pro/edit",
+ "request_id": "01a144c5-7b29-78c1-a45d-f6c1cb094f26",
+ "refs": [
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats-seedream/characters/courier-man-purple-jacket-sheet.jpg",
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/bolly-logo-on-turmeric.png",
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/bolly-logo-on-masala.png"
+ ],
+ "input": {
+  "prompt": "Restyle the delivery rider from image 1. Keep EXACTLY the same man: same face, medium brown skin, short tidy black hair with a sharp line-up, light stubble, lean athletic build, friendly relaxed expression. BOLLY EATS BRAND COLOURS, replacing every raspberry pink and plum from the original: masala maroon #5B1A1F, turmeric yellow #F4B400, warm cream #FFF4E0, with chilli red #E2462B only as a thin accent. NO raspberry, NO hot pink, NO purple anywhere. LOGO exactly as in the logo images: three short wavy steam lines above the lowercase words 'bolly eats.' in a heavy rounded grotesque, spelled b-o-l-l-y e-a-t-s with the full stop. Reproduce the logo exactly; no other text. Logos as in images 2 and 3. WARDROBE: masala maroon #5B1A1F waterproof shell jacket with thin turmeric yellow piping along the shoulders, zip and cuffs, a small cream logo on the left chest and a larger turmeric logo across the upper back; black tapered technical trousers, black trainers, fingerless black gloves. HELMET: turmeric yellow cycling helmet with one masala maroon stripe. ONE 16:9 reference sheet split into THREE equal vertical panels side by side with thin white gutters, seamless warm light-grey studio background in every panel, soft even 5600K studio light with gentle contact shadows, photoreal, real material texture. Every panel shows the SAME subject with identical proportions, colours and logo. PANEL 1 (left): neutral front headshot, no helmet. PANEL 2 (middle): three-quarter headshot wearing the helmet with the clip fastened, warm smile. PANEL 3 (right): FULL-LENGTH OUTFIT, head to shoes, standing relaxed facing camera, helmet on, jacket chest logo readable. Pore-level skin texture, natural asymmetry, living eyes with catch-lights.",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae9c9b/xwvDvPk5-rh2MTLgUGOfL_courier-man-purple-jacket-sheet.jpg",
+   "https://v3b.fal.media/files/b/0aae9c9b/SkUrJCo7RsaXIBC8bHwL8_bolly-logo-on-turmeric.png",
+   "https://v3b.fal.media/files/b/0aae9c9b/_zRivigCV07Qtio3D6u3t_bolly-logo-on-masala.png"
+  ],
+  "image_size": "auto_2K",
+  "num_images": 1,
+  "output_format": "jpeg",
+  "enhance_prompt_mode": "standard"
+ }
+}

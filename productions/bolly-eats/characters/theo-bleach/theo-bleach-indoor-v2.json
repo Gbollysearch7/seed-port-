@@ -1,0 +1,18 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/edit",
+ "request_id": "01a13664-7b5a-7ed0-8237-1a37b4e58c91",
+ "source": "theo-bleach-sheet-v1.png",
+ "input": {
+  "prompt": "Recreate image 1 EXACTLY: the same person with the identical face, skin, hair, piercings, jewellery and nails, the same three-panel layout, the same light-grey studio backdrop, lighting, framing and poses. ONE CHANGE ONLY, the INDOOR LOOK for a night in at a friend's apartment: the black tote bag is removed. He keeps the same oversized forest-green knitted cardigan worn open over the white tank top, the same baggy black denim jorts, white knee-high striped tube socks and black chunky loafers. No text, no captions, no logos, no watermark.",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae3e5f/E6xITFPh1ag_sYRtL0xDv_theo-bleach-sheet-v1.png"
+  ]
+ }
+}

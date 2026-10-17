@@ -1,0 +1,20 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/edit",
+ "request_id": "01a13670-7bd5-73c3-862f-18a47698487f",
+ "refs": [
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/assets/living-room-34-bluehour-v1.png"
+ ],
+ "input": {
+  "prompt": "ONE single photorealistic location photograph, NOT a sheet, NO panels, NO gutters, horizontal 16:9 full frame. EXACTLY the same Brooklyn, New York walk-up living room as image 1, same furniture, rug, brick, posters, plants, windows and the same locked BLUE HOUR lighting: deep cobalt dusk and the Manhattan skyline through the windows, warm 2700K lamps, string lights and candle inside. CAMERA: the three-quarter master view of the LEFT panel of image 1, standing eye height from the window corner, 24mm lens, looking diagonally across the coffee table to the sofa, with the short hallway and the deep-green front door visible in the background right, the windows on the left edge of frame. ADD ONE NEW ITEM: a large round floor cushion someone can sit on, about 70 cm across and 20 cm thick, in rust-terracotta velvet with a deep tufted button in the centre and piped edges, lying flat on the rug on the near side of the coffee table, directly opposite the middle of the sofa, so a person sitting on it would face the sofa across the table. The cushion is clearly visible in the foreground right of the coffee table. Completely empty of people. Framed posters show only abstract images, no readable text. Real photography, true-to-life colour, subtle film grain, natural imperfections, believable and lived-in, not a render, not a cartoon. No people, no hands, no watermark. ",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae3eae/FeOaG7mTDWd5j-rqbTISJ_living-room-34-bluehour-v1.png"
+  ]
+ }
+}

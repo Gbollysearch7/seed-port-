@@ -1,0 +1,79 @@
+BOLLY EATS — THE LAST FRY
+CHARACTER AND REFERENCE BIBLE v1
+Status: proposed cast and outfits, not selected for production.
+Confirmed: 30-second food-delivery comedy; four friends compete over the last fry; the quiet friend orders food, settles the chaos and eats the original fry. User requested a diverse cast from different racial backgrounds.
+Proposal: two men and two women, all adults in their late twenties. A casual contemporary living-room hangout. Names are working names. Nationality, location, accents and voices remain open; do not infer them from appearance.
+
+C01 MAX — THE CLAIMER
+Reference: c01-max-v1.png. Black man, apparent age 29.
+Look: short textured afro, neat beard, solid athletic build; rust-orange T-shirt, charcoal joggers, cream trainers.
+Immediate want: take the last fry before anyone objects.
+Pressure: he assumes whoever acts first gets it, and cannot back down once Leah stops him.
+Contradiction: considers himself easygoing, but treats a tiny snack dispute like a serious challenge.
+Tactic: reaches openly, then uses bold movement to reclaim the box.
+Consequential choice: briefly allies with Leah to stop Jay, then abandons the agreement when he sees an opening.
+Observable turn: guarded competition gives way to passing food to Leah once the feast arrives.
+Performance handoff: focus on the fry, register Leah's wrist block as an outrageous challenge; play every cushion manoeuvre sincerely.
+Voice handoff: short confident phrases if dialogue is used; accent unassigned.
+Styling handoff: relaxed practical clothes for a hangout; preserve face, beard, rust T-shirt, joggers and footwear.
+
+C02 LEAH — THE RULE ENFORCER
+Reference: c02-leah-v1.png. White woman, apparent age 28.
+Look: freckles, auburn ponytail, lean build; open forest-green overshirt with sleeves rolled to elbows, ecru T-shirt, black jeans, grey-and-white trainers.
+Immediate want: stop Max taking the fry without agreement, while keeping a chance to claim it herself.
+Pressure: Max's unilateral reach makes her act before she can negotiate.
+Contradiction: insists on fairness until fairness costs her the fry.
+Tactic: blocks the reach, negotiates an alliance, then takes advantage of a distraction.
+Consequential choice: catches Max's wrist, causing the first standoff.
+Observable turn: releases control and makes room for the others when food arrives.
+Performance handoff: decisive initial block, watch both rivals, let her own reach reveal the hypocrisy without a speech.
+Voice handoff: clipped negotiating phrases if used; accent unassigned.
+Styling handoff: practical layered outfit; keep overshirt open and sleeve-roll height consistent.
+
+C03 JAY — THE OPPORTUNIST
+Reference: c03-jay-v1.png. East Asian man, apparent age 27.
+Look: black side-swept hair, clean-shaven, slim build; cobalt-blue track jacket over white T-shirt, sand chinos, off-white trainers.
+Generated reference state: jacket open. Use this visible state for continuity unless a later outfit revision is selected.
+Immediate want: steal the fry while Max and Leah argue.
+Pressure: his attempt is noticed, making both friends turn on him.
+Contradiction: avoids direct confrontation until his sneaky shortcut creates a bigger fight.
+Tactic: follows the box rather than the argument; slides it closer while the others are distracted.
+Consequential choice: moves the box, causing the temporary alliance against him.
+Observable turn: stops hoarding and shares the delivered boxes with the group.
+Performance handoff: eyes locate a gap, hand moves first, face feigns innocence when caught; no exaggerated racial or cultural mannerisms.
+Voice handoff: quick deflections if used; accent unassigned.
+Styling handoff: lightweight active layer supports movement; preserve open jacket, trouser colour and hair silhouette.
+
+C04 NIA — THE QUIET WINNER
+Reference: c04-nia-v1.png. South Asian woman, apparent age 28.
+Look: dark chin-length bob, medium-brown skin, average build; ivory sweatshirt, deep-indigo jeans, white trainers.
+Immediate want: eat a proper dinner and still get the coveted fry.
+Pressure: the three friends' fixation prevents a sensible shared solution.
+Contradiction: appears to have conceded, but quietly makes the most effective move.
+Tactic: observe, order enough food to redirect everyone's attention, wait.
+Consequential choice: orders Bolly Eats during the fight; receives the delivery, creating the resolution.
+Observable turn: calm observer becomes provider, then privately celebrates with the original fry.
+Performance handoff: follow the argument with her eyes, choose the phone deliberately, give the final bite one small victorious smile; avoid contempt for her friends.
+Voice handoff: few words, warm and understated if used; accent unassigned.
+Styling handoff: relaxed comfortable look; retain bob, ivory top and denim. Phone is a story prop, not part of identity reference.
+
+RELATIONSHIP PRESSURE
+Max and Leah: he sees her block as obstruction; she sees his reach as entitlement. Both want the other to yield. Their alliance against Jay is temporary and self-interested.
+Jay and Max/Leah: he accurately spots their distraction; they underestimate his timing. His attempted theft redirects the argument into action.
+Nia and all three: they mistake her quietness for surrender. She recognises they need more food, not a referee. The feast restores ordinary friendship while preserving her private victory.
+Avoid biography or occupation exposition: the thirty-second ad communicates relationships through choices.
+
+REFERENCE HANDOFF
+Each sheet contains a frontal portrait, a three-quarter portrait and a full-length view.
+These are draft visual references, not trained identities or approved final casting.
+After selection, keep character IDs fixed and derive further angles and outfit views from the chosen reference rather than inventing new faces.
+Maintain visible face shape, hair, skin tone, body proportions, clothing colours and garment states.
+Voice, location, accent, food menu, brand packaging and final set remain open.
+The comic fighting uses household cushions; clothing may wrinkle and hair loosen modestly, but no outfit changes are required.
+
+SCRIPT HANDOFF
+Max's reach creates the first challenge. Leah's block creates the standoff. Jay's theft causes the alliance and betrayal. Nia's order creates the solution.
+Only the audience and Nia know the order has been placed during the fight.
+The doorbell redirects the three fighters. The feast returns them to friendly sharing. Nia's final bite pays off her quiet strategy.
+The original fry stays untouched and identifiable until Nia eats it.
+Keep the food reveal and final brand moment within the approved thirty-second arc.

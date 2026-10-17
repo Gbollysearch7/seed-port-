@@ -1,0 +1,4 @@
+interface:
+  display_name: "Film Voice Designer"
+  short_description: "Keep every generated character voice consistent"
+  default_prompt: "Use $film-voice-designer to build a reusable voice bible and consistent generation prompts for these characters."

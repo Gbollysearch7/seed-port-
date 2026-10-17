@@ -1,0 +1,292 @@
+BOLLY EATS — THE LAST FRY
+FULL 30-SECOND AD PROMPT PACK v1
+
+STATUS
+Unrendered model-neutral plan. Four cast references and current maroon/turmeric brand assets are retained. Working role assignment: Jalen claims; Theo blocks; Nova steals; Priya quietly orders and wins. No spoken dialogue in action footage. Optional brand VO is separate.
+
+FORMAT
+Landscape 16:9, final edit exactly 30 seconds. Timings below are editorial lengths, not required model clip-length settings. Generate longer supported takes if necessary, then trim to the named action. Select provider/model, reference mode, resolution and audio controls before submission.
+
+HOW TO USE
+Make one single-scene start frame per shot from the global block plus that shot's start_frame and relevant references, then animate with its prompt. If the chosen model can bind the needed identity/prop references directly, a start frame is optional. S04 has three insert prompts; S11 uses existing artwork directly. Ordered refs are semantic slots, not checked provider parameter names.
+Paste GLOBAL CONTINUITY before each shot's scene-specific prompt. In the JSON, each shot also has full_prompt and full_start_frame_prompt. A character sheet is an identity reference, not the first video frame. Keep exactly one person per bound character even where the reference contains three views.
+For exact phone lettering, track the existing cart and confirmation graphics onto the phone. Add the Later… caption in editing. Use the existing brand-card-16x9.png directly for S11.
+
+GLOBAL CONTINUITY
+Photorealistic live-action food-delivery comedy, landscape 16:9. Four adult friends play a ridiculous fight over one fry with complete action-movie seriousness. Match the loft reference: exposed brick, tall black-framed windows on the left, timber-and-steel ceiling, teal sofa, cream/mustard cushions, oak coffee table, cream armchair and entry door at back-right. Maintain warm late-afternoon light, stable room geometry and the front side of the sofa/table axis.
+Jalen has honey-blonde-ended braids half tied up, a faded black graphic tee, baggy light-wash carpenter jeans, silver jewellery and grey/cream sneakers. Theo has a platinum crop, open forest-green cardigan, white tank, black jorts, striped socks and black loafers. Nova has pink/lilac hair, a pink heart tee, wide indigo jeans, studded belt, silver jewellery and platform boots. Priya has a black/cherry-red high ponytail, black halter, khaki cargos, gold jewellery and white sneakers. Preserve their indoor-v2 identities and clothing; no coats, shoulder bags or sunglasses.
+Exactly four friends. Reference sheets show multiple views of the same person or item: output a single scene, never a collage. Maintain grounded bodies, real hand contact, stable faces and object ownership. The original unbranded white/red box contains one straight-cut fry, untouched until Priya's final bite; delivered crinkle-cut masala fries are separate. Use current lowercase bolly eats. steam-mark branding in masala maroon and turmeric yellow. Location references control the room; prop/food references control objects only. No spoken dialogue in action footage. Use room tone and motivated Foley; keep music continuous in the final edit rather than restarting it in every clip.
+
+REFERENCE MANIFEST
+Reference root: /Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats
+L01: locations/loft-living-room/loft-living-room-three-quarter-v2.png
+  Role: Room geometry, furniture and warm afternoon lighting; newest requested location.
+C01: characters/jalen-braids/jalen-braids-indoor-v2.png
+  Role: Jalen identity and indoor outfit; claimant.
+C02: characters/theo-bleach/theo-bleach-indoor-v2.png
+  Role: Theo identity and indoor outfit; blocker.
+C03: characters/nova-colour/nova-colour-indoor-v2.png
+  Role: Nova identity and indoor outfit; opportunist.
+C04: characters/priya-gloss/priya-gloss-indoor-v2.png
+  Role: Priya identity and indoor outfit; quiet winner.
+P01: assets/fry-box-plain-grey-v1.png
+  Role: Original unbranded white scoop box with red stripe and one straight-cut fry.
+P02: assets/smartphone-v1.png
+  Role: Graphite phone, clear case, lilac/pink star sticker; Priya's phone.
+P03: assets/brand-bag-grey-v1.png
+  Role: Canonical turmeric/maroon bag design. Reference shows one item in multiple views; arrival uses two bags.
+P04: assets/feast-v1.png
+  Role: Indian food and container design only; its old oatmeal-sofa background does not override L01.
+B01: brand/bolly-logo-on-turmeric.png
+  Role: Current steam-mark lowercase bolly eats. logo and colours.
+UI01: brand/order-cart-screen.png
+  Role: Exact basket artwork for tracked screen replacement.
+UI02: brand/order-confirmation-screen.png
+  Role: Exact confirmation artwork for tracked screen replacement.
+B02: brand/brand-card-16x9.png
+  Role: Finished closing frame, used directly in editing.
+
+REFERENCE PRIORITY
+- Latest loft controls room geometry and lighting.
+- Indoor-v2 sheets control cast faces, hair and clothing.
+- Jalen's latest indoor-v2 JSON specifies one right-eyebrow bar only; this instruction takes priority where the reference pixels disagree.
+- Current productions/bolly-eats/brand artwork controls the logo and lettering.
+- Food and prop sheets control objects only, not their older room/studio backgrounds.
+
+SHOT PROMPTS
+S01 | 00–03 seconds | THE LAST FRY
+
+Reference IDs (ordered by semantic role; adapt to selected model): L01, C01, P01
+
+START-FRAME PROMPT — prefix with GLOBAL CONTINUITY:
+Tight three-quarter overhead view of the original white/red scoop box on the oak table, lone fry visible. Jalen's ringed right fingertips hover at left frame edge, without contact.
+One single cinematic frame, not the multi-panel layout of reference sheets.
+
+VIDEO / EDIT PROMPT — prefix with GLOBAL CONTINUITY:
+One continuous tight three-quarter overhead shot. Exactly one golden straight-cut fry lies in the unbranded white scoop box with a thin red stripe, on the oak table. Jalen's right hand enters slowly from the left, fingers extending toward it. A tiny camera push makes the fry seem absurdly precious. End with his fingertips two centimetres above it, without touching it. Box and fry remain stationary. Quiet room tone, faint paper creak, no speech.
+
+END STATE: Jalen's empty right hand near fry; box centred on table; fry untouched.
+
+EDIT: Cut before contact; carry the reach into S02.
+
+SOUND: Sparse tense bass begins.
+
+———————————————————————————————————————————————————————
+
+S02 | 03–06 seconds | THE BLOCK
+
+Reference IDs (ordered by semantic role; adapt to selected model): L01, C01, C02, C03, C04, P01
+
+START-FRAME PROMPT — prefix with GLOBAL CONTINUITY:
+Medium-wide front-left three-quarter master. Jalen sofa-left, Theo sofa-centre, Nova sofa-right, Priya in cream armchair at camera-left. Jalen reaching, Theo ready to intercept; box centred.
+One single cinematic frame, not the multi-panel layout of reference sheets.
+
+VIDEO / EDIT PROMPT — prefix with GLOBAL CONTINUITY:
+Medium-wide front-left three-quarter shot of all four friends. Jalen at sofa-left continues reaching with his right hand. Theo at sofa-centre catches Jalen's right wrist with his left hand before the fry is touched. Jalen stops, looks down at the grip, then locks eyes with Theo. Theo answers with a serious challenge. Nova at sofa-right notices the unguarded box; Priya in the armchair watches calmly. Camera stays still so contact and room geography read clearly. End with wrist held and fry untouched. No dialogue.
+
+END STATE: Theo's left hand holds Jalen's right wrist. Nova's right hand free; Priya still seated.
+
+EDIT: Cut on Nova spotting the opening.
+
+SOUND: One sharp dramatic impact at wrist contact.
+
+———————————————————————————————————————————————————————
+
+S03 | 06–08 seconds | THE THIEF
+
+Reference IDs (ordered by semantic role; adapt to selected model): L01, C01, C02, C03, P01
+
+START-FRAME PROMPT — prefix with GLOBAL CONTINUITY:
+Table-level medium view of Nova at sofa-right; held wrists remain at left edge; box in front of her.
+One single cinematic frame, not the multi-panel layout of reference sheets.
+
+VIDEO / EDIT PROMPT — prefix with GLOBAL CONTINUITY:
+Table-level medium shot on Nova. While the men are occupied, she grips the box's right side with her right hand and drags it fifteen centimetres toward herself across the supported tabletop. The single fry stays inside. Both men hear the scrape and turn toward her. Theo releases Jalen's wrist. Jalen and Theo exchange a quick alliance-making glance, then stare at Nova. She stops with her hand still on the box, caught. No dialogue.
+
+END STATE: Box at right-centre table, Nova gripping it; Jalen released; men briefly allied against her.
+
+EDIT: The glance sets up the immediate betrayal in S04.
+
+SOUND: Paper scrape; a brief held note.
+
+———————————————————————————————————————————————————————
+
+S04 | 08–12 seconds | THE RIDICULOUS BATTLE
+
+Reference IDs (ordered by semantic role; adapt to selected model): L01, C01, C02, C03, P01
+
+START-FRAME PROMPT — prefix with GLOBAL CONTINUITY:
+Nova has released the box safely at right-centre table. Jalen has a cream cushion ready; Theo reaches for a mustard cushion. Fighters focus on fry.
+One single cinematic frame, not the multi-panel layout of reference sheets.
+
+VIDEO / EDIT PROMPT — prefix with GLOBAL CONTINUITY:
+Four-second editorial action beat, assembled from three short inserts. A: Jalen betrays the pact by throwing a cream cushion at Theo, who catches the impact on a mustard cushion held like a shield. B: Nova dives across the sofa cushions while they are distracted, reaching toward the box but missing it; her torso lands on the sofa. C: Jalen and Theo lunge from opposite sides toward the box, stopping short as each blocks the other's route. Treat every move with outrageous action-movie seriousness. Keep box upright and supported, lone fry inside, untouched. No dialogue.
+
+END STATE: Cushions displaced; three fighters still competing; no fry contact.
+
+EDIT: S04A 1.5s, S04B 1.5s, S04C 1s. Generate as separate inserts when needed; total edited duration 4s.
+
+SOUND: Percussion accelerates; cushion whoosh and soft impact, motivated exertion breaths.
+
+———————————————————————————————————————————————————————
+
+S05 | 12–15 seconds | THE SMART MOVE
+
+Reference IDs (ordered by semantic role; adapt to selected model): L01, C04, P02, UI01, UI02
+
+START-FRAME PROMPT — prefix with GLOBAL CONTINUITY:
+Close over Priya's shoulder in armchair. Graphite phone in left hand; cart screen; right index finger above Place order. Battle blurred behind.
+One single cinematic frame, not the multi-panel layout of reference sheets.
+
+VIDEO / EDIT PROMPT — prefix with GLOBAL CONTINUITY:
+Close over Priya's shoulder while the tussle continues blurred behind her. She holds the graphite phone securely in her left hand and taps Place order once with her right index finger. Its screen changes from the supplied Bolly Eats basket to the supplied confirmation graphic. She reads the confirmation and gives a small satisfied smile, keeping her eyes on the phone. End with the confirmation steady. No dialogue. Use the existing UI artwork for a tracked screen replacement so the lettering is exact.
+
+END STATE: Priya knows the order is confirmed; the fighters do not. One phone in her left hand.
+
+EDIT: Composite order-cart-screen.png before tap and order-confirmation-screen.png after it; preserve reflection and fingertip occlusion.
+
+SOUND: One restrained confirmation ping beneath continuing fight ambience.
+
+———————————————————————————————————————————————————————
+
+S06 | 15–18 seconds | LATER: THE INTERRUPTION
+
+Reference IDs (ordered by semantic role; adapt to selected model): L01, C01, C02, C03, C04, P01
+
+START-FRAME PROMPT — prefix with GLOBAL CONTINUITY:
+Matching wide after elapsed time. Men exhausted on sofa, Nova poised near sofa-right, cushions scattered. Priya calm in armchair. Fry still in box.
+One single cinematic frame, not the multi-panel layout of reference sheets.
+
+VIDEO / EDIT PROMPT — prefix with GLOBAL CONTINUITY:
+Matching wide shot after a comic time jump. Jalen and Theo have slumped onto the sofa but still guard the box; Nova prepares one last attempt. Scattered cushions and heavier breathing show the battle continued for a while. Priya has placed her phone beside her on the armchair seat. One doorbell rings from the back-right entrance. The three fighters stop deliberate movement and turn toward the door, still breathing naturally. Priya rises and starts toward the entrance. No dialogue.
+
+END STATE: Fighters looking at door; Priya heading to entrance; phone on armchair; fry untouched.
+
+EDIT: Add small 'Later…' caption in post at beginning to clarify elapsed delivery time. Collection is off-screen.
+
+SOUND: Doorbell interrupts the action score; music stops, room tone remains.
+
+———————————————————————————————————————————————————————
+
+S07 | 18–20 seconds | THE ENTRANCE
+
+Reference IDs (ordered by semantic role; adapt to selected model): L01, C04, P03, B01
+
+START-FRAME PROMPT — prefix with GLOBAL CONTINUITY:
+After off-screen pickup, Priya already beside table, one full branded bag in each hand, turmeric fronts toward camera.
+One single cinematic frame, not the multi-panel layout of reference sheets.
+
+VIDEO / EDIT PROMPT — prefix with GLOBAL CONTINUITY:
+Medium table-height shot after the off-screen collection. Priya already stands at the table with exactly two full Bolly Eats bags, one in each hand by the kraft handles. She lowers them onto a clear area of the oak tabletop; bases meet the wood before her hands release. Their turmeric fronts, masala gussets and steam-mark logo face the camera. The three former rivals lean forward hopefully behind her. No courier and no dialogue. End with both bags supported and Priya's hands free.
+
+END STATE: Exactly two bags on table, still closed. Attention shifts to the order; original fry unchanged.
+
+EDIT: Elide pickup and walk via cut. Next insert is after unpacking, rather than dishes appearing magically within this take.
+
+SOUND: Paper and handles rustle; warm musical relief begins.
+
+———————————————————————————————————————————————————————
+
+S08 | 20–23 seconds | THE FEAST REVEAL
+
+Reference IDs (ordered by semantic role; adapt to selected model): L01, P04, B01
+
+START-FRAME PROMPT — prefix with GLOBAL CONTINUITY:
+Single three-quarter hero view of unpacked Indian feast on loft table; teal sofa blurred behind. Use food reference's objects, not its oatmeal sofa.
+One single cinematic frame, not the multi-panel layout of reference sheets.
+
+VIDEO / EDIT PROMPT — prefix with GLOBAL CONTINUITY:
+A mouth-watering three-quarter table-level food shot after unpacking, with a short gentle lateral move. Show one bowl of butter chicken with cream and coriander, one lamb biryani box, four samosas with dips, two garlic naan in their sleeve, one full box of crinkle-cut masala fries, and exactly two shakes, mango-yellow and rose-pink, in their referenced carrier. Match the current maroon/yellow containers and steam-mark branding. Lids already open, small natural steam, light cup condensation. Use the loft's oak table and blurred teal sofa. No hands or additional dishes. Keep food commercially appetising but physically real.
+
+END STATE: Feast laid out; two emptied bags nearby. During off-screen unpacking the original fry box was set at Priya's near table corner, fry intact.
+
+EDIT: Unpacking is implied across the cut from S07. Original white/red fry box stays separate from branded full masala-fries box.
+
+SOUND: Warm music and soft packaging ambience; no cooking sizzle for food that is already delivered.
+
+———————————————————————————————————————————————————————
+
+S09 | 23–25 seconds | PEACE
+
+Reference IDs (ordered by semantic role; adapt to selected model): L01, C01, C02, C03, C04, P04, P01
+
+START-FRAME PROMPT — prefix with GLOBAL CONTINUITY:
+Medium-wide all four around feast in same loft. Three rivals on sofa relaxed, Priya armchair nearest original fry box; cushions still scattered.
+One single cinematic frame, not the multi-panel layout of reference sheets.
+
+VIDEO / EDIT PROMPT — prefix with GLOBAL CONTINUITY:
+Static medium-wide of all four friends around the feast. Jalen passes Theo a napkin; Theo accepts with a grateful small nod. Nova takes a bite from a samosa and visibly relaxes her shoulders. Priya sits beside them at the armchair, hands free, quietly pleased by the change. The white/red box beside her still holds the original straight-cut fry. The other three focus entirely on their delivered food. Preserve dish counts and scattered cushions. No dialogue. End on a warm ordinary shared dinner.
+
+END STATE: Others busy with feast; Priya has an empty right hand and original fry within reach.
+
+EDIT: Two seconds of friendly recovery, then move directly to the punchline.
+
+SOUND: Soft room tone, restrained napkin/food Foley, score almost settled.
+
+———————————————————————————————————————————————————————
+
+S10 | 25–27 seconds | THE WINNER
+
+Reference IDs (ordered by semantic role; adapt to selected model): L01, C04, P01
+
+START-FRAME PROMPT — prefix with GLOBAL CONTINUITY:
+Medium close-up Priya, original fry box within right-hand reach; friends enjoying feast blurred behind.
+One single cinematic frame, not the multi-panel layout of reference sheets.
+
+VIDEO / EDIT PROMPT — prefix with GLOBAL CONTINUITY:
+Medium close-up on Priya. She checks the other three are occupied, reaches her right hand into the original unbranded white/red box, pinches the lone straight-cut fry, lifts it cleanly and eats it. The box is now empty. End on one tiny victorious smile, without looking at camera. The others do not notice. Camera remains still. Complete real contact and hand-to-mouth action, no replacement fry, stable identity, no dialogue.
+
+END STATE: Original fry eaten by Priya; box empty. Other three still enjoying meal.
+
+EDIT: Cut on smile at 27s. For a longer model clip, retain the complete action and trim lead-in/end handles.
+
+SOUND: Expose one satisfying crunch as score drops, then a comic resolving note.
+
+———————————————————————————————————————————————————————
+
+S11 | 27–30 seconds | BRAND CLOSE
+
+Reference IDs (ordered by semantic role; adapt to selected model): B02
+
+START-FRAME PROMPT — prefix with GLOBAL CONTINUITY:
+Use actual brand-card-16x9.png directly.
+One single cinematic frame, not the multi-panel layout of reference sheets.
+
+VIDEO / EDIT PROMPT — prefix with GLOBAL CONTINUITY:
+Editorial instruction, not a generative request: hold the existing 16:9 brand card for three seconds. Preserve the exact steam marks, lowercase bolly eats. logo, masala background, turmeric/cream type, 'Peace, delivered.' and 'Order now on the Bolly Eats app'. No text regeneration. Optional separate voice-over in post: 'Bolly Eats. Peace, delivered.' Warm, confident, complete line within the three-second card.
+
+END STATE: Readable clean full-screen brand card.
+
+EDIT: Hard cut from Priya's smile; hold card unchanged for three seconds.
+
+SOUND: Warm final resolve; optional VO separate from character footage.
+
+SEPARATE ACTION INSERT PROMPTS
+S04A | 1.5s in final edit | Refs: L01, C01, C02, P01
+Prefix with GLOBAL CONTINUITY.
+In the same loft, Jalen throws one cream sofa cushion toward Theo's torso, betraying their brief pact. Theo raises one mustard cushion in both hands and absorbs the soft impact. Medium view from established front side; short readable arc, real cushion-on-cushion contact, a small recoil, deadly serious faces. The original white/red box stays upright at right-centre table, fry untouched. No dialogue.
+
+S04B | 1.5s in final edit | Refs: L01, C03, P01
+Prefix with GLOBAL CONTINUITY.
+Nova at sofa-right uses the men's distraction. Low medium shot from the established front side: she makes a short exaggerated dive across the sofa cushions toward the table. Her forearm and torso land on the sofa, right hand reaching for the original white/red box but missing it. Real body momentum, stationary table and box, no fry contact. Her reaction treats the miss like a major defeat. No dialogue.
+
+S04C | 1s in final edit | Refs: L01, C01, C02, P01
+Prefix with GLOBAL CONTINUITY.
+Low tight table insert: Jalen's ringed right hand and Theo's right hand approach the original white/red box from opposite sides. They stop short on seeing each other, blocking routes without striking the box. A ridiculous brief deadlock above the tabletop. One fry stays inside untouched. Keep each hand anatomically distinct, real grip-free contact, paper and sleeve rustle, no speech.
+
+AUDIO AND EDIT HANDOFF
+Low bass in S01–S03; percussion and soft cushion/exertion Foley in S04; restrained confirmation ping in S05; clean doorbell and music stop in S06; paper rustle and warm relief in S07–S09; isolated crunch in S10; warm final resolve with optional separate brand VO in S11.
+- Continuity: original straight-cut fry untouched until S10; full delivered crinkle fries are a different item.
+- Initial geography: Jalen sofa-left, Theo sofa-centre, Nova sofa-right; Priya cream armchair at camera-left.
+- The 15s time jump establishes elapsed order fulfilment; do not suggest instant delivery.
+- S07 begins at the table after off-screen collection; S08 begins after off-screen unpacking.
+- Do not submit all reference images indiscriminately; use relevant refs and comply with chosen model limits.
+- Inspect actual rendered endpoints before using them as continuation frames. This text plan is not evidence of rendered continuity.
+
+FINAL CARD
+27–30 seconds. Use brand/brand-card-16x9.png unchanged.
+Exact copy already in artwork:
+bolly eats.
+Peace, delivered.
+Order now on the Bolly Eats app
+Optional separate VO: "Bolly Eats. Peace, delivered."

@@ -1,0 +1,20 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/edit",
+ "request_id": "01a1366a-bd55-7100-b77f-60ac0a021353",
+ "refs": [
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/assets/living-room-v1.png"
+ ],
+ "input": {
+  "prompt": "ONE photorealistic PRODUCTION REFERENCE SHEET, horizontal 16:9, split into THREE equal vertical panels side by side with thin white gutters, all three showing the SAME object or place with identical design, materials and colours. THE LOCATION: EXACTLY the same Brooklyn, New York pre-war walk-up living room as image 1, keep every design element identical: exposed red brick wall, tall black sash windows with the fire escape outside, worn oak floorboards, the big patterned vintage rug, the slouchy oatmeal boucle three-seat sofa with its mismatched cushions (mustard velvet, rose pink, black-and-white checkered, red fringed kilim) and knit throw, the low chunky reclaimed-oak coffee table with a candle, two remotes and a magazine, the framed gig posters, plants, string lights, the record player and vinyl shelf, and the deep-green panelled front door with brass knob at the end of the short hallway. TIME OF DAY, locked for every panel: BLUE HOUR just after sunset, about 7:30 pm. Through the windows a deep cobalt-blue dusk sky over Brooklyn rooftops and water towers, lit apartment windows across the street and a soft glow of the Manhattan skyline in the distance. Inside, warm 2700K practical light from the table lamps, string lights and candle, pools of amber light on the sofa and table, the cool blue window light rimming the edges of the room: cinematic warm-and-cool contrast, cosy, ready for a night in. ALL THREE PANELS ARE THREE-QUARTER VIEWS at standing eye height, 24-28mm lens: PANEL 1 (left): three-quarter view from the window corner looking across the coffee table to the sofa, with the hallway and green front door visible in the background. PANEL 2 (middle): three-quarter view from the hallway end looking back across the sofa and coffee table toward the brick wall and the blue-hour windows. PANEL 3 (right): three-quarter view from behind one end of the sofa looking down across the cushions to the coffee table and the open floor in front of it. Completely empty of people. Framed posters show only abstract images, no readable text. Real photography, true-to-life colour, subtle film grain, natural imperfections, believable and lived-in, not a render, not a cartoon. No people, no hands, no watermark. ",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae3e88/EgGUUXrL1bOA4sK580o1a_living-room-v1.png"
+  ]
+ }
+}

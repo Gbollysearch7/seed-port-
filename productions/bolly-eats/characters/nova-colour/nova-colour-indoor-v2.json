@@ -1,0 +1,18 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/edit",
+ "request_id": "01a13664-7aa0-7db0-a5d3-5f9971aac520",
+ "source": "nova-colour-sheet-v1.png",
+ "input": {
+  "prompt": "Recreate image 1 EXACTLY: the same person with the identical face, skin, hair, piercings, jewellery and nails, the same three-panel layout, the same light-grey studio backdrop, lighting, framing and poses. ONE CHANGE ONLY, the INDOOR LOOK for a night in at a friend's apartment: the black leather moto jacket, the lilac shoulder bag and the sunglasses are removed. She wears the same fitted cropped pastel baby-pink baby tee with the small heart graphic, now fully visible including her bare arms, the same low-slung very wide-leg dark indigo jeans with the silver studded belt, and the same black chunky platform boots. No text, no captions, no logos, no watermark.",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae3e5f/ZPBkaz63C0LoEilrY0s7P_nova-colour-sheet-v1.png"
+  ]
+ }
+}

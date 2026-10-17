@@ -1,0 +1,3 @@
+interface:
+  display_name: "Film Video Prompter"
+  short_description: "Translate directed shots into coherent video prompts"

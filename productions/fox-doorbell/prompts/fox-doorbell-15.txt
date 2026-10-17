@@ -1,0 +1,37 @@
+[STYLE]
+Authentic vertical 9:16 smart-doorbell camera recording at night. Fisheye wide-angle lens with strong barrel distortion and
+darkened corners. Infrared night vision: monochrome black and white with a faint green tint, flat on-camera IR lighting from the
+doorbell itself, hot white highlights, crushed blacks. Low-resolution security-cam image: heavy grain in the shadows, H.264
+compression blocking that smears on anything moving, slight motion blur, auto-exposure that briefly pumps brighter when something
+close enters frame. Small white pixel-font timestamp in the top-left corner reading "03:07:14 AM", counting up one second at a time.
+No cinematic lighting, no colour grade, no film look.
+
+[SCENE]
+The camera is the doorbell, mounted beside the front door at chest height, angled down at a small front porch: a coir doormat, a
+potted plant in the left corner, three concrete steps and a straight concrete path to a quiet suburban street. One orange
+streetlight across the road, blown out to a bright white glow in infrared. A small puddle on the path reflects the IR glow.
+
+[TIMELINE]
+0-4 s: empty porch, nothing moving except a light breeze nodding the plant's leaves and a faint shimmer on the puddle. Timestamp ticks.
+4-8 s: a red fox (reads pale grey in infrared, darker legs, bushy tail) trots up the path out of the dark, smearing slightly with
+compression as it moves, steps onto the doormat, stops, and looks straight up into the lens. Its eyes flare pure white with eyeshine.
+8-12 s: the fox rises onto its hind legs, rests one front paw flat against the wall beside the camera and pushes its snout right up
+to the lens; the fisheye bulges its nose and whiskers huge in frame and the auto-exposure blows out white for a beat as it presses the
+doorbell button with its nose. A tinny two-tone electronic chime plays through the doorbell speaker. Breath fogs the lens for a second.
+The fox drops back down to all fours on the mat and sits calmly, tail curled around its front feet, waiting.
+12-15 s: the fox tilts its head as if listening for footsteps inside, then turns its head to glance back over its shoulder at the
+street. Mid-turn, the recording ends abruptly: one stuttered frame, a brief smear of compression blocks, then hard cut to black.
+
+[CAMERA]
+Completely static, locked-off security camera. No pans, no zooms, no handheld shake, no reframing, no cuts before the final cut-out.
+
+[AUDIO]
+Doorbell-microphone audio: thin, compressed, low-fidelity with a constant electronic hiss. Distant traffic hum, light wind gusts
+buffeting the mic, leaves rustling, soft claw clicks and pad steps on concrete getting louder as the fox approaches, a sniff and
+a puff of breath right on the mic as it nears the lens, a plastic button click, then the tinny two-tone "ding-dong" chime from the
+doorbell's own speaker. Silence inside the house. The audio cuts out with the picture. No music, no voices, no barking.
+
+[NEGATIVE]
+No colour footage, no cinematic lighting, no camera movement, no cuts before the end; no people, no hands, no second animal;
+the fox is a real red fox with natural anatomy and gait, not a dog or cat, no cartoon or anthropomorphic face, no clothing;
+no text on screen except the single timestamp; no app UI, no logos, no watermarks; no daylight.

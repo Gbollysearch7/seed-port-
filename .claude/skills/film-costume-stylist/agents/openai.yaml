@@ -1,0 +1,4 @@
+interface:
+  display_name: "Film Costume Stylist"
+  short_description: "Style characters across worlds and life stages"
+  default_prompt: "Use $film-costume-stylist to create complete character looks that fit the story, requested aesthetic and life stage, with wearable details and costume continuity."

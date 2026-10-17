@@ -1,0 +1,14 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+ "request_id": "01a13643-7f12-7131-9f79-47d70e1b5039",
+ "input": {
+  "prompt": "ONE photorealistic CHARACTER REFERENCE SHEET, horizontal 16:9, split into THREE equal vertical panels side by side, separated by thin white gutters, all three showing the SAME person with an identical face, hair, skin, piercings and outfit. Every panel uses the same plain light-grey seamless studio backdrop and the same soft, even key light with a gentle fill, true-to-life skin tones. PANEL 1 (left): front-facing head-and-shoulders close-up portrait, looking straight into the lens, neutral relaxed expression, sharp detail on eyes, skin texture and every piercing. PANEL 2 (middle): three-quarter view head-and-shoulders close-up turned to the left, showing the hair from the side and back plus the ear and facial piercings clearly. PANEL 3 (right): FULL-LENGTH OUTFIT panel, the whole body head to toe, standing naturally facing camera, feet and shoes fully visible inside the frame, so every garment, layer, accessory and the footwear read clearly. Real photography, 85mm lens for the close-ups and 50mm for the full length, subtle film grain, natural skin with pores and slight imperfections, not airbrushed, not a render, not a cartoon. No text, no captions, no labels, no numbers, no logos or brand names on any clothing, no watermark. THE CHARACTER: Jalen, a 28-year-old Black man from Brooklyn, New York, a young millennial with pop-star energy and a confident, playful half-smile in his eyes. Rich deep-brown skin, sharp jawline, short neat beard line, thick brows. HAIR: shoulder-length medium knotless box braids, the ends dipped in honey blonde, half of the braids gathered up into a high top knot and the rest falling to his shoulders, clean edges. PIERCINGS: a small silver hoop in the left nostril, a silver eyebrow bar in the right brow, stacked silver hoops and studs up both ears including a helix hoop, a single small silver ring in the lower lip. JEWELLERY: a layered silver Cuban chain and a thinner silver chain with a small pendant, chunky silver rings on several fingers, black painted nails. OUTFIT (downtown New York street style, 2026): an oversized cropped cherry-red leather bomber jacket worn open, over a faded vintage-washed oversized black graphic band tee with an abstract cracked print (no readable words), very baggy light-wash carpenter jeans with a hammer loop, stacked at the ankle, chunky grey-and-cream retro running sneakers, a black nylon crossbody sling bag worn across the chest, white crew socks.",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png"
+ }
+}

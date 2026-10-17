@@ -1,0 +1,15 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+ "request_id": "01a13664-c130-70c2-a567-906bd24bda1e",
+ "refs": [],
+ "input": {
+  "prompt": "ONE photorealistic PRODUCTION REFERENCE SHEET, horizontal 16:9, split into THREE equal vertical panels side by side with thin white gutters, all three showing the SAME object or place with identical design, materials and colours. STUDIO: every panel on the same plain light-grey seamless studio backdrop and grey floor, soft even key light with a gentle fill and a soft contact shadow, product-catalogue clarity, nothing else in frame. THE PROP, the hero of the film: an open takeaway fries box from an anonymous takeaway, completely UNBRANDED: plain white paperboard scoop box with a simple thin red stripe around the top edge, NO logo, NO words, NO lettering or symbols anywhere on it. Lightly grease-spotted and a little crumpled from being passed around. It is ALMOST EMPTY: a few crumbs of salt and seasoning on the bottom and ONE single golden straight-cut fry left, lying alone inside. PANEL 1 (left): front three-quarter view at table height. PANEL 2 (middle): looking straight down into the box, the lone fry sharp in focus. PANEL 3 (right): close-up of the single fry inside the box, shallow depth of field. Real photography, true-to-life colour, subtle film grain, natural imperfections, believable and lived-in, not a render, not a cartoon. No people, no hands, no watermark. ",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png"
+ }
+}

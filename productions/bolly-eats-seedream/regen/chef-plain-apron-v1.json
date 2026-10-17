@@ -1,0 +1,15 @@
+{
+ "endpoint": "google/nano-banana-2.1/edit",
+ "request_id": "01a144e7-3fcb-70d1-97e6-d7cc347adcbf",
+ "source": "characters/chef-black-cap-apron-sheet.jpg",
+ "input": {
+  "prompt": "Edit only the apron: remove the small 'bolly eats' wordmark stitched on the chest of the white bib apron in EVERY panel, leaving a plain white cotton apron with natural fabric texture and creases. Change nothing else at all: same man, face, beard, tattoos, black cap, white t-shirt, black gloves, poses, layout, panels, grey background, lighting and framing.",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae9d78/lIpD80B7A55g9-3ZRhpZw_chef-black-cap-apron-sheet.jpg"
+  ],
+  "resolution": "2K",
+  "aspect_ratio": "16:9",
+  "output_format": "jpeg",
+  "num_images": 1
+ }
+}

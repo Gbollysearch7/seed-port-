@@ -1,0 +1,20 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/edit",
+ "request_id": "01a1365c-6e9d-70b2-aa59-3ec7e7fabd7d",
+ "refs": [
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/bolly-logo-on-turmeric.png"
+ ],
+ "input": {
+  "prompt": "ONE photorealistic PRODUCTION REFERENCE SHEET, horizontal 16:9, split into THREE equal vertical panels side by side with thin white gutters, all three showing the SAME object or place with identical design, materials and colours. BRAND: Bolly Eats, a cheeky Indian food delivery brand. Colours: masala maroon #5B1A1F, turmeric yellow #F4B400, chilli red #E2462B, rose pink #E8889A, warm cream #FFF4E0. The logo is EXACTLY as in image 1: three wavy steam lines above the lowercase words 'bolly eats.' in a heavy rounded grotesque, spelled b-o-l-l-y e-a-t-s with the full stop. Reproduce the logo exactly, never invent other text. STUDIO: every panel on the same plain light-grey seamless studio backdrop and grey floor, soft even key light with a gentle fill and a soft contact shadow, product-catalogue clarity, nothing else in frame. THE ASSET: the Bolly Eats food packaging set, all closed and new, each piece printed with the logo from image 1: a masala-maroon #5B1A1F rectangular paperboard meal box with a fold-over tuck lid, a turmeric-yellow #F4B400 round paper soup-style bowl with a fitted lid, a turmeric-yellow fries scoop box full of crinkle-cut masala fries dusted with red chilli spice, a kraft paper naan sleeve, a stack of cream napkins with the logo in masala. PANEL 1 (left): the whole set grouped together, three-quarter view. PANEL 2 (middle): the meal box and round bowl front on, logos readable. PANEL 3 (right): the full fries box front on, logo readable. Real photography, true-to-life colour, subtle film grain, natural imperfections, believable and lived-in, not a render, not a cartoon. No people, no hands, no watermark. ",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae3e2a/s8UbKh-824Ydv0Ke16nhD_bolly-logo-on-turmeric.png"
+  ]
+ }
+}

@@ -1,0 +1,18 @@
+{
+  "asset_id": "L01",
+  "project": "Bolly Eats — The Last Fry",
+  "version": "v2",
+  "type": "location",
+  "file": "loft-living-room-three-quarter-v2.png",
+  "source": "/Users/gbolahan/Documents/SEED PORTFOLIO/output/bolly-eats/the-last-fry/assets/living-room-loft-three-quarter-v2.png",
+  "prompt_recipe_source": "/Users/gbolahan/Documents/SEED PORTFOLIO/output/bolly-eats/the-last-fry/assets/living-room-loft-three-quarter-v2-prompts.json",
+  "creation": "Existing built-in-imagegen output copied to the production location folder.",
+  "view": "Three-quarter front-left",
+  "lighting": "Warm late-afternoon daylight",
+  "geometry": "Exposed brick, tall windows left, timber-and-steel ceiling, teal sofa, cream/mustard cushions, rounded oak table, cream armchair, entrance back-right.",
+  "continuity_role": "Current user-requested location; overrides the older assets/living-room-v1 reference and backgrounds in food/prop sheets.",
+  "dimensions": {
+    "width": 1672,
+    "height": 941
+  }
+}

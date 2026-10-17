@@ -1,0 +1,4 @@
+interface:
+  display_name: "Film Character Builder"
+  short_description: "Build compelling characters who drive the story"
+  default_prompt: "Use $film-character-builder to develop story-specific characters with distinct wants, contradictions, relationships and consequential choices."

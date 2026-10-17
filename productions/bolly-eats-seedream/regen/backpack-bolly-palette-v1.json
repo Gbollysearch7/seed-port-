@@ -1,0 +1,21 @@
+{
+ "endpoint": "bytedance/seedream/v5/pro/edit",
+ "request_id": "01a144c5-79cd-7bd2-88b1-313f4190fe7e",
+ "refs": [
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats-seedream/props/delivery-backpack-raspberry-sheet.jpg",
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/bolly-logo-on-turmeric.png",
+  "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/bolly-eats/brand/bolly-logo-on-masala.png"
+ ],
+ "input": {
+  "prompt": "Restyle the insulated food delivery backpack from image 1. Keep EXACTLY the same object: a rigid cube-shaped thermal backpack about 42 cm each side, slightly rounded corners, neat stitched edge seams, top-opening lid zipped around three sides, padded shoulder straps and chest strap, a thin reflective strip around the base. BOLLY EATS BRAND COLOURS, replacing every raspberry pink and plum from the original: masala maroon #5B1A1F, turmeric yellow #F4B400, warm cream #FFF4E0, with chilli red #E2462B only as a thin accent. NO raspberry, NO hot pink, NO purple anywhere. LOGO exactly as in the logo images: three short wavy steam lines above the lowercase words 'bolly eats.' in a heavy rounded grotesque, spelled b-o-l-l-y e-a-t-s with the full stop. Reproduce the logo exactly; no other text. Logos as in images 2 and 3. NEW COLOURS: matte turmeric yellow #F4B400 water-resistant coated fabric body; masala maroon #5B1A1F zip, pull tab, straps and edge piping; a large masala maroon logo on each side panel; a cream reflective base strip. ONE 16:9 reference sheet split into THREE equal vertical panels side by side with thin white gutters, seamless warm light-grey studio background in every panel, soft even 5600K studio light with gentle contact shadows, photoreal, real material texture. Every panel shows the SAME subject with identical proportions, colours and logo. PANEL 1 (left): front three-quarter view, lid closed, side logo readable. PANEL 2 (middle): back view showing the maroon straps. PANEL 3 (right): three-quarter view with the lid open, silver foil insulated interior, a closed turmeric-and-maroon Bolly Eats paper food bag sitting inside.",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae9c9b/JmSoRCyvlDOc0tO4YNIbt_delivery-backpack-raspberry-sheet.jpg",
+   "https://v3b.fal.media/files/b/0aae9c9b/UEuHcWYrs7Xz_yrxvotQt_bolly-logo-on-turmeric.png",
+   "https://v3b.fal.media/files/b/0aae9c9b/7lPAl71y_sMWfcU3nsDGI_bolly-logo-on-masala.png"
+  ],
+  "image_size": "auto_2K",
+  "num_images": 1,
+  "output_format": "jpeg",
+  "enhance_prompt_mode": "standard"
+ }
+}

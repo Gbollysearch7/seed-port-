@@ -1,0 +1,14 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+ "request_id": "01a1364e-0d86-7531-acca-297a1ec09678",
+ "input": {
+  "prompt": "ONE photorealistic CHARACTER REFERENCE SHEET, horizontal 16:9, split into THREE equal vertical panels side by side, separated by thin white gutters, all three showing the SAME person with an identical face, hair, skin, piercings and outfit. Every panel uses the same plain light-grey seamless studio backdrop and the same soft, even key light with a gentle fill, true-to-life skin tones. PANEL 1 (left): front-facing head-and-shoulders close-up portrait, looking straight into the lens, neutral relaxed expression, sharp detail on eyes, skin texture and every piercing. PANEL 2 (middle): three-quarter view head-and-shoulders close-up turned to the left, showing the hair from the side and back plus the ear and facial piercings clearly. PANEL 3 (right): FULL-LENGTH OUTFIT panel, the whole body head to toe, standing naturally facing camera, feet and shoes fully visible inside the frame, so every garment, layer, accessory and the footwear read clearly. Real photography, 85mm lens for the close-ups and 50mm for the full length, subtle film grain, natural skin with pores and slight imperfections, not airbrushed, not a render, not a cartoon. No text, no captions, no labels, no numbers, no logos or brand names on any clothing, no watermark. THE CHARACTER: Theo, a 27-year-old Korean-American man from Flushing, Queens, New York, a young millennial with laid-back pop-idol cool and a dry, amused look. Light warm-toned skin, clean-shaven, defined cheekbones, monolid eyes. HAIR: a textured bleached platinum-silver crop with a slightly messy fringe falling over the forehead and dark roots just growing in. PIERCINGS: a silver eyebrow ring in the left brow, a silver bridge bar across the top of the nose, a snake-bite pair of small silver studs at both corners under the lower lip, both ears stacked with silver hoops and a dangling silver cross earring on the left. JEWELLERY: a silver ball-chain necklace with a small dog tag, silver rings, chipped black nail polish. OUTFIT (downtown New York street style, 2026): an oversized forest-green knitted cardigan with chunky buttons, worn open over a white oversized tank top, baggy black denim jorts to just below the knee, white knee-high tube socks with two green stripes, black leather loafers with chunky soles, a black canvas tote bag on one shoulder.",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png"
+ }
+}

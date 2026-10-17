@@ -1,0 +1,15 @@
+{
+ "endpoint": "openai/gpt-image-2.5/sunburst/text-to-image",
+ "request_id": "01a1364e-0d86-7b41-a317-96dab8beacc8",
+ "refs": [],
+ "input": {
+  "prompt": "ONE photorealistic PRODUCTION REFERENCE SHEET, horizontal 16:9, split into THREE equal vertical panels side by side with thin white gutters, all three showing the SAME object or place with identical design, materials and colours. THE LOCATION: a lived-in young creatives' apartment living room in a Brooklyn, New York pre-war walk-up, late evening, warm practical lamp light mixed with a cool blue city glow from the windows. Exposed red brick wall, tall sash windows with a fire escape outside, worn oak floorboards, a large patterned vintage rug. A big slouchy oatmeal boucle three-seat sofa covered in mismatched cushions (mustard velvet, rose pink, a checkered one, a fringed kilim cushion) and a thrown knit blanket. In front of it a low, wide, chunky oak coffee table, mostly clear apart from a candle, two remote controls and a magazine, with room for food to be spread across it. Plants, a record player on a sideboard, string lights, framed gig posters with no readable text. The apartment front door is a painted deep-green panelled door with a brass knob, a chain lock and a peephole, a coat hook with jackets beside it, reached by a short hallway visible from the sofa. PANEL 1 (left): wide establishing view of the whole room from a corner at standing eye height, showing the sofa, the coffee table and the front door in the background. PANEL 2 (middle): closer view of the sofa, cushions and coffee table, from where a seated friend opposite would see them. PANEL 3 (right): the front door and short hallway seen from the sofa, door closed, warm hallway light. Completely empty of people. Real photography, true-to-life colour, subtle film grain, natural imperfections, believable and lived-in, not a render, not a cartoon. No people, no hands, no watermark. ",
+  "image_size": {
+   "width": 1824,
+   "height": 1024
+  },
+  "quality": "high",
+  "num_images": 1,
+  "output_format": "png"
+ }
+}

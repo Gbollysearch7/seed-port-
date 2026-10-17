@@ -1,0 +1,19 @@
+{
+ "endpoint": "google/nano-banana-2.1/edit",
+ "request_id": "01a144e9-dfe7-7151-b913-ee697d911ac0",
+ "refs": [
+  "regen/ebike-bolly-palette-v1.jpg",
+  "regen/backpack-bolly-palette-v1.jpg"
+ ],
+ "input": {
+  "prompt": "Edit image 1. Remove the turmeric plastic crate and the black elastic cord completely from the rear of the e-bike in every panel. In its place, mount the turmeric Bolly Eats insulated cube delivery bag from image 2 (same turmeric fabric, maroon zip, maroon piping, cream reflective base strip, big maroon steam-mark 'bolly eats.' logo on its sides) sitting upright on the rear rack over the back wheel. It fits snugly into a slim black metal rack frame that cradles its base and lower corners, like a purpose-built delivery bag holder, so it is held firmly with NO ropes, NO straps, NO cords and NO bungees anywhere. The bag's shoulder straps are tucked away out of sight. The logo faces the same way the crate logo did in each panel and stays exactly spelled 'bolly eats.' with the three steam lines. Change nothing else: same black step-through bike, wheels, lights, saddle, handlebars, three-panel layout, grey studio background, lighting and camera angles.",
+  "image_urls": [
+   "https://v3b.fal.media/files/b/0aae9d89/CMHw89-efVYS7wBVdrno8_ebike-bolly-palette-v1.jpg",
+   "https://v3b.fal.media/files/b/0aae9d89/hGMHlscrT49DB0qITyu7x_backpack-bolly-palette-v1.jpg"
+  ],
+  "resolution": "2K",
+  "aspect_ratio": "16:9",
+  "output_format": "jpeg",
+  "num_images": 1
+ }
+}

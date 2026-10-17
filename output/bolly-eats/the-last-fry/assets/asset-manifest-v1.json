@@ -1,0 +1,60 @@
+{
+  "project": "Bolly Eats — The Last Fry",
+  "version": "v1",
+  "images": [
+    {
+      "file": "bolly-eats-delivered-feast-v1.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "bytes": 2330732
+    },
+    {
+      "file": "bolly-eats-end-card-v1.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "bytes": 1301864
+    },
+    {
+      "file": "bolly-eats-logo-v1.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGBA",
+      "bytes": 636864
+    },
+    {
+      "file": "bolly-eats-order-confirmation-v1.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGB",
+      "bytes": 1333136
+    },
+    {
+      "file": "bolly-eats-packaging-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 2104859
+    },
+    {
+      "file": "last-fry-prop-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 2240240
+    },
+    {
+      "file": "living-room-reference-v1.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "bytes": 2379245
+    }
+  ],
+  "verified": {
+    "png_files_readable": true,
+    "master_logo_has_transparency": true,
+    "visual_review": "Reviewed all seven generated images for branding, copy, scene use and subject count."
+  }
+}
