@@ -1,0 +1,115 @@
+{
+ "title": "SC 05 / Office lobby: walks in, out of the lift",
+ "subtitle": "Revolving door screen-left of the floor plan, lifts along the lower wall, reception far end",
+ "tables": [
+  {
+   "shape": "round",
+   "x": 250,
+   "y": 540,
+   "r": 90
+  }
+ ],
+ "props": [
+  {
+   "kind": "box",
+   "x": 250,
+   "y": 420,
+   "w": 4,
+   "h": 4,
+   "label": "revolving door"
+  },
+  {
+   "kind": "box",
+   "x": 1120,
+   "y": 870,
+   "w": 520,
+   "h": 30,
+   "label": "lifts"
+  },
+  {
+   "kind": "box",
+   "x": 1600,
+   "y": 420,
+   "w": 220,
+   "h": 70,
+   "label": "reception desk"
+  },
+  {
+   "kind": "box",
+   "x": 900,
+   "y": 250,
+   "w": 4,
+   "h": 4,
+   "label": "glass wall, low sun from the left"
+  }
+ ],
+ "characters": [
+  {
+   "id": "A",
+   "name": "Banker",
+   "x": 620,
+   "y": 560,
+   "facing": 0,
+   "pose": "standing"
+  }
+ ],
+ "eyelines": [],
+ "moves": [
+  {
+   "who": "A",
+   "path": [
+    [
+     330,
+     550
+    ],
+    [
+     650,
+     640
+    ],
+    [
+     900,
+     800
+    ]
+   ],
+   "label": "in, nods to reception, to the lifts"
+  },
+  {
+   "who": "A",
+   "path": [
+    [
+     1180,
+     820
+    ],
+    [
+     1220,
+     650
+    ],
+    [
+     1450,
+     560
+    ]
+   ],
+   "label": "cut: lift opens, strides out"
+  }
+ ],
+ "cameras": [
+  {
+   "id": "1",
+   "x": 110,
+   "y": 540,
+   "aim": 0,
+   "fov": 63,
+   "range": 420,
+   "note": "Follows him through the revolving door, steady handheld, wide."
+  },
+  {
+   "id": "2",
+   "x": 1250,
+   "y": 560,
+   "aim": 90,
+   "fov": 47,
+   "range": 260,
+   "note": "Facing the lift: doors open, he steps out toward and past the lens."
+  }
+ ]
+}

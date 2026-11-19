@@ -1,0 +1,87 @@
+{
+ "url": "https://media.sume.com/artifacts/artf_mWc234726F9YY6RA7RgN0HO4Vd1TNnyg/images.png",
+ "request": {
+  "model": "bytedance-seed/seedream-5-pro",
+  "prompt": "A busy central London pavement just outside the street-level entrance of an Underground station on a bright overcast summer day. A wide pale stone pavement, a stainless-steel column with a blue stripe near the entrance, a station wall clad in bold black-and-white geometric tiles, red-brick Victorian buildings and modern glass offices across the road, a red double-decker bus passing in soft focus, tourists and office workers walking past out of focus. Camera at chest height with space in the centre of frame for someone to stop. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+  "aspect_ratio": "16:9",
+  "resolution": "2K",
+  "output_format": "png"
+ },
+ "response": {
+  "data": {
+   "request_id": "job_c698886a-4a4c-40b6-85be-c9f0ae52073b",
+   "job_id": "job_c698886a-4a4c-40b6-85be-c9f0ae52073b",
+   "status": "COMPLETED",
+   "result": {
+    "artifacts": [
+     {
+      "id": "artf_mWc234726F9YY6RA7RgN0HO4Vd1TNnyg",
+      "type": "image",
+      "url": "https://media.sume.com/artifacts/artf_mWc234726F9YY6RA7RgN0HO4Vd1TNnyg/images.png",
+      "content_type": "image/png",
+      "public_artifact_id": "artf_mWc234726F9YY6RA7RgN0HO4Vd1TNnyg",
+      "visibility": "public_by_link",
+      "size_bytes": 4799537,
+      "width": 2720,
+      "height": 1536,
+      "duration_ms": null,
+      "checksum_sha256": "e6fdf45829657ae7fa1c04b404bf66446f624219f2a759570f557439efacc109"
+     }
+    ]
+   },
+   "linked_resource": null,
+   "job": {
+    "id": "job_c698886a-4a4c-40b6-85be-c9f0ae52073b",
+    "type": "image_generation",
+    "status": "completed",
+    "model": "bytedance-seed/seedream-5-pro",
+    "idempotency_key": "a4c69ef3-d7e1-4275-9f11-b31d5c07ef01",
+    "communication_mode": "sync",
+    "created_at": "2026-11-18T12:22:24.162Z",
+    "updated_at": "2026-11-18T12:23:33.670Z",
+    "started_at": "2026-11-18T12:22:24.790Z",
+    "completed_at": "2026-11-18T12:23:33.670Z",
+    "canceled_at": null,
+    "auth_source": "api_key",
+    "result": {
+     "artifacts": [
+      {
+       "id": "artf_mWc234726F9YY6RA7RgN0HO4Vd1TNnyg",
+       "type": "image",
+       "url": "https://media.sume.com/artifacts/artf_mWc234726F9YY6RA7RgN0HO4Vd1TNnyg/images.png",
+       "content_type": "image/png",
+       "public_artifact_id": "artf_mWc234726F9YY6RA7RgN0HO4Vd1TNnyg",
+       "visibility": "public_by_link",
+       "size_bytes": 4799537,
+       "width": 2720,
+       "height": 1536,
+       "duration_ms": null,
+       "checksum_sha256": "e6fdf45829657ae7fa1c04b404bf66446f624219f2a759570f557439efacc109"
+      }
+     ]
+    },
+    "error": null,
+    "usage_summary": {
+     "status": "captured",
+     "reserved_credits": 6,
+     "captured_credits": 6,
+     "refunded_credits": 0,
+     "released_credits": 0,
+     "final": true,
+     "updated_at": "2026-11-18T12:23:34.415Z",
+     "reserved_usd_cents": 9,
+     "captured_usd_cents": 9,
+     "refunded_usd_cents": 0,
+     "released_usd_cents": 0
+    },
+    "webhook_delivery": null,
+    "input": {
+     "prompt": "A busy central London pavement just outside the street-level entrance of an Underground station on a bright overcast summer day. A wide pale stone pavement, a stainless-steel column with a blue stripe near the entrance, a station wall clad in bold black-and-white geometric tiles, red-brick Victorian buildings and modern glass offices across the road, a red double-decker bus passing in soft focus, tourists and office workers walking past out of focus. Camera at chest height with space in the centre of frame for someone to stop. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+     "resolution": "2K",
+     "aspect_ratio": "16:9",
+     "output_format": "png"
+    }
+   }
+  }
+ }
+}

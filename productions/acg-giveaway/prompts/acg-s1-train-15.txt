@@ -1,0 +1,47 @@
+SCENE CONTEXT
+A 15-second behind-the-scenes style brand film on a moving London Underground train on a grey winter morning. A small handheld crew is filming a senior investment banker for a company announcement. The banker sits alone on the far bench facing the camera; two crew members are on the near side of the aisle, behind and beside the camera. He checks they are rolling, starts his announcement, the train announcer interrupts with his stop, and he gets up and walks out of the doors.
+
+ACTIVE REFERENCES
+@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, light-blue eyes, tanned lined skin. Outfit exactly as @image1: black crew-neck T-shirt with the teal-green ACGM logo centred on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. Voice: a warm, slightly gravelly British baritone with polished, educated London vowels, unhurried, with a smile in it. 100% matches the reference.
+@image2: the exact T-shirt logo: a small teal-green pointed peak chevron above a large angular "M" mountain zigzag, with the word "ACGM" beneath in bold geometric capitals. It stays flat, sharp and readable on his chest whenever his coat is open toward camera.
+@image3: the Underground carriage, head-on view of the patterned blue-red-teal moquette bench with the long dark tunnel window above it, yellow grab pole and sliding doors on screen-right. 100% matches the reference.
+@image4: an overhead floor-plan blocking diagram of this carriage, used only for positions: the banker (A) in the centre of the far bench facing camera 1 directly across the aisle; the camera operator (B) holding camera 1; a crew member (C) standing just right of the camera; the doors on screen-right, where A exits. The diagram itself stays off screen; the film shows only the real carriage from @image3.
+
+FORMAT MODE
+One continuous handheld shot, the camera does not cut on its own.
+
+OPTICS
+47° medium shot, rectilinear, no drift once it settles on him.
+
+CAMERA
+Handheld at seated eye level from the near bench straight across the aisle, exactly as camera 1 in @image4, gentle sway with the train, small natural operator breathing. It opens framed on the dark window to the left of the banker, then pans right onto him at 5 km/h, and at the end pans right with him to the doors.
+
+FIRST FRAME / BLOCKING
+The first frame is the long black tunnel window above the empty left end of the far bench. The window works as a dark mirror: in it we clearly see the reflection of the crew on our side of the aisle, a young man in a dark beanie holding a small cinema camera at his eye and a woman beside him with headphones round her neck. The banker sits off-frame to the right, square to the lens in the centre seat, forearms on his thighs, coat open. The carriage is lightly busy like a real weekday morning: a young woman in earbuds scrolls her phone two seats to his left, an older man reads a folded newspaper at the far right end of the bench, and a student in a puffer jacket stands holding the yellow grab pole near the doors. They ignore the crew, glancing over only once with mild curiosity.
+
+ACTION
+0.0s–2.0s — hold on the window: tunnel lights streak past behind the crew's reflection; in the reflection the camera operator gives a small thumbs-up.
+2.0s–3.0s — the camera pans right and settles on the banker in a medium shot.
+3.0s–4.3s — he looks just past the lens to the woman beside the camera, eyebrows raised, and asks, unhurried: "Are we recording?"
+4.3s–5.2s — the woman's voice, off camera, friendly and quick: "Yep, we're rolling."
+5.2s–8.5s — he gives a small satisfied nod, his eyes settle on the lens, he leans in with his elbows on his knees and says with a slow, sly grin, pausing between the two sentences: "Good. ... Alpha Group isn't slowing down. We're doing this on the go." He opens one palm toward the carriage around him.
+8.5s–11.8s — a soft two-tone chime; the train begins to brake and his body sways gently with it. He stops and tilts his head up toward the ceiling speaker, listening, while a calm British woman's voice comes over the carriage speakers: "The next station is ACG Markets. Alight here for the one-hundred-thousand-dollar giveaway." A slow, delighted, disbelieving grin spreads across his face.
+11.8s–15.0s — he points up at the speaker, looks back into the lens and, already rising from the seat, says warmly: "In fact, let me get off the tube and I'll tell you more." Stepping past the student at the pole, he walks out through the opening doors on screen-right onto the platform, coat swinging; the camera pans right to watch him go.
+
+PERFORMANCE
+Relaxed, playful and completely sure of himself, a senior man enjoying the moment. He speaks slowly and calmly, about two words per second, with full stops and small breaths between sentences, never rushing. Natural lip sync on every word, small asymmetric smiles, crow's-feet creasing when he grins, eyebrows moving with his emphasis, eyes alive with catch-lights. Pore-level skin and fine lines.
+
+PHYSICS
+His body sways with the braking train, his weight shifts forward as he stands, the wool coat hem swings with real weight, the doors slide open as the train stops.
+
+LIGHTING
+Cool overhead fluorescent strips at 4300K, soft and even, small cool catch-lights in his eyes; the black tunnel window holds a clear, slightly dim reflection of the crew lit by the same strips.
+
+AUDIO
+Native synced dialogue only, no music: the banker, the crew woman's single off-camera reply, and the train announcement. Wheel rumble and carriage rattle under everything, the two-tone chime, the announcer's voice slightly band-limited through the carriage speakers with a little reverb, the hiss and thud of the doors opening. His voice is close and dry, as if on a small clip-on microphone.
+
+STYLE
+Photoreal premium documentary brand film, handheld vlog intimacy with cinematic polish, natural cool London colour with the teal-green logo as the brightest accent, fine film grain, real-time speed.
+
+POSITIVE LOCKS
+The same man with the same face, white hair, beard and outfit throughout; his coat stays open and the ACGM logo stays readable when he faces camera. He sits in the centre seat facing the lens and exits through the doors on screen-right, as in @image4. The crew appear only as reflections in the window at the start. The other passengers keep their own anonymous faces and stay in their places; the banker is the only one who speaks to camera. Each person speaks only their quoted line, word for word, in a British accent; the announcer speaks while he is still seated. One continuous take of 15 seconds.

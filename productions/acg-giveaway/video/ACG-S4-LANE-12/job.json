@@ -1,0 +1,84 @@
+{
+ "request_id": "job_f7f94b1c-57b2-4abe-a8e1-c3baa8f978b4",
+ "job": {
+  "id": "job_f7f94b1c-57b2-4abe-a8e1-c3baa8f978b4",
+  "type": "video_generation",
+  "status": "queued",
+  "model": "seedance-2.5",
+  "idempotency_key": "7e1545e3-3901-4f5c-a09e-abe1fdfd97a3",
+  "communication_mode": "async",
+  "created_at": "2026-11-18T14:24:20.599Z",
+  "updated_at": "2026-11-18T14:24:21.146Z",
+  "started_at": null,
+  "completed_at": null,
+  "canceled_at": null,
+  "auth_source": "api_key",
+  "result": null,
+  "error": null,
+  "usage_summary": null,
+  "webhook_delivery": null,
+  "input": {
+   "prompt": "SCENE CONTEXT\nA 12-second day-in-the-life walk-and-talk on a narrow Covent Garden street in London on a wet grey winter morning. A white-haired senior banker walks briskly along the lane, filmed by a handheld crew moving with him, and talks to the camera about his company's giveaway.\n\nACTIVE REFERENCES\n@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, light-blue eyes, tanned lined skin. Outfit exactly as @image1: black crew-neck T-shirt with the teal-green ACGM logo centred on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. Voice: a warm, slightly gravelly British baritone with polished, educated London vowels, unhurried, with a smile in it. 100% matches the reference.\n@image2: the exact T-shirt logo: a small teal-green pointed peak chevron above a large angular \"M\" mountain zigzag, with the word \"ACGM\" beneath in bold geometric capitals. It stays flat and readable on his chest when he faces camera.\n@image3: the Covent Garden lane: wet stone paving, red-brick and painted Georgian shopfronts with warm-lit windows, black iron bollards along both sides, a bare tree with tiny warm fairy lights at the far end, shoppers with umbrellas. 100% matches the reference.\n@image4: an overhead blocking diagram used only for positions: the banker (A) walking along the lane from screen-left to screen-right toward the fairy-light tree, camera 1 tracking alongside him, camera 2 following behind. The diagram itself stays off screen; the film shows only the real lane from @image3.\n\nFORMAT MODE\nTwo segments with one cut. Cuts only at the specified point, the camera does not cut on its own.\n\n0.0s to 3.0s \u2014 FOLLOW BEHIND\nOPTICS: 29\u00b0 medium-wide from behind, no drift.\nCAMERA: handheld, walking two metres behind him at his pace, 4 km/h, as camera 2 in @image4.\nACTION: the banker walks away from the lens down the middle of the wet lane toward the fairy-light tree, coat swinging, white hair catching the grey light, a realistic morning crowd around him: shoppers with umbrellas and paper bags, a courier pushing a bike, two office workers chatting with coffees, a shop assistant putting out a sandwich board; people part around him naturally; at 2.0s he glances back over his shoulder at the lens with a grin.\n\n3.0s HARD CUT\n\n3.0s to 12.0s \u2014 WALK AND TALK ALONGSIDE\nOPTICS: 47\u00b0 medium shot, waist up, no drift.\nCAMERA: handheld side-tracking shot level with him on his left, matching his pace at 4 km/h, as camera 1 in @image4, the shopfronts sliding past behind him.\nACTION: he walks and talks, turning his head to the lens on each line, coat open on the ACGM logo, one hand gesturing loosely:\n3.0s\u20136.5s \u2014 \"We wanted to make it a real opportunity for you.\"\n6.5s\u20139.5s \u2014 \"So we're giving away a hundred thousand dollars.\" A small emphatic nod on the number.\n9.5s\u201312.0s \u2014 a short laugh through his nose, eyebrows up: \"Honestly? It's so big, we need to head back to the office.\" He gestures ahead down the street.\n\nPERFORMANCE\nEnergised, warm and conspiratorial, a senior man enjoying his own news. He speaks slowly and clearly while walking, about two and a half words per second, with natural breaths from the walk. Natural lip sync, crow's-feet when he grins, faint redness at his nose and ears from the cold, faint visible breath.\n\nPHYSICS\nHeel strikes on the wet stone with small splashes, reflections of the shop lights sliding across the wet paving, coat hem swinging with each stride, umbrellas and shopping bags moving with passers-by.\n\nLIGHTING\nSoft grey winter daylight at 6000K from the open sky above the lane, warm 3200K glow from the shop windows on his face side, the fairy lights twinkling softly in the background.\n\nAUDIO\nNative synced dialogue only from the banker, no music. Footsteps on wet stone, light drizzle on umbrellas, distant street chatter and a far-off bicycle bell. His voice is close and dry, as if on a small clip-on microphone.\n\nSTYLE\nPhotoreal premium documentary brand film, handheld day-in-the-life energy, natural cool London colour with warm shop-window accents and the teal logo, fine film grain, real-time speed.\n\nPOSITIVE LOCKS\nThe same man with the same face, white hair, beard and outfit in both segments; his coat stays open and the ACGM logo stays readable when he faces camera. He walks from screen-left to screen-right toward the tree, as in @image4. Passers-by keep their own anonymous faces and move at their own pace. He speaks only the quoted lines, word for word, in a British accent. One cut only, at 3.0s.",
+   "duration": 12,
+   "resolution": "480p",
+   "aspect_ratio": "16:9",
+   "generate_audio": true,
+   "reference_image_urls": [
+    "https://media.sume.com/artifacts/artf_dLzzr4DChM3URzs9MH7cq3g2YaM68j1v/images.png",
+    "https://media.sume.com/artifacts/artf_fHRliduv49jAohkuGR-j17PVxMQfOux3/images.png",
+    "https://media.sume.com/artifacts/artf_e8euBRiRRXsPgCTdDVfxVG-nWoLRh0DN/images.png",
+    "https://media.sume.com/assets/asset_b8d1721f5d0b48d4b645ed33b794fe2f/source.jpg"
+   ]
+  }
+ },
+ "status_url": "https://api.sume.com/v1/jobs/job_f7f94b1c-57b2-4abe-a8e1-c3baa8f978b4/status",
+ "result_url": "https://api.sume.com/v1/jobs/job_f7f94b1c-57b2-4abe-a8e1-c3baa8f978b4/result",
+ "events_url": "https://api.sume.com/v1/jobs/job_f7f94b1c-57b2-4abe-a8e1-c3baa8f978b4/events",
+ "cancel_url": null,
+ "cancelable": false,
+ "next_action": "poll_status",
+ "next_poll_after_seconds": 2,
+ "recommended_poll_interval_seconds": 2,
+ "retry_after_seconds": null,
+ "result_ready": false,
+ "terminal": false,
+ "idempotency_hit": false,
+ "usage": {
+  "credits": 78,
+  "usd": "1.24"
+ },
+ "generation_limits": {
+  "tier": "free",
+  "plan_id": "free",
+  "limit_source": "plan",
+  "purchased_credits_last_4_weeks": 8812,
+  "purchased_concurrency_limit": 20,
+  "purchased_queued_jobs_limit": 100,
+  "plan_concurrency_limit": 20,
+  "plan_queued_jobs_limit": 100,
+  "concurrency_limit": 20,
+  "queued_jobs_limit": 100,
+  "admin_override_expires_at": null,
+  "accepted_generation_jobs_limit": 120,
+  "active_generation_jobs": 0,
+  "queued_generation_jobs": 5,
+  "accepted_generation_jobs": 5,
+  "queue_capacity_remaining": 115,
+  "wave_size_hint": 86
+ },
+ "sync": null,
+ "request": {
+  "model": "seedance-2.5",
+  "prompt": "SCENE CONTEXT\nA 12-second day-in-the-life walk-and-talk on a narrow Covent Garden street in London on a wet grey winter morning. A white-haired senior banker walks briskly along the lane, filmed by a handheld crew moving with him, and talks to the camera about his company's giveaway.\n\nACTIVE REFERENCES\n@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, light-blue eyes, tanned lined skin. Outfit exactly as @image1: black crew-neck T-shirt with the teal-green ACGM logo centred on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. Voice: a warm, slightly gravelly British baritone with polished, educated London vowels, unhurried, with a smile in it. 100% matches the reference.\n@image2: the exact T-shirt logo: a small teal-green pointed peak chevron above a large angular \"M\" mountain zigzag, with the word \"ACGM\" beneath in bold geometric capitals. It stays flat and readable on his chest when he faces camera.\n@image3: the Covent Garden lane: wet stone paving, red-brick and painted Georgian shopfronts with warm-lit windows, black iron bollards along both sides, a bare tree with tiny warm fairy lights at the far end, shoppers with umbrellas. 100% matches the reference.\n@image4: an overhead blocking diagram used only for positions: the banker (A) walking along the lane from screen-left to screen-right toward the fairy-light tree, camera 1 tracking alongside him, camera 2 following behind. The diagram itself stays off screen; the film shows only the real lane from @image3.\n\nFORMAT MODE\nTwo segments with one cut. Cuts only at the specified point, the camera does not cut on its own.\n\n0.0s to 3.0s \u2014 FOLLOW BEHIND\nOPTICS: 29\u00b0 medium-wide from behind, no drift.\nCAMERA: handheld, walking two metres behind him at his pace, 4 km/h, as camera 2 in @image4.\nACTION: the banker walks away from the lens down the middle of the wet lane toward the fairy-light tree, coat swinging, white hair catching the grey light, a realistic morning crowd around him: shoppers with umbrellas and paper bags, a courier pushing a bike, two office workers chatting with coffees, a shop assistant putting out a sandwich board; people part around him naturally; at 2.0s he glances back over his shoulder at the lens with a grin.\n\n3.0s HARD CUT\n\n3.0s to 12.0s \u2014 WALK AND TALK ALONGSIDE\nOPTICS: 47\u00b0 medium shot, waist up, no drift.\nCAMERA: handheld side-tracking shot level with him on his left, matching his pace at 4 km/h, as camera 1 in @image4, the shopfronts sliding past behind him.\nACTION: he walks and talks, turning his head to the lens on each line, coat open on the ACGM logo, one hand gesturing loosely:\n3.0s\u20136.5s \u2014 \"We wanted to make it a real opportunity for you.\"\n6.5s\u20139.5s \u2014 \"So we're giving away a hundred thousand dollars.\" A small emphatic nod on the number.\n9.5s\u201312.0s \u2014 a short laugh through his nose, eyebrows up: \"Honestly? It's so big, we need to head back to the office.\" He gestures ahead down the street.\n\nPERFORMANCE\nEnergised, warm and conspiratorial, a senior man enjoying his own news. He speaks slowly and clearly while walking, about two and a half words per second, with natural breaths from the walk. Natural lip sync, crow's-feet when he grins, faint redness at his nose and ears from the cold, faint visible breath.\n\nPHYSICS\nHeel strikes on the wet stone with small splashes, reflections of the shop lights sliding across the wet paving, coat hem swinging with each stride, umbrellas and shopping bags moving with passers-by.\n\nLIGHTING\nSoft grey winter daylight at 6000K from the open sky above the lane, warm 3200K glow from the shop windows on his face side, the fairy lights twinkling softly in the background.\n\nAUDIO\nNative synced dialogue only from the banker, no music. Footsteps on wet stone, light drizzle on umbrellas, distant street chatter and a far-off bicycle bell. His voice is close and dry, as if on a small clip-on microphone.\n\nSTYLE\nPhotoreal premium documentary brand film, handheld day-in-the-life energy, natural cool London colour with warm shop-window accents and the teal logo, fine film grain, real-time speed.\n\nPOSITIVE LOCKS\nThe same man with the same face, white hair, beard and outfit in both segments; his coat stays open and the ACGM logo stays readable when he faces camera. He walks from screen-left to screen-right toward the tree, as in @image4. Passers-by keep their own anonymous faces and move at their own pace. He speaks only the quoted lines, word for word, in a British accent. One cut only, at 3.0s.\n",
+  "duration": 12,
+  "resolution": "480p",
+  "aspect_ratio": "16:9",
+  "generate_audio": true,
+  "reference_image_urls": [
+   "talent-v3",
+   "prop-tee-flatlay-v2",
+   "loc-04-london-lane",
+   "file:blocking/sc04-lane.png"
+  ]
+ }
+}

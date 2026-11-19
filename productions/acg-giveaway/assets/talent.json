@@ -1,0 +1,87 @@
+{
+ "url": "https://media.sume.com/artifacts/artf_Ia84xTf9nEXIdPakL4jDBSbTb7KgDRd_/images.png",
+ "request": {
+  "model": "bytedance-seed/seedream-5-pro",
+  "prompt": "A photorealistic character reference sheet of one man, on a seamless plain warm-grey studio backdrop with soft even light. Exactly three solid equal panels side by side with thin gaps: panel 1 is a front close-up headshot looking into the camera, panel 2 is a side-profile view of his head and shoulders, panel 3 is his full outfit from head to shoes, standing facing the camera with arms relaxed.\n\nThe man: Daniel, the confident founder-spokesman of a London trading firm, aged 36, strikingly handsome with model-grade looks. British of mixed Black Caribbean and white heritage, warm light-brown skin, a strong defined jaw, high cheekbones, warm hazel-brown eyes, a neat short boxed beard, short dark curly hair faded at the sides. A relaxed, charismatic half-smile, the look of someone about to share good news. Real skin texture and visible pores, no makeup look.\n\nOutfit, worn the same in all panels: a tailored navy wool overcoat worn open, over a slim charcoal-grey wool suit, a crisp light-blue cotton shirt with the collar open and no tie, polished dark-brown leather Chelsea boots. A slim steel watch on the left wrist. Expensive matte fabrics, sharp modern London tailoring.\n\nHe looks identical across all three panels. No text, labels, numbers or watermarks.",
+  "aspect_ratio": "16:9",
+  "resolution": "2K",
+  "output_format": "png"
+ },
+ "response": {
+  "data": {
+   "request_id": "job_7fbbbd72-28fd-43ff-810d-4a5db92060b6",
+   "job_id": "job_7fbbbd72-28fd-43ff-810d-4a5db92060b6",
+   "status": "COMPLETED",
+   "result": {
+    "artifacts": [
+     {
+      "id": "artf_Ia84xTf9nEXIdPakL4jDBSbTb7KgDRd_",
+      "type": "image",
+      "url": "https://media.sume.com/artifacts/artf_Ia84xTf9nEXIdPakL4jDBSbTb7KgDRd_/images.png",
+      "content_type": "image/png",
+      "public_artifact_id": "artf_Ia84xTf9nEXIdPakL4jDBSbTb7KgDRd_",
+      "visibility": "public_by_link",
+      "size_bytes": 3102120,
+      "width": 2720,
+      "height": 1536,
+      "duration_ms": null,
+      "checksum_sha256": "b5099144c6a5bf472c09a38b4c8f71e579438f8ee9c5c87b173ed17702582b0d"
+     }
+    ]
+   },
+   "linked_resource": null,
+   "job": {
+    "id": "job_7fbbbd72-28fd-43ff-810d-4a5db92060b6",
+    "type": "image_generation",
+    "status": "completed",
+    "model": "bytedance-seed/seedream-5-pro",
+    "idempotency_key": "d6c7c3f0-0295-4c82-9732-5c866b0a18c1",
+    "communication_mode": "sync",
+    "created_at": "2026-11-18T12:16:58.599Z",
+    "updated_at": "2026-11-18T12:18:10.499Z",
+    "started_at": "2026-11-18T12:16:59.246Z",
+    "completed_at": "2026-11-18T12:18:10.499Z",
+    "canceled_at": null,
+    "auth_source": "api_key",
+    "result": {
+     "artifacts": [
+      {
+       "id": "artf_Ia84xTf9nEXIdPakL4jDBSbTb7KgDRd_",
+       "type": "image",
+       "url": "https://media.sume.com/artifacts/artf_Ia84xTf9nEXIdPakL4jDBSbTb7KgDRd_/images.png",
+       "content_type": "image/png",
+       "public_artifact_id": "artf_Ia84xTf9nEXIdPakL4jDBSbTb7KgDRd_",
+       "visibility": "public_by_link",
+       "size_bytes": 3102120,
+       "width": 2720,
+       "height": 1536,
+       "duration_ms": null,
+       "checksum_sha256": "b5099144c6a5bf472c09a38b4c8f71e579438f8ee9c5c87b173ed17702582b0d"
+      }
+     ]
+    },
+    "error": null,
+    "usage_summary": {
+     "status": "captured",
+     "reserved_credits": 6,
+     "captured_credits": 6,
+     "refunded_credits": 0,
+     "released_credits": 0,
+     "final": true,
+     "updated_at": "2026-11-18T12:18:11.606Z",
+     "reserved_usd_cents": 9,
+     "captured_usd_cents": 9,
+     "refunded_usd_cents": 0,
+     "released_usd_cents": 0
+    },
+    "webhook_delivery": null,
+    "input": {
+     "prompt": "A photorealistic character reference sheet of one man, on a seamless plain warm-grey studio backdrop with soft even light. Exactly three solid equal panels side by side with thin gaps: panel 1 is a front close-up headshot looking into the camera, panel 2 is a side-profile view of his head and shoulders, panel 3 is his full outfit from head to shoes, standing facing the camera with arms relaxed.\n\nThe man: Daniel, the confident founder-spokesman of a London trading firm, aged 36, strikingly handsome with model-grade looks. British of mixed Black Caribbean and white heritage, warm light-brown skin, a strong defined jaw, high cheekbones, warm hazel-brown eyes, a neat short boxed beard, short dark curly hair faded at the sides. A relaxed, charismatic half-smile, the look of someone about to share good news. Real skin texture and visible pores, no makeup look.\n\nOutfit, worn the same in all panels: a tailored navy wool overcoat worn open, over a slim charcoal-grey wool suit, a crisp light-blue cotton shirt with the collar open and no tie, polished dark-brown leather Chelsea boots. A slim steel watch on the left wrist. Expensive matte fabrics, sharp modern London tailoring.\n\nHe looks identical across all three panels. No text, labels, numbers or watermarks.",
+     "resolution": "2K",
+     "aspect_ratio": "16:9",
+     "output_format": "png"
+    }
+   }
+  }
+ }
+}

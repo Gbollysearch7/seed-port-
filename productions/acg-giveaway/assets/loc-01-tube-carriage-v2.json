@@ -1,0 +1,87 @@
+{
+ "url": "https://media.sume.com/artifacts/artf_QU6VjdMJdoDTmBquWE4YYuGvhepBsP1O/images.png",
+ "request": {
+  "model": "bytedance-seed/seedream-5-pro",
+  "prompt": "The interior of a modern London Underground train carriage, photographed straight-on from a seat on one side of the carriage at seated eye level, looking directly across the narrow aisle at the facing row of seats, the lens square to them. The facing bench of seats in a busy blue, red and teal patterned moquette fabric fills the lower middle of the frame, and its middle seat, directly opposite the lens and centred in frame, is empty and clearly visible, ready for one passenger to sit facing the camera. Behind the seat backs, a long window shows the black tunnel wall blurring past. A yellow-green vertical grab pole stands in the aisle on the right third of the frame, the sliding doors begin at the right edge, small red safety stickers sit on the white panels. Soft, even cool fluorescent light from the ceiling strips, no hard rays, gentle shadows under the seats, a sliver of grey floor along the bottom edge. Medium-wide 35mm framing, the carriage otherwise empty. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+  "aspect_ratio": "16:9",
+  "resolution": "2K",
+  "output_format": "png"
+ },
+ "response": {
+  "data": {
+   "request_id": "job_b5e6b0d3-3930-4eb0-89be-9bf444bf212b",
+   "job_id": "job_b5e6b0d3-3930-4eb0-89be-9bf444bf212b",
+   "status": "COMPLETED",
+   "result": {
+    "artifacts": [
+     {
+      "id": "artf_QU6VjdMJdoDTmBquWE4YYuGvhepBsP1O",
+      "type": "image",
+      "url": "https://media.sume.com/artifacts/artf_QU6VjdMJdoDTmBquWE4YYuGvhepBsP1O/images.png",
+      "content_type": "image/png",
+      "public_artifact_id": "artf_QU6VjdMJdoDTmBquWE4YYuGvhepBsP1O",
+      "visibility": "public_by_link",
+      "size_bytes": 4639356,
+      "width": 2720,
+      "height": 1536,
+      "duration_ms": null,
+      "checksum_sha256": "0b7384cd97ccd358b154d4966d0e98acb9a77b00c03e14b556dd8483beb80b94"
+     }
+    ]
+   },
+   "linked_resource": null,
+   "job": {
+    "id": "job_b5e6b0d3-3930-4eb0-89be-9bf444bf212b",
+    "type": "image_generation",
+    "status": "completed",
+    "model": "bytedance-seed/seedream-5-pro",
+    "idempotency_key": "c1a4fbea-cf7c-4150-aac9-be194516c37d",
+    "communication_mode": "sync",
+    "created_at": "2026-11-18T12:44:53.650Z",
+    "updated_at": "2026-11-18T12:45:37.886Z",
+    "started_at": "2026-11-18T12:44:54.446Z",
+    "completed_at": "2026-11-18T12:45:37.886Z",
+    "canceled_at": null,
+    "auth_source": "api_key",
+    "result": {
+     "artifacts": [
+      {
+       "id": "artf_QU6VjdMJdoDTmBquWE4YYuGvhepBsP1O",
+       "type": "image",
+       "url": "https://media.sume.com/artifacts/artf_QU6VjdMJdoDTmBquWE4YYuGvhepBsP1O/images.png",
+       "content_type": "image/png",
+       "public_artifact_id": "artf_QU6VjdMJdoDTmBquWE4YYuGvhepBsP1O",
+       "visibility": "public_by_link",
+       "size_bytes": 4639356,
+       "width": 2720,
+       "height": 1536,
+       "duration_ms": null,
+       "checksum_sha256": "0b7384cd97ccd358b154d4966d0e98acb9a77b00c03e14b556dd8483beb80b94"
+      }
+     ]
+    },
+    "error": null,
+    "usage_summary": {
+     "status": "captured",
+     "reserved_credits": 6,
+     "captured_credits": 6,
+     "refunded_credits": 0,
+     "released_credits": 0,
+     "final": true,
+     "updated_at": "2026-11-18T12:45:38.133Z",
+     "reserved_usd_cents": 9,
+     "captured_usd_cents": 9,
+     "refunded_usd_cents": 0,
+     "released_usd_cents": 0
+    },
+    "webhook_delivery": null,
+    "input": {
+     "prompt": "The interior of a modern London Underground train carriage, photographed straight-on from a seat on one side of the carriage at seated eye level, looking directly across the narrow aisle at the facing row of seats, the lens square to them. The facing bench of seats in a busy blue, red and teal patterned moquette fabric fills the lower middle of the frame, and its middle seat, directly opposite the lens and centred in frame, is empty and clearly visible, ready for one passenger to sit facing the camera. Behind the seat backs, a long window shows the black tunnel wall blurring past. A yellow-green vertical grab pole stands in the aisle on the right third of the frame, the sliding doors begin at the right edge, small red safety stickers sit on the white panels. Soft, even cool fluorescent light from the ceiling strips, no hard rays, gentle shadows under the seats, a sliver of grey floor along the bottom edge. Medium-wide 35mm framing, the carriage otherwise empty. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+     "resolution": "2K",
+     "aspect_ratio": "16:9",
+     "output_format": "png"
+    }
+   }
+  }
+ }
+}

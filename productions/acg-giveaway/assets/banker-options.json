@@ -1,0 +1,93 @@
+{
+ "url": "https://media.sume.com/artifacts/artf_GuGtAAyvDoZ-L05GP_q-XXEEh5QM1I9Z/images.png",
+ "request": {
+  "model": "bytedance-seed/seedream-5.5",
+  "prompt": "A photorealistic casting reference sheet of three very different senior investment bankers, on a seamless plain warm-grey studio backdrop with soft even light. The sheet is a clean grid of exactly nine equal panels, in 3 rows and 3 columns with thin gaps. Each row is one man. Column 1 is a close-up of his face from the chest up looking at the camera, column 2 is a side view of his head and shoulders in profile, column 3 is his full outfit from head to toe with his shoes visible, standing facing the camera with arms relaxed.\n\nRow 1: a white British managing director, aged 62, with the looks of a veteran male model. A long lean face, a strong square jaw, clean-shaven, light grey eyes, short pure silver-white hair neatly side-parted, a calm, confident, slightly amused expression.\nRow 2: a Black British senior partner, aged 60, strikingly handsome. Deep brown skin, high cheekbones, warm dark-brown eyes, closely cropped pure-white hair and a neat, short pure-white full beard, a broad, charismatic smile.\nRow 3: an Italian-British banker, aged 66, a distinguished silver fox. Warm olive skin, a strong Roman nose, dark brown eyes behind slim tortoiseshell glasses, thick pure-white hair swept back to just above the collar, a trimmed white beard, a knowing, relaxed half-smile.\n\nThe three men must not resemble each other: different face shapes, skin tones, hair and beards. All are very handsome, with real skin texture, fine lines and visible pores.\n\nAll three wear the same outfit: the black crew-neck T-shirt from image 1 with its teal-green ACGM logo copied exactly (the small peak chevron, the angular \"M\" mountain zigzag and the word \"ACGM\" below), centred on the chest; an open tailored navy suit jacket and an open charcoal wool overcoat, both pushed back so the whole logo is visible in columns 1 and 3; matching navy suit trousers, polished black leather Chelsea boots and a slim gold dress watch.\n\nEach man looks identical across his three panels. No text anywhere except the T-shirt logo, no labels, numbers or watermarks.",
+  "aspect_ratio": "4:3",
+  "resolution": "2K",
+  "output_format": "png",
+  "input_references": [
+   "assets/prop-tee-flatlay-v2.png"
+  ]
+ },
+ "response": {
+  "data": {
+   "request_id": "job_18280908-c34d-43cf-bfa3-8672b3879f5c",
+   "job_id": "job_18280908-c34d-43cf-bfa3-8672b3879f5c",
+   "status": "COMPLETED",
+   "result": {
+    "artifacts": [
+     {
+      "id": "artf_GuGtAAyvDoZ-L05GP_q-XXEEh5QM1I9Z",
+      "type": "image",
+      "url": "https://media.sume.com/artifacts/artf_GuGtAAyvDoZ-L05GP_q-XXEEh5QM1I9Z/images.png",
+      "content_type": "image/png",
+      "public_artifact_id": "artf_GuGtAAyvDoZ-L05GP_q-XXEEh5QM1I9Z",
+      "visibility": "public_by_link",
+      "size_bytes": 5109031,
+      "width": 2368,
+      "height": 1776,
+      "duration_ms": null,
+      "checksum_sha256": "31385cc8424cfd2469b2d86257a3186c84b41d4b4c20e6ad60e92e7252a7ec32"
+     }
+    ]
+   },
+   "linked_resource": null,
+   "job": {
+    "id": "job_18280908-c34d-43cf-bfa3-8672b3879f5c",
+    "type": "image_generation",
+    "status": "completed",
+    "model": "bytedance-seed/seedream-5.5",
+    "idempotency_key": "59cb7d3d-fb4c-45c0-a8b5-ea7f5bf608d9",
+    "communication_mode": "sync",
+    "created_at": "2026-11-18T13:18:22.793Z",
+    "updated_at": "2026-11-18T13:18:59.213Z",
+    "started_at": "2026-11-18T13:18:25.071Z",
+    "completed_at": "2026-11-18T13:18:59.213Z",
+    "canceled_at": null,
+    "auth_source": "api_key",
+    "result": {
+     "artifacts": [
+      {
+       "id": "artf_GuGtAAyvDoZ-L05GP_q-XXEEh5QM1I9Z",
+       "type": "image",
+       "url": "https://media.sume.com/artifacts/artf_GuGtAAyvDoZ-L05GP_q-XXEEh5QM1I9Z/images.png",
+       "content_type": "image/png",
+       "public_artifact_id": "artf_GuGtAAyvDoZ-L05GP_q-XXEEh5QM1I9Z",
+       "visibility": "public_by_link",
+       "size_bytes": 5109031,
+       "width": 2368,
+       "height": 1776,
+       "duration_ms": null,
+       "checksum_sha256": "31385cc8424cfd2469b2d86257a3186c84b41d4b4c20e6ad60e92e7252a7ec32"
+      }
+     ]
+    },
+    "error": null,
+    "usage_summary": {
+     "status": "captured",
+     "reserved_credits": 3,
+     "captured_credits": 3,
+     "refunded_credits": 0,
+     "released_credits": 0,
+     "final": true,
+     "updated_at": "2026-11-18T13:19:00.440Z",
+     "reserved_usd_cents": 5,
+     "captured_usd_cents": 5,
+     "refunded_usd_cents": 0,
+     "released_usd_cents": 0
+    },
+    "webhook_delivery": null,
+    "input": {
+     "prompt": "A photorealistic casting reference sheet of three very different senior investment bankers, on a seamless plain warm-grey studio backdrop with soft even light. The sheet is a clean grid of exactly nine equal panels, in 3 rows and 3 columns with thin gaps. Each row is one man. Column 1 is a close-up of his face from the chest up looking at the camera, column 2 is a side view of his head and shoulders in profile, column 3 is his full outfit from head to toe with his shoes visible, standing facing the camera with arms relaxed.\n\nRow 1: a white British managing director, aged 62, with the looks of a veteran male model. A long lean face, a strong square jaw, clean-shaven, light grey eyes, short pure silver-white hair neatly side-parted, a calm, confident, slightly amused expression.\nRow 2: a Black British senior partner, aged 60, strikingly handsome. Deep brown skin, high cheekbones, warm dark-brown eyes, closely cropped pure-white hair and a neat, short pure-white full beard, a broad, charismatic smile.\nRow 3: an Italian-British banker, aged 66, a distinguished silver fox. Warm olive skin, a strong Roman nose, dark brown eyes behind slim tortoiseshell glasses, thick pure-white hair swept back to just above the collar, a trimmed white beard, a knowing, relaxed half-smile.\n\nThe three men must not resemble each other: different face shapes, skin tones, hair and beards. All are very handsome, with real skin texture, fine lines and visible pores.\n\nAll three wear the same outfit: the black crew-neck T-shirt from image 1 with its teal-green ACGM logo copied exactly (the small peak chevron, the angular \"M\" mountain zigzag and the word \"ACGM\" below), centred on the chest; an open tailored navy suit jacket and an open charcoal wool overcoat, both pushed back so the whole logo is visible in columns 1 and 3; matching navy suit trousers, polished black leather Chelsea boots and a slim gold dress watch.\n\nEach man looks identical across his three panels. No text anywhere except the T-shirt logo, no labels, numbers or watermarks.",
+     "image_urls": [
+      "https://media.sume.com/assets/asset_75cab3f865694a89996588a63d0d9de2/source.jpg"
+     ],
+     "resolution": "2K",
+     "aspect_ratio": "4:3",
+     "output_format": "png"
+    }
+   }
+  }
+ }
+}

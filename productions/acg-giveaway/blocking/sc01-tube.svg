@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+<defs><marker id="arr0" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#222"/></marker><marker id="arr1" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#4A5A78"/></marker><marker id="arr2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#5E9A55"/></marker><marker id="arr3" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#D4892F"/></marker></defs>
+<rect width="1920" height="1080" fill="#ffffff"/>
+<text x="40" y="58" font-family="Helvetica,Arial" font-size="30" font-weight="700" fill="#333333">SC 01 / Tube carriage: "Are we recording?"</text>
+<text x="40" y="94" font-family="Helvetica,Arial" font-size="20" fill="#777">Opens on the dark window left of A where the crew is reflected, pans right onto A; announcer while he's seated; he exits through the doors screen-right</text>
+<rect x="210.0" y="230.0" width="1300" height="100" rx="10" fill="none" stroke="#9a9a9a" stroke-width="2.5"/>
+<rect x="210.0" y="670.0" width="1300" height="100" rx="10" fill="none" stroke="#9a9a9a" stroke-width="2.5"/>
+<g transform="translate(860 215) rotate(0)">
+<rect x="-650.0" y="-7.0" width="1300" height="14" rx="6" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<g transform="translate(420 500) rotate(0)">
+<rect x="-2.0" y="-2.0" width="4" height="4" rx="6" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<text x="420" y="580" text-anchor="middle" font-family="Helvetica,Arial" font-size="18" fill="#777">aisle</text>
+<g transform="translate(420 175) rotate(0)">
+<rect x="-2.0" y="-2.0" width="4" height="4" rx="6" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<text x="420" y="255" text-anchor="middle" font-family="Helvetica,Arial" font-size="18" fill="#777">windows, dark tunnel</text>
+<g transform="translate(1600 280) rotate(0)">
+<path d="M 0 0 L 110 0 A 110 110 0 0 1 0 110" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<text x="1600" y="360" text-anchor="middle" font-family="Helvetica,Arial" font-size="18" fill="#777">doors</text>
+<g transform="translate(1600 720) rotate(0)">
+<path d="M 0 0 L 110 0 A 110 110 0 0 1 0 110" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<g transform="translate(560 215) rotate(0)">
+<rect x="-110.0" y="-7.0" width="220" height="14" rx="6" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<text x="560" y="295" text-anchor="middle" font-family="Helvetica,Arial" font-size="18" fill="#777">reflection of B and C here</text>
+<line x1="860" y1="300" x2="1060" y2="760" stroke="#4A5A78" stroke-width="1.5" stroke-opacity="0.6" stroke-dasharray="2 6"/>
+<g transform="translate(860 300) rotate(90)" color="#4A5A78">
+<path d="M -10 -62 Q -55 -60 -58 0 Q -55 60 -10 62 Q 20 55 22 0 Q 20 -55 -10 -62 Z" fill="currentColor" fill-opacity="0.10" stroke="currentColor" stroke-width="3"/>
+<path d="M 5 -50 Q 42.0 -60 70 -40" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="78" cy="-38" rx="11" ry="9" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<path d="M 5 50 Q 42.0 60 70 40" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="78" cy="38" rx="11" ry="9" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<circle cx="-6" cy="0" r="30" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<path d="M 22 -8 L 34 0 L 22 8" fill="none" stroke="currentColor" stroke-width="3"/>
+</g>
+<text x="860.0" y="203.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="26" font-weight="700" fill="#4A5A78">A</text>
+<g transform="translate(860 790) rotate(270)" color="#D4892F">
+<path d="M -10 -62 Q -55 -60 -58 0 Q -55 60 -10 62 Q 20 55 22 0 Q 20 -55 -10 -62 Z" fill="currentColor" fill-opacity="0.10" stroke="currentColor" stroke-width="3"/>
+<path d="M 5 -50 Q 21.0 -60 35 -40" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="43" cy="-38" rx="11" ry="9" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<path d="M 5 50 Q 21.0 60 35 40" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="43" cy="38" rx="11" ry="9" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<circle cx="-6" cy="0" r="30" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<path d="M 22 -8 L 34 0 L 22 8" fill="none" stroke="currentColor" stroke-width="3"/>
+</g>
+<text x="860.0" y="903.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="26" font-weight="700" fill="#D4892F">B</text>
+<g transform="translate(1060 760) rotate(250)" color="#5E9A55">
+<path d="M -10 -62 Q -55 -60 -58 0 Q -55 60 -10 62 Q 20 55 22 0 Q 20 -55 -10 -62 Z" fill="currentColor" fill-opacity="0.10" stroke="currentColor" stroke-width="3"/>
+<path d="M 5 -50 Q 21.0 -60 35 -40" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="43" cy="-38" rx="11" ry="9" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<path d="M 5 50 Q 21.0 60 35 40" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="43" cy="38" rx="11" ry="9" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<circle cx="-6" cy="0" r="30" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<path d="M 22 -8 L 34 0 L 22 8" fill="none" stroke="currentColor" stroke-width="3"/>
+</g>
+<text x="1095.912115049195" y="866.6677251825204" text-anchor="middle" font-family="Helvetica,Arial" font-size="26" font-weight="700" fill="#5E9A55">C</text>
+<path d="M 900 360 Q 1250 450 1560 340" fill="none" stroke="#4A5A78" stroke-width="3.5" stroke-dasharray="12 9" marker-end="url(#arr1)"/>
+<text x="1574" y="326" font-family="Helvetica,Arial" font-size="20" fill="#4A5A78">stop announced: stands, exits</text>
+<path d="M 860 700 L 641 414 L 907 343 Z" fill="#222" fill-opacity="0.05" stroke="#222" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="6 6"/>
+<g transform="translate(860 700) rotate(255)"><rect x="-26" y="-15" width="32" height="30" rx="4" fill="#222"/><path d="M 6 -8 L 26 -18 L 26 18 L 6 8 Z" fill="#222"/></g>
+<circle cx="872.423314164921" cy="746.3644396618753" r="20" fill="#fff" stroke="#222" stroke-width="2.5"/><text x="872.423314164921" y="753.3644396618753" text-anchor="middle" font-family="Helvetica,Arial" font-size="20" font-weight="700" fill="#222">1</text>
+<path d="M 1180 700 L 1370 371 L 1509 510 Z" fill="#222" fill-opacity="0.05" stroke="#222" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="6 6"/>
+<g transform="translate(1180 700) rotate(315)"><rect x="-26" y="-15" width="32" height="30" rx="4" fill="#222"/><path d="M 6 -8 L 26 -18 L 26 18 L 6 8 Z" fill="#222"/></g>
+<circle cx="1146.0588745030457" cy="733.9411254969543" r="20" fill="#fff" stroke="#222" stroke-width="2.5"/><text x="1146.0588745030457" y="740.9411254969543" text-anchor="middle" font-family="Helvetica,Arial" font-size="20" font-weight="700" fill="#222">2</text>
+<rect x="40" y="854" width="20" height="20" rx="4" fill="#4A5A78"/><text x="72" y="870" font-family="Helvetica,Arial" font-size="20" fill="#333333">A: Banker (talent), seated, faces camera</text>
+<rect x="40" y="888" width="20" height="20" rx="4" fill="#D4892F"/><text x="72" y="904" font-family="Helvetica,Arial" font-size="20" fill="#333333">B: Camera op (reflected in the window at the open)</text>
+<rect x="40" y="922" width="20" height="20" rx="4" fill="#5E9A55"/><text x="72" y="938" font-family="Helvetica,Arial" font-size="20" fill="#333333">C: Crew: "Yep, we're rolling" (off camera)</text>
+<text x="40" y="972" font-family="Helvetica,Arial" font-size="20" fill="#333333"><tspan font-weight="700">1</tspan>  Starts on the window left of A (crew reflection), pans right onto A at 2 s, holds MS; A faces lens.</text>
+<text x="40" y="1006" font-family="Helvetica,Arial" font-size="20" fill="#333333"><tspan font-weight="700">2</tspan>  Same take continues: A stands and steps out of the doors screen-right; cut at 15 s.</text>
+</svg>

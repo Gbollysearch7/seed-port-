@@ -1,0 +1,18 @@
+# media and bulky outputs stay local
+*.mp4
+*.mov
+*.m4a
+*.wav
+*.mp3
+*.png
+*.jpg
+*.jpeg
+*.cube
+*.dat
+*.log
+*.bak
+*.tmp
+*.extra
+edit-v2/capcut-project-backup/
+audio/multivoice/scribe.json
+audio/multivoice/segments.json

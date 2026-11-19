@@ -1,0 +1,82 @@
+{
+ "request_id": "job_2579d21c-c02b-40de-885e-762b288ec2ba",
+ "job": {
+  "id": "job_2579d21c-c02b-40de-885e-762b288ec2ba",
+  "type": "video_generation",
+  "status": "queued",
+  "model": "seedance-2.5",
+  "idempotency_key": "321762ad-19bb-4e10-b392-52afefa6d068",
+  "communication_mode": "async",
+  "created_at": "2026-11-18T14:24:20.159Z",
+  "updated_at": "2026-11-18T14:24:20.752Z",
+  "started_at": null,
+  "completed_at": null,
+  "canceled_at": null,
+  "auth_source": "api_key",
+  "result": null,
+  "error": null,
+  "usage_summary": null,
+  "webhook_delivery": null,
+  "input": {
+   "prompt": "SCENE CONTEXT\nA 6-second shot of a white-haired senior banker arriving at his company's modern glass office building in the City of London on a winter morning: he walks in through the revolving door, then steps out of the lift.\n\nACTIVE REFERENCES\n@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, tanned lined skin. Outfit exactly as @image1: black crew-neck T-shirt with the teal-green ACGM logo on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. 100% matches the reference.\n@image2: the office lobby: glass revolving door, polished pale stone floor, floor-to-ceiling glass walls, brushed-steel lift doors on the right, minimal reception desk at the far end, low morning sun throwing long shadows. 100% matches the reference.\n@image3: an overhead blocking diagram used only for positions: camera 1 behind the banker at the revolving door, the lifts along the lower wall, camera 2 facing a lift door as he steps out. The diagram itself stays off screen; the film shows only the real lobby from @image2.\n\nFORMAT MODE\nTwo segments with one cut. Cuts only at the specified point, the camera does not cut on its own.\n\n0.0s to 3.0s \u2014 REVOLVING DOOR\nOPTICS: 63\u00b0 wide, no drift.\nCAMERA: handheld, following one step behind him through the revolving door, as camera 1 in @image3.\nACTION: he pushes through the revolving glass door into the sunlit lobby, long shadows sliding across the stone floor, and strides toward the lifts, giving a small friendly nod to the receptionist at the far desk. The lobby is alive with a normal morning: office workers in coats with coffees and lanyards crossing to the lifts, a courier signing for a parcel at reception, a security guard by the barriers.\n\n3.0s HARD CUT\n\n3.0s to 6.0s \u2014 OUT OF THE LIFT\nOPTICS: 47\u00b0 medium-wide, no drift.\nCAMERA: handheld facing the brushed-steel lift doors at chest height, as camera 2 in @image3.\nACTION: a soft lift chime; the doors slide open and the banker steps out toward the lens alongside two colleagues who peel off the other way, adjusting his gold watch, coat open on the ACGM logo, and walks briskly past the camera on screen-right with a confident half-smile.\n\nPERFORMANCE\nPurposeful and upbeat, a man arriving to deliver good news. Real skin texture, white hair catching the sunlight.\n\nPHYSICS\nThe revolving door turns with real glass weight, his coat hem swings, the lift doors part smoothly.\n\nLIGHTING\nStrong low morning sun at 4500K slicing through the glass walls from screen-left, long hard shadows across the polished floor, soft bounce off the pale stone filling his face.\n\nAUDIO\nNo dialogue, no music. The swish of the revolving door, footsteps on stone echoing in the lobby, the lift chime and doors sliding open.\n\nSTYLE\nPhotoreal premium documentary brand film, handheld, bright glassy City morning with the teal logo as the accent, fine film grain, real-time speed.\n\nPOSITIVE LOCKS\nThe same man with the same face, white hair and outfit in both segments; the ACGM logo stays readable when he faces camera. He enters through the revolving door and exits the lift past camera on screen-right, as in @image3. Office workers keep their own anonymous faces. One cut only, at 3.0s.",
+   "duration": 6,
+   "resolution": "480p",
+   "aspect_ratio": "16:9",
+   "generate_audio": true,
+   "reference_image_urls": [
+    "https://media.sume.com/artifacts/artf_dLzzr4DChM3URzs9MH7cq3g2YaM68j1v/images.png",
+    "https://media.sume.com/artifacts/artf_u44qYtSDSxJQKllv7pcfg7JBoEV-W_qW/images.png",
+    "https://media.sume.com/assets/asset_33000afd59fb4501a7500bde5ee5fb0b/source.jpg"
+   ]
+  }
+ },
+ "status_url": "https://api.sume.com/v1/jobs/job_2579d21c-c02b-40de-885e-762b288ec2ba/status",
+ "result_url": "https://api.sume.com/v1/jobs/job_2579d21c-c02b-40de-885e-762b288ec2ba/result",
+ "events_url": "https://api.sume.com/v1/jobs/job_2579d21c-c02b-40de-885e-762b288ec2ba/events",
+ "cancel_url": null,
+ "cancelable": false,
+ "next_action": "poll_status",
+ "next_poll_after_seconds": 2,
+ "recommended_poll_interval_seconds": 2,
+ "retry_after_seconds": null,
+ "result_ready": false,
+ "terminal": false,
+ "idempotency_hit": false,
+ "usage": {
+  "credits": 39,
+  "usd": "0.62"
+ },
+ "generation_limits": {
+  "tier": "free",
+  "plan_id": "free",
+  "limit_source": "plan",
+  "purchased_credits_last_4_weeks": 8812,
+  "purchased_concurrency_limit": 20,
+  "purchased_queued_jobs_limit": 100,
+  "plan_concurrency_limit": 20,
+  "plan_queued_jobs_limit": 100,
+  "concurrency_limit": 20,
+  "queued_jobs_limit": 100,
+  "admin_override_expires_at": null,
+  "accepted_generation_jobs_limit": 120,
+  "active_generation_jobs": 0,
+  "queued_generation_jobs": 2,
+  "accepted_generation_jobs": 2,
+  "queue_capacity_remaining": 118,
+  "wave_size_hint": 88
+ },
+ "sync": null,
+ "request": {
+  "model": "seedance-2.5",
+  "prompt": "SCENE CONTEXT\nA 6-second shot of a white-haired senior banker arriving at his company's modern glass office building in the City of London on a winter morning: he walks in through the revolving door, then steps out of the lift.\n\nACTIVE REFERENCES\n@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, tanned lined skin. Outfit exactly as @image1: black crew-neck T-shirt with the teal-green ACGM logo on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. 100% matches the reference.\n@image2: the office lobby: glass revolving door, polished pale stone floor, floor-to-ceiling glass walls, brushed-steel lift doors on the right, minimal reception desk at the far end, low morning sun throwing long shadows. 100% matches the reference.\n@image3: an overhead blocking diagram used only for positions: camera 1 behind the banker at the revolving door, the lifts along the lower wall, camera 2 facing a lift door as he steps out. The diagram itself stays off screen; the film shows only the real lobby from @image2.\n\nFORMAT MODE\nTwo segments with one cut. Cuts only at the specified point, the camera does not cut on its own.\n\n0.0s to 3.0s \u2014 REVOLVING DOOR\nOPTICS: 63\u00b0 wide, no drift.\nCAMERA: handheld, following one step behind him through the revolving door, as camera 1 in @image3.\nACTION: he pushes through the revolving glass door into the sunlit lobby, long shadows sliding across the stone floor, and strides toward the lifts, giving a small friendly nod to the receptionist at the far desk. The lobby is alive with a normal morning: office workers in coats with coffees and lanyards crossing to the lifts, a courier signing for a parcel at reception, a security guard by the barriers.\n\n3.0s HARD CUT\n\n3.0s to 6.0s \u2014 OUT OF THE LIFT\nOPTICS: 47\u00b0 medium-wide, no drift.\nCAMERA: handheld facing the brushed-steel lift doors at chest height, as camera 2 in @image3.\nACTION: a soft lift chime; the doors slide open and the banker steps out toward the lens alongside two colleagues who peel off the other way, adjusting his gold watch, coat open on the ACGM logo, and walks briskly past the camera on screen-right with a confident half-smile.\n\nPERFORMANCE\nPurposeful and upbeat, a man arriving to deliver good news. Real skin texture, white hair catching the sunlight.\n\nPHYSICS\nThe revolving door turns with real glass weight, his coat hem swings, the lift doors part smoothly.\n\nLIGHTING\nStrong low morning sun at 4500K slicing through the glass walls from screen-left, long hard shadows across the polished floor, soft bounce off the pale stone filling his face.\n\nAUDIO\nNo dialogue, no music. The swish of the revolving door, footsteps on stone echoing in the lobby, the lift chime and doors sliding open.\n\nSTYLE\nPhotoreal premium documentary brand film, handheld, bright glassy City morning with the teal logo as the accent, fine film grain, real-time speed.\n\nPOSITIVE LOCKS\nThe same man with the same face, white hair and outfit in both segments; the ACGM logo stays readable when he faces camera. He enters through the revolving door and exits the lift past camera on screen-right, as in @image3. Office workers keep their own anonymous faces. One cut only, at 3.0s.\n",
+  "duration": 6,
+  "resolution": "480p",
+  "aspect_ratio": "16:9",
+  "generate_audio": true,
+  "reference_image_urls": [
+   "talent-v3",
+   "loc-05-office-lobby",
+   "file:blocking/sc05-lobby.png"
+  ]
+ }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "Original edited Seedance train shot, 0\u201315.083333s",
+  "train_processing": "Local spectral suppression of isolated voice and pitched components; original broadband rail/air/rumble retained. Piano removal needs listening review.",
+  "theme_duck_dB": -11,
+  "speech_threshold_dBFS": -36,
+  "anticipation_ms": 100,
+  "hold_ms": 250,
+  "release_ms": 700,
+  "original_voices_preserved": true,
+  "picture_changes": false,
+  "train_gain": 2.092547970046528,
+  "speech_seconds": 28.73,
+  "music_gain_dB_during_speech_median": -10.999999999999996,
+  "duration": 63.25
+}

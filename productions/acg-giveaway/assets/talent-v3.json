@@ -1,0 +1,95 @@
+{
+ "url": "https://media.sume.com/artifacts/artf_dLzzr4DChM3URzs9MH7cq3g2YaM68j1v/images.png",
+ "request": {
+  "model": "bytedance-seed/seedream-5.5",
+  "prompt": "A photorealistic character reference sheet of one man. Image 1 shows the man: keep his exact face, bone structure, blue eyes, thick swept-back pure-white hair and short white stubble beard, unchanged and instantly recognisable. Image 2 shows the exact black T-shirt he wears, with the teal-green ACGM logo on the chest.\n\nLayout: exactly three solid equal panels side by side with thin gaps, on a seamless plain warm-grey studio backdrop with soft even light. Panel 1: a front close-up from the chest up looking into the camera. Panel 2: a side-profile view of his head and shoulders. Panel 3: his full outfit from head to shoes, standing facing the camera with arms relaxed.\n\nHe is a senior London investment banker, aged 64, distinguished and strikingly handsome, with real skin texture, fine lines and visible pores. A self-assured, warm half-smile.\n\nOutfit, the same in all panels: the black crew-neck T-shirt from image 2, with its teal-green ACGM logo copied exactly (the small peak chevron, the angular \"M\" mountain zigzag and the word \"ACGM\" below), centred on the chest. Over it, an open tailored navy suit jacket and an open charcoal wool overcoat, both pushed back so the whole logo stays fully visible, flat and uncovered in panels 1 and 3. Matching navy suit trousers, polished black leather Chelsea boots, a slim gold dress watch on the left wrist.\n\nHe looks identical across all three panels. No text anywhere except the T-shirt logo, no labels, numbers or watermarks.",
+  "aspect_ratio": "16:9",
+  "resolution": "2K",
+  "output_format": "png",
+  "input_references": [
+   "assets/talent-v2.png",
+   "assets/prop-tee-flatlay-v2.png"
+  ]
+ },
+ "response": {
+  "data": {
+   "request_id": "job_ca745fdf-15c2-49de-b65c-8d48c9462d28",
+   "job_id": "job_ca745fdf-15c2-49de-b65c-8d48c9462d28",
+   "status": "COMPLETED",
+   "result": {
+    "artifacts": [
+     {
+      "id": "artf_dLzzr4DChM3URzs9MH7cq3g2YaM68j1v",
+      "type": "image",
+      "url": "https://media.sume.com/artifacts/artf_dLzzr4DChM3URzs9MH7cq3g2YaM68j1v/images.png",
+      "content_type": "image/png",
+      "public_artifact_id": "artf_dLzzr4DChM3URzs9MH7cq3g2YaM68j1v",
+      "visibility": "public_by_link",
+      "size_bytes": 5584539,
+      "width": 2816,
+      "height": 1584,
+      "duration_ms": null,
+      "checksum_sha256": "f57549adba8c310ae982a07db854c1f8ed23347126ec7f179b4ce4561f3738bf"
+     }
+    ]
+   },
+   "linked_resource": null,
+   "job": {
+    "id": "job_ca745fdf-15c2-49de-b65c-8d48c9462d28",
+    "type": "image_generation",
+    "status": "completed",
+    "model": "bytedance-seed/seedream-5.5",
+    "idempotency_key": "6a2707d1-e51c-454a-91e3-9ca9c29e7852",
+    "communication_mode": "sync",
+    "created_at": "2026-11-18T13:15:31.614Z",
+    "updated_at": "2026-11-18T13:16:08.830Z",
+    "started_at": "2026-11-18T13:15:34.322Z",
+    "completed_at": "2026-11-18T13:16:08.830Z",
+    "canceled_at": null,
+    "auth_source": "api_key",
+    "result": {
+     "artifacts": [
+      {
+       "id": "artf_dLzzr4DChM3URzs9MH7cq3g2YaM68j1v",
+       "type": "image",
+       "url": "https://media.sume.com/artifacts/artf_dLzzr4DChM3URzs9MH7cq3g2YaM68j1v/images.png",
+       "content_type": "image/png",
+       "public_artifact_id": "artf_dLzzr4DChM3URzs9MH7cq3g2YaM68j1v",
+       "visibility": "public_by_link",
+       "size_bytes": 5584539,
+       "width": 2816,
+       "height": 1584,
+       "duration_ms": null,
+       "checksum_sha256": "f57549adba8c310ae982a07db854c1f8ed23347126ec7f179b4ce4561f3738bf"
+      }
+     ]
+    },
+    "error": null,
+    "usage_summary": {
+     "status": "captured",
+     "reserved_credits": 4,
+     "captured_credits": 4,
+     "refunded_credits": 0,
+     "released_credits": 0,
+     "final": true,
+     "updated_at": "2026-11-18T13:16:11.594Z",
+     "reserved_usd_cents": 6,
+     "captured_usd_cents": 6,
+     "refunded_usd_cents": 0,
+     "released_usd_cents": 0
+    },
+    "webhook_delivery": null,
+    "input": {
+     "prompt": "A photorealistic character reference sheet of one man. Image 1 shows the man: keep his exact face, bone structure, blue eyes, thick swept-back pure-white hair and short white stubble beard, unchanged and instantly recognisable. Image 2 shows the exact black T-shirt he wears, with the teal-green ACGM logo on the chest.\n\nLayout: exactly three solid equal panels side by side with thin gaps, on a seamless plain warm-grey studio backdrop with soft even light. Panel 1: a front close-up from the chest up looking into the camera. Panel 2: a side-profile view of his head and shoulders. Panel 3: his full outfit from head to shoes, standing facing the camera with arms relaxed.\n\nHe is a senior London investment banker, aged 64, distinguished and strikingly handsome, with real skin texture, fine lines and visible pores. A self-assured, warm half-smile.\n\nOutfit, the same in all panels: the black crew-neck T-shirt from image 2, with its teal-green ACGM logo copied exactly (the small peak chevron, the angular \"M\" mountain zigzag and the word \"ACGM\" below), centred on the chest. Over it, an open tailored navy suit jacket and an open charcoal wool overcoat, both pushed back so the whole logo stays fully visible, flat and uncovered in panels 1 and 3. Matching navy suit trousers, polished black leather Chelsea boots, a slim gold dress watch on the left wrist.\n\nHe looks identical across all three panels. No text anywhere except the T-shirt logo, no labels, numbers or watermarks.",
+     "image_urls": [
+      "https://media.sume.com/assets/asset_07141e053110449db566af641b8371d1/source.jpg",
+      "https://media.sume.com/assets/asset_37d75817cf8f4ed5b74c7711f2ea4a4a/source.jpg"
+     ],
+     "resolution": "2K",
+     "aspect_ratio": "16:9",
+     "output_format": "png"
+    }
+   }
+  }
+ }
+}

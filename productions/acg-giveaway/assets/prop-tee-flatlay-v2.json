@@ -1,0 +1,99 @@
+{
+ "url": "https://media.sume.com/artifacts/artf_fHRliduv49jAohkuGR-j17PVxMQfOux3/images.png",
+ "request": {
+  "model": "openai/gpt-image-2.5-sunburst",
+  "prompt": "Create a photorealistic product flat-lay sheet of one black T-shirt. Image 1 is the exact company logo to print on it.\n\nLayout: exactly three solid equal panels side by side with thin gaps, all shot from directly overhead on a seamless warm-grey paper background with soft, even studio light and gentle natural shadows. Panel 1: the front of the T-shirt laid perfectly flat and symmetrical, sleeves spread out. Panel 2: the back of the same T-shirt laid flat, completely plain black with no print. Panel 3: a straight-on close-up of the chest print showing the cotton texture and the ink.\n\nT-shirt: a premium heavyweight black cotton crew-neck tee, matte, ribbed collar, straight relaxed fit, clean stitching, neatly pressed with only soft natural folds.\n\nPrint: reproduce the logo from image 1 exactly, with the same shapes, proportions and spacing: the small pointed peak chevron on top, the large angular \"M\" mountain zigzag below it, and the word \"ACGM\" in bold geometric sans-serif capitals underneath. Print it once, centred horizontally on the chest of the front, about 12 cm wide, in solid brand teal-green ink (#2EC4AA) as a clean screen print. Spell exactly \"ACGM\", add no other words, outlines, circles or graphics. The print is flat, sharp, uncreased and fully visible.\n\nThe same T-shirt in all three panels. No text anywhere except the logo, no labels, no props, no hangers, no watermarks.",
+  "aspect_ratio": "16:9",
+  "resolution": "2K",
+  "output_format": "png",
+  "quality": "high",
+  "input_references": [
+   "logo/acgm-logo-green.png"
+  ]
+ },
+ "response": {
+  "data": {
+   "request_id": "job_c35f24d5-2aa6-4e2b-8279-8619433f20dd",
+   "job_id": "job_c35f24d5-2aa6-4e2b-8279-8619433f20dd",
+   "status": "COMPLETED",
+   "result": {
+    "artifacts": [
+     {
+      "id": "artf_fHRliduv49jAohkuGR-j17PVxMQfOux3",
+      "type": "image",
+      "url": "https://media.sume.com/artifacts/artf_fHRliduv49jAohkuGR-j17PVxMQfOux3/images.png",
+      "content_type": "image/png",
+      "public_artifact_id": "artf_fHRliduv49jAohkuGR-j17PVxMQfOux3",
+      "visibility": "public_by_link",
+      "size_bytes": 3468287,
+      "width": 2048,
+      "height": 1152,
+      "duration_ms": null,
+      "checksum_sha256": "79837172441cfeb123a66ccda6d4e7bfde636433719fa775294a311e5d6186c5"
+     }
+    ]
+   },
+   "linked_resource": null,
+   "job": {
+    "id": "job_c35f24d5-2aa6-4e2b-8279-8619433f20dd",
+    "type": "image_generation",
+    "status": "completed",
+    "model": "openai/gpt-image-2.5-sunburst",
+    "idempotency_key": "1bbce4cf-219a-4e32-8c64-733272938214",
+    "communication_mode": "sync",
+    "created_at": "2026-11-18T13:13:53.886Z",
+    "updated_at": "2026-11-18T13:14:34.384Z",
+    "started_at": "2026-11-18T13:13:54.540Z",
+    "completed_at": "2026-11-18T13:14:34.384Z",
+    "canceled_at": null,
+    "auth_source": "api_key",
+    "result": {
+     "artifacts": [
+      {
+       "id": "artf_fHRliduv49jAohkuGR-j17PVxMQfOux3",
+       "type": "image",
+       "url": "https://media.sume.com/artifacts/artf_fHRliduv49jAohkuGR-j17PVxMQfOux3/images.png",
+       "content_type": "image/png",
+       "public_artifact_id": "artf_fHRliduv49jAohkuGR-j17PVxMQfOux3",
+       "visibility": "public_by_link",
+       "size_bytes": 3468287,
+       "width": 2048,
+       "height": 1152,
+       "duration_ms": null,
+       "checksum_sha256": "79837172441cfeb123a66ccda6d4e7bfde636433719fa775294a311e5d6186c5"
+      }
+     ]
+    },
+    "error": null,
+    "usage_summary": {
+     "status": "reserved",
+     "reserved_credits": 4,
+     "captured_credits": 0,
+     "refunded_credits": 0,
+     "released_credits": 0,
+     "final": false,
+     "updated_at": "2026-11-18T13:13:53.899Z",
+     "reserved_usd_cents": 6,
+     "captured_usd_cents": 0,
+     "refunded_usd_cents": 0,
+     "released_usd_cents": 0
+    },
+    "webhook_delivery": null,
+    "input": {
+     "prompt": "Create a photorealistic product flat-lay sheet of one black T-shirt. Image 1 is the exact company logo to print on it.\n\nLayout: exactly three solid equal panels side by side with thin gaps, all shot from directly overhead on a seamless warm-grey paper background with soft, even studio light and gentle natural shadows. Panel 1: the front of the T-shirt laid perfectly flat and symmetrical, sleeves spread out. Panel 2: the back of the same T-shirt laid flat, completely plain black with no print. Panel 3: a straight-on close-up of the chest print showing the cotton texture and the ink.\n\nT-shirt: a premium heavyweight black cotton crew-neck tee, matte, ribbed collar, straight relaxed fit, clean stitching, neatly pressed with only soft natural folds.\n\nPrint: reproduce the logo from image 1 exactly, with the same shapes, proportions and spacing: the small pointed peak chevron on top, the large angular \"M\" mountain zigzag below it, and the word \"ACGM\" in bold geometric sans-serif capitals underneath. Print it once, centred horizontally on the chest of the front, about 12 cm wide, in solid brand teal-green ink (#2EC4AA) as a clean screen print. Spell exactly \"ACGM\", add no other words, outlines, circles or graphics. The print is flat, sharp, uncreased and fully visible.\n\nThe same T-shirt in all three panels. No text anywhere except the logo, no labels, no props, no hangers, no watermarks.",
+     "quality": "high",
+     "image_size": {
+      "width": 2048,
+      "height": 1152
+     },
+     "image_urls": [
+      "https://media.sume.com/assets/asset_b8fc39ddd394471496717bf583ab01ab/source.jpg"
+     ],
+     "resolution": "2K",
+     "aspect_ratio": "16:9",
+     "output_format": "png"
+    }
+   }
+  }
+ }
+}

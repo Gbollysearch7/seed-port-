@@ -1,0 +1,43 @@
+SCENE CONTEXT
+An 8-second handheld shot just outside a central London Underground station entrance on a grey winter morning. A white-haired banker, filmed by a small crew, stops on the busy pavement, pulls out his phone, tells the camera about his company's launch, then sets off and turns back to call the crew after him.
+
+ACTIVE REFERENCES
+@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, light-blue eyes, tanned lined skin. Outfit exactly as @image1: black crew-neck T-shirt with the teal-green ACGM logo centred on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. Voice: a warm, slightly gravelly British baritone with polished, educated London vowels, unhurried, with a smile in it. 100% matches the reference.
+@image2: the exact T-shirt logo: a small teal-green pointed peak chevron above a large angular "M" mountain zigzag, with the word "ACGM" beneath in bold geometric capitals. It stays flat, sharp and readable on his chest.
+@image3: the station entrance with black-and-white geometric tiled walls on both sides, a stainless column with a blue stripe, the damp pale stone pavement, red-brick buildings and a red double-decker bus across the road. 100% matches the reference.
+@image4: an overhead blocking diagram used only for positions: the camera just outside the tiled entrance, the banker (A) stopped by the blue-striped column facing the camera, then walking away along the pavement and turning back toward the camera. The diagram itself stays off screen; the film shows only the real street from @image3.
+
+FORMAT MODE
+One continuous shot, the camera does not cut on its own.
+
+OPTICS
+47° medium shot, no drift.
+
+CAMERA
+Handheld at chest height just outside the tiled entrance, as in @image4, small natural sway, holding on him; when he walks off it stays put for a beat, then starts to follow.
+
+FIRST FRAME / BLOCKING
+The banker already stands beside the blue-striped column, turned to face the lens, phone in his right hand with its screen glowing, a busy weekday crowd around him: commuters in dark coats and scarves streaming out of the station past both sides of the camera, people crossing behind him with coffees, briefcases and closed umbrellas, a cyclist on the road, the red bus slowly passing across the road.
+
+ACTION
+0.0s–1.5s — he glances down at the glowing phone in his right hand, thumb on the screen, then turns the screen briefly toward the lens.
+1.5s–5.5s — he lowers the phone and speaks to the lens at a calm pace, with a small proud nod: "So here it is. ACG Markets is live. And that's a big moment for us."
+5.5s–8.0s — he slips the phone into his coat, turns and takes three strides away from the camera along the pavement, weaving between commuters, then stops, turns back over his shoulder toward the station and the camera he has just come from, beckons with a tilt of his head and a grin, and calls: "Follow me."
+
+PERFORMANCE
+Confident, warm and a little mischievous, as if sharing good news with a friend. He speaks slowly, about two words per second, with a breath between the sentences. Natural lip sync, eyebrows lifting on "live", crow's-feet creasing when he grins, faint redness at his nose and ears from the cold, faint visible breath in the air.
+
+PHYSICS
+The phone has weight in his hand, his coat hem swings as he turns, commuters' coats and closed umbrellas move naturally.
+
+LIGHTING
+Soft overcast winter daylight at 6000K, no hard sun, gentle reflections on the damp paving, soft cool key on his face from the open sky, a faint teal glow from the phone screen on his chin.
+
+AUDIO
+Native synced dialogue only from the banker, no music. Traffic wash, the bus engine passing, footsteps on wet stone, distant chatter. His voice is close and dry, as if on a small clip-on microphone.
+
+STYLE
+Photoreal premium documentary brand film, handheld vlog intimacy, natural cool London colour with the teal logo as the brightest accent, fine film grain, real-time speed.
+
+POSITIVE LOCKS
+The same man with the same face, white hair and outfit; his coat stays open and the ACGM logo stays readable. He holds only his phone, then puts it inside his coat. He speaks only the quoted lines, word for word, in a British accent. He starts by the blue-striped column facing the lens, walks away, and turns back toward the camera for "Follow me", as in @image4. Passers-by keep their own anonymous faces and keep moving. One continuous 8-second take.

@@ -1,0 +1,82 @@
+{
+ "request_id": "job_684a9070-d898-4e91-8750-e4f0c79f5899",
+ "job": {
+  "id": "job_684a9070-d898-4e91-8750-e4f0c79f5899",
+  "type": "video_generation",
+  "status": "queued",
+  "model": "seedance-2.5",
+  "idempotency_key": "09fbf27e-c5f4-44a6-823c-c739fefc82d2",
+  "communication_mode": "async",
+  "created_at": "2026-11-18T14:24:20.123Z",
+  "updated_at": "2026-11-18T14:24:20.732Z",
+  "started_at": null,
+  "completed_at": null,
+  "canceled_at": null,
+  "auth_source": "api_key",
+  "result": null,
+  "error": null,
+  "usage_summary": null,
+  "webhook_delivery": null,
+  "input": {
+   "prompt": "SCENE CONTEXT\nA 6-second B-roll shot inside a deep London Underground station on a winter morning: a busy up escalator full of commuters, with a white-haired banker among them riding toward street level.\n\nACTIVE REFERENCES\n@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, tanned lined skin. Outfit exactly as @image1: black crew-neck T-shirt with the teal-green ACGM logo on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. 100% matches the reference.\n@image2: the long escalator shaft with three parallel escalators, brushed-steel balustrades, warm bronze uplighter lamps between them and a cream tiled curved tunnel. 100% matches the reference.\n@image3: an overhead blocking diagram used only for positions: the camera at the top of the escalator looking down the shaft, the banker (A) climbing up the middle escalator toward it. The diagram itself stays off screen; the film shows only the real station from @image2.\n\nFORMAT MODE\nOne continuous shot, the camera does not cut on its own.\n\nOPTICS\n63\u00b0 medium-wide, no drift.\n\nCAMERA\nHandheld from three steps above the banker on the same up escalator, looking down the shaft, rising with the escalator, as in @image3.\n\nFIRST FRAME / BLOCKING\nAll three escalators are running and full of real commuters: the two outer ones carry people up and down, every step visibly moving, a steady stream of people in dark winter coats, rucksacks, tote bags, headphones and takeaway coffees standing on the right, a few walking past on the left. The banker is in the middle escalator, eight steps below the camera, walking up on the left side.\n\nACTION\n0.0s\u20134.0s \u2014 the banker climbs the moving steps two at a time toward the lens, right hand sliding along the black handrail, passing two standing commuters with a polite nod; on the parallel escalators commuters ride up and down past the bronze lamps.\n4.0s\u20136.0s \u2014 he reaches two steps below the camera, flicks his left wrist to check his gold watch, a small private smile, coat open on the ACGM logo.\n\nPERFORMANCE\nBrisk, purposeful and good-humoured. Real skin texture, white hair moving slightly in the draught of the shaft.\n\nPHYSICS\nAll three escalators run continuously the whole time: the metal steps visibly flow upward and downward at a steady 2 km/h, the black handrails glide with them, riders rise and sink smoothly, coats sway with each step he takes.\n\nLIGHTING\nWarm bronze uplighters at 3400K glinting on his white hair, the steel balustrades and the teal logo.\n\nAUDIO\nNo dialogue, no music. Steady mechanical escalator hum, footsteps on metal treads, a distant platform announcement echo, murmured commuter chatter.\n\nSTYLE\nPhotoreal premium documentary brand film, handheld, warm station tones with the teal logo as the accent, fine film grain, real-time speed.\n\nPOSITIVE LOCKS\nThe same man with the same face, white hair and outfit; the ACGM logo stays readable when he faces camera. He climbs up toward the lens on the middle escalator, as in @image3. The escalators keep moving for the full take and the crowd keeps flowing. Commuters keep their own anonymous faces. One continuous 6-second take.",
+   "duration": 6,
+   "resolution": "480p",
+   "aspect_ratio": "16:9",
+   "generate_audio": true,
+   "reference_image_urls": [
+    "https://media.sume.com/artifacts/artf_dLzzr4DChM3URzs9MH7cq3g2YaM68j1v/images.png",
+    "https://media.sume.com/artifacts/artf_YKs9_G8es9or32KV7OKARGS6O_PCFuqj/images.png",
+    "https://media.sume.com/assets/asset_8be6f0dbc71448d8b281078ff35034bd/source.jpg"
+   ]
+  }
+ },
+ "status_url": "https://api.sume.com/v1/jobs/job_684a9070-d898-4e91-8750-e4f0c79f5899/status",
+ "result_url": "https://api.sume.com/v1/jobs/job_684a9070-d898-4e91-8750-e4f0c79f5899/result",
+ "events_url": "https://api.sume.com/v1/jobs/job_684a9070-d898-4e91-8750-e4f0c79f5899/events",
+ "cancel_url": null,
+ "cancelable": false,
+ "next_action": "poll_status",
+ "next_poll_after_seconds": 2,
+ "recommended_poll_interval_seconds": 2,
+ "retry_after_seconds": null,
+ "result_ready": false,
+ "terminal": false,
+ "idempotency_hit": false,
+ "usage": {
+  "credits": 39,
+  "usd": "0.62"
+ },
+ "generation_limits": {
+  "tier": "free",
+  "plan_id": "free",
+  "limit_source": "plan",
+  "purchased_credits_last_4_weeks": 8812,
+  "purchased_concurrency_limit": 20,
+  "purchased_queued_jobs_limit": 100,
+  "plan_concurrency_limit": 20,
+  "plan_queued_jobs_limit": 100,
+  "concurrency_limit": 20,
+  "queued_jobs_limit": 100,
+  "admin_override_expires_at": null,
+  "accepted_generation_jobs_limit": 120,
+  "active_generation_jobs": 0,
+  "queued_generation_jobs": 2,
+  "accepted_generation_jobs": 2,
+  "queue_capacity_remaining": 118,
+  "wave_size_hint": 88
+ },
+ "sync": null,
+ "request": {
+  "model": "seedance-2.5",
+  "prompt": "SCENE CONTEXT\nA 6-second B-roll shot inside a deep London Underground station on a winter morning: a busy up escalator full of commuters, with a white-haired banker among them riding toward street level.\n\nACTIVE REFERENCES\n@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, tanned lined skin. Outfit exactly as @image1: black crew-neck T-shirt with the teal-green ACGM logo on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. 100% matches the reference.\n@image2: the long escalator shaft with three parallel escalators, brushed-steel balustrades, warm bronze uplighter lamps between them and a cream tiled curved tunnel. 100% matches the reference.\n@image3: an overhead blocking diagram used only for positions: the camera at the top of the escalator looking down the shaft, the banker (A) climbing up the middle escalator toward it. The diagram itself stays off screen; the film shows only the real station from @image2.\n\nFORMAT MODE\nOne continuous shot, the camera does not cut on its own.\n\nOPTICS\n63\u00b0 medium-wide, no drift.\n\nCAMERA\nHandheld from three steps above the banker on the same up escalator, looking down the shaft, rising with the escalator, as in @image3.\n\nFIRST FRAME / BLOCKING\nAll three escalators are running and full of real commuters: the two outer ones carry people up and down, every step visibly moving, a steady stream of people in dark winter coats, rucksacks, tote bags, headphones and takeaway coffees standing on the right, a few walking past on the left. The banker is in the middle escalator, eight steps below the camera, walking up on the left side.\n\nACTION\n0.0s\u20134.0s \u2014 the banker climbs the moving steps two at a time toward the lens, right hand sliding along the black handrail, passing two standing commuters with a polite nod; on the parallel escalators commuters ride up and down past the bronze lamps.\n4.0s\u20136.0s \u2014 he reaches two steps below the camera, flicks his left wrist to check his gold watch, a small private smile, coat open on the ACGM logo.\n\nPERFORMANCE\nBrisk, purposeful and good-humoured. Real skin texture, white hair moving slightly in the draught of the shaft.\n\nPHYSICS\nAll three escalators run continuously the whole time: the metal steps visibly flow upward and downward at a steady 2 km/h, the black handrails glide with them, riders rise and sink smoothly, coats sway with each step he takes.\n\nLIGHTING\nWarm bronze uplighters at 3400K glinting on his white hair, the steel balustrades and the teal logo.\n\nAUDIO\nNo dialogue, no music. Steady mechanical escalator hum, footsteps on metal treads, a distant platform announcement echo, murmured commuter chatter.\n\nSTYLE\nPhotoreal premium documentary brand film, handheld, warm station tones with the teal logo as the accent, fine film grain, real-time speed.\n\nPOSITIVE LOCKS\nThe same man with the same face, white hair and outfit; the ACGM logo stays readable when he faces camera. He climbs up toward the lens on the middle escalator, as in @image3. The escalators keep moving for the full take and the crowd keeps flowing. Commuters keep their own anonymous faces. One continuous 6-second take.\n",
+  "duration": 6,
+  "resolution": "480p",
+  "aspect_ratio": "16:9",
+  "generate_audio": true,
+  "reference_image_urls": [
+   "talent-v3",
+   "loc-02-escalators",
+   "file:blocking/sc02-escalator.png"
+  ]
+ }
+}

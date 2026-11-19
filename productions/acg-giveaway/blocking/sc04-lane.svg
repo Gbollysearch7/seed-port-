@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+<defs><marker id="arr0" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#222"/></marker><marker id="arr1" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#4A5A78"/></marker></defs>
+<rect width="1920" height="1080" fill="#ffffff"/>
+<text x="40" y="58" font-family="Helvetica,Arial" font-size="30" font-weight="700" fill="#333333">SC 04 / Covent Garden lane: walk and talk</text>
+<text x="40" y="94" font-family="Helvetica,Arial" font-size="20" fill="#777">A walks screen-left to screen-right along the wet lane, talking to the lens; camera tracks alongside</text>
+<rect x="210.0" y="255.0" width="1500" height="90" rx="10" fill="none" stroke="#9a9a9a" stroke-width="2.5"/>
+<rect x="210.0" y="755.0" width="1500" height="90" rx="10" fill="none" stroke="#9a9a9a" stroke-width="2.5"/>
+<g transform="translate(420 240) rotate(0)">
+<rect x="-2.0" y="-2.0" width="4" height="4" rx="6" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<text x="420" y="320" text-anchor="middle" font-family="Helvetica,Arial" font-size="18" fill="#777">shopfronts</text>
+<g transform="translate(1500 760) rotate(0)">
+<rect x="-2.0" y="-2.0" width="4" height="4" rx="6" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<text x="1500" y="840" text-anchor="middle" font-family="Helvetica,Arial" font-size="18" fill="#777">shopfronts</text>
+<g transform="translate(700 380) rotate(0)">
+<rect x="-9.0" y="-9.0" width="18" height="18" rx="6" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<g transform="translate(1000 380) rotate(0)">
+<rect x="-9.0" y="-9.0" width="18" height="18" rx="6" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<g transform="translate(1300 380) rotate(0)">
+<rect x="-9.0" y="-9.0" width="18" height="18" rx="6" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<text x="1300" y="460" text-anchor="middle" font-family="Helvetica,Arial" font-size="18" fill="#777">bollards</text>
+<g transform="translate(1690 540) rotate(0)">
+<rect x="-2.0" y="-2.0" width="4" height="4" rx="6" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<text x="1690" y="620" text-anchor="middle" font-family="Helvetica,Arial" font-size="18" fill="#777">fairy-light tree</text>
+<g transform="translate(760 500) rotate(0)" color="#4A5A78">
+<path d="M -10 -62 Q -55 -60 -58 0 Q -55 60 -10 62 Q 20 55 22 0 Q 20 -55 -10 -62 Z" fill="currentColor" fill-opacity="0.10" stroke="currentColor" stroke-width="3"/>
+<path d="M 5 -50 Q 21.0 -60 35 -40" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="43" cy="-38" rx="11" ry="9" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<path d="M 5 50 Q 21.0 60 35 40" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="43" cy="38" rx="11" ry="9" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<circle cx="-6" cy="0" r="30" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<path d="M 22 -8 L 34 0 L 22 8" fill="none" stroke="currentColor" stroke-width="3"/>
+</g>
+<text x="655.0" y="508.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="26" font-weight="700" fill="#4A5A78">A</text>
+<path d="M 800 500 Q 1150 505 1500 500" fill="none" stroke="#4A5A78" stroke-width="3.5" stroke-dasharray="12 9" marker-end="url(#arr1)"/>
+<text x="1514" y="486" font-family="Helvetica,Arial" font-size="20" fill="#4A5A78">walks toward the tree</text>
+<path d="M 760 700 L 696 553 L 824 553 Z" fill="#222" fill-opacity="0.05" stroke="#222" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="6 6"/>
+<g transform="translate(760 700) rotate(270)"><rect x="-26" y="-15" width="32" height="30" rx="4" fill="#222"/><path d="M 6 -8 L 26 -18 L 26 18 L 6 8 Z" fill="#222"/></g>
+<circle cx="760.0" cy="748.0" r="20" fill="#fff" stroke="#222" stroke-width="2.5"/><text x="760.0" y="755.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="20" font-weight="700" fill="#222">1</text>
+<path d="M 420 510 L 710 435 L 710 585 Z" fill="#222" fill-opacity="0.05" stroke="#222" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="6 6"/>
+<g transform="translate(420 510) rotate(0)"><rect x="-26" y="-15" width="32" height="30" rx="4" fill="#222"/><path d="M 6 -8 L 26 -18 L 26 18 L 6 8 Z" fill="#222"/></g>
+<circle cx="372.0" cy="510.0" r="20" fill="#fff" stroke="#222" stroke-width="2.5"/><text x="372.0" y="517.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="20" font-weight="700" fill="#222">2</text>
+<rect x="40" y="922" width="20" height="20" rx="4" fill="#4A5A78"/><text x="72" y="938" font-family="Helvetica,Arial" font-size="20" fill="#333333">A: Banker, walking and talking at 4 km/h</text>
+<text x="40" y="972" font-family="Helvetica,Arial" font-size="20" fill="#333333"><tspan font-weight="700">1</tspan>  Side track, handheld, matching his pace 4 km/h; MS, he turns his head to the lens on each line.</text>
+<text x="40" y="1006" font-family="Helvetica,Arial" font-size="20" fill="#333333"><tspan font-weight="700">2</tspan>  Follow behind (day-in-the-life), for cutaways between lines.</text>
+</svg>

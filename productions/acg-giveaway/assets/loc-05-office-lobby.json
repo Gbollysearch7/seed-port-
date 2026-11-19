@@ -1,0 +1,87 @@
+{
+ "url": "https://media.sume.com/artifacts/artf_u44qYtSDSxJQKllv7pcfg7JBoEV-W_qW/images.png",
+ "request": {
+  "model": "bytedance-seed/seedream-5-pro",
+  "prompt": "The ground-floor lobby of a modern glass office building in the City of London in the morning. Polished pale stone floor, floor-to-ceiling glass walls, a bank of brushed-steel lift doors with glass panels on the right, a sleek minimal reception desk in the distance, strong warm sunlight slicing in from the left and casting long hard shadows across the floor. Empty of people. Camera at head height looking down the length of the lobby from the revolving entrance. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+  "aspect_ratio": "16:9",
+  "resolution": "2K",
+  "output_format": "png"
+ },
+ "response": {
+  "data": {
+   "request_id": "job_13993617-b6ad-4a75-bf30-300b3cfb2bef",
+   "job_id": "job_13993617-b6ad-4a75-bf30-300b3cfb2bef",
+   "status": "COMPLETED",
+   "result": {
+    "artifacts": [
+     {
+      "id": "artf_u44qYtSDSxJQKllv7pcfg7JBoEV-W_qW",
+      "type": "image",
+      "url": "https://media.sume.com/artifacts/artf_u44qYtSDSxJQKllv7pcfg7JBoEV-W_qW/images.png",
+      "content_type": "image/png",
+      "public_artifact_id": "artf_u44qYtSDSxJQKllv7pcfg7JBoEV-W_qW",
+      "visibility": "public_by_link",
+      "size_bytes": 5354371,
+      "width": 2720,
+      "height": 1536,
+      "duration_ms": null,
+      "checksum_sha256": "692be05834ae3a3cbcd9f6da634a31fb46a48324a9f1f5f85200a1e7e64ce3ef"
+     }
+    ]
+   },
+   "linked_resource": null,
+   "job": {
+    "id": "job_13993617-b6ad-4a75-bf30-300b3cfb2bef",
+    "type": "image_generation",
+    "status": "completed",
+    "model": "bytedance-seed/seedream-5-pro",
+    "idempotency_key": "1448b25a-6c16-4e2b-8625-bdd9a002382f",
+    "communication_mode": "sync",
+    "created_at": "2026-11-18T12:47:39.581Z",
+    "updated_at": "2026-11-18T12:48:31.518Z",
+    "started_at": "2026-11-18T12:47:40.263Z",
+    "completed_at": "2026-11-18T12:48:31.518Z",
+    "canceled_at": null,
+    "auth_source": "api_key",
+    "result": {
+     "artifacts": [
+      {
+       "id": "artf_u44qYtSDSxJQKllv7pcfg7JBoEV-W_qW",
+       "type": "image",
+       "url": "https://media.sume.com/artifacts/artf_u44qYtSDSxJQKllv7pcfg7JBoEV-W_qW/images.png",
+       "content_type": "image/png",
+       "public_artifact_id": "artf_u44qYtSDSxJQKllv7pcfg7JBoEV-W_qW",
+       "visibility": "public_by_link",
+       "size_bytes": 5354371,
+       "width": 2720,
+       "height": 1536,
+       "duration_ms": null,
+       "checksum_sha256": "692be05834ae3a3cbcd9f6da634a31fb46a48324a9f1f5f85200a1e7e64ce3ef"
+      }
+     ]
+    },
+    "error": null,
+    "usage_summary": {
+     "status": "captured",
+     "reserved_credits": 6,
+     "captured_credits": 6,
+     "refunded_credits": 0,
+     "released_credits": 0,
+     "final": true,
+     "updated_at": "2026-11-18T12:48:32.547Z",
+     "reserved_usd_cents": 9,
+     "captured_usd_cents": 9,
+     "refunded_usd_cents": 0,
+     "released_usd_cents": 0
+    },
+    "webhook_delivery": null,
+    "input": {
+     "prompt": "The ground-floor lobby of a modern glass office building in the City of London in the morning. Polished pale stone floor, floor-to-ceiling glass walls, a bank of brushed-steel lift doors with glass panels on the right, a sleek minimal reception desk in the distance, strong warm sunlight slicing in from the left and casting long hard shadows across the floor. Empty of people. Camera at head height looking down the length of the lobby from the revolving entrance. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+     "resolution": "2K",
+     "aspect_ratio": "16:9",
+     "output_format": "png"
+    }
+   }
+  }
+ }
+}

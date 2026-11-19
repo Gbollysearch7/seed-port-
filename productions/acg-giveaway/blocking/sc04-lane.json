@@ -1,0 +1,118 @@
+{
+ "title": "SC 04 / Covent Garden lane: walk and talk",
+ "subtitle": "A walks screen-left to screen-right along the wet lane, talking to the lens; camera tracks alongside",
+ "tables": [
+  {
+   "shape": "rect",
+   "x": 960,
+   "y": 300,
+   "w": 1500,
+   "h": 90
+  },
+  {
+   "shape": "rect",
+   "x": 960,
+   "y": 800,
+   "w": 1500,
+   "h": 90
+  }
+ ],
+ "props": [
+  {
+   "kind": "box",
+   "x": 420,
+   "y": 240,
+   "w": 4,
+   "h": 4,
+   "label": "shopfronts"
+  },
+  {
+   "kind": "box",
+   "x": 1500,
+   "y": 760,
+   "w": 4,
+   "h": 4,
+   "label": "shopfronts"
+  },
+  {
+   "kind": "box",
+   "x": 700,
+   "y": 380,
+   "w": 18,
+   "h": 18
+  },
+  {
+   "kind": "box",
+   "x": 1000,
+   "y": 380,
+   "w": 18,
+   "h": 18
+  },
+  {
+   "kind": "box",
+   "x": 1300,
+   "y": 380,
+   "w": 18,
+   "h": 18,
+   "label": "bollards"
+  },
+  {
+   "kind": "box",
+   "x": 1690,
+   "y": 540,
+   "w": 4,
+   "h": 4,
+   "label": "fairy-light tree"
+  }
+ ],
+ "characters": [
+  {
+   "id": "A",
+   "name": "Banker, walking and talking at 4 km/h",
+   "x": 760,
+   "y": 500,
+   "facing": 0,
+   "pose": "standing"
+  }
+ ],
+ "moves": [
+  {
+   "who": "A",
+   "path": [
+    [
+     800,
+     500
+    ],
+    [
+     1150,
+     505
+    ],
+    [
+     1500,
+     500
+    ]
+   ],
+   "label": "walks toward the tree"
+  }
+ ],
+ "cameras": [
+  {
+   "id": "1",
+   "x": 760,
+   "y": 700,
+   "aim": 270,
+   "fov": 47,
+   "range": 160,
+   "note": "Side track, handheld, matching his pace 4 km/h; MS, he turns his head to the lens on each line."
+  },
+  {
+   "id": "2",
+   "x": 420,
+   "y": 510,
+   "aim": 0,
+   "fov": 29,
+   "range": 300,
+   "note": "Follow behind (day-in-the-life), for cutaways between lines."
+  }
+ ]
+}

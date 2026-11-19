@@ -1,0 +1,87 @@
+{
+ "url": "https://media.sume.com/artifacts/artf_grIPkFn415GdQUBrJg9Pn71jZS3lFvBQ/images.png",
+ "request": {
+  "model": "bytedance-seed/seedream-5-pro",
+  "prompt": "The inside of a modern London trading firm's office, framed as a set for a casual seated talking-head interview. In the background, slightly out of focus: a wall of large screens showing abstract green and red market candlestick charts and dark dashboards, open-plan desks with monitors, exposed concrete ceiling with warm pendant lights, a few plants, big windows with soft daylight. An empty modern chair in the left third of the frame for the speaker, shallow depth of field. Calm, premium, tech-forward mood. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+  "aspect_ratio": "16:9",
+  "resolution": "2K",
+  "output_format": "png"
+ },
+ "response": {
+  "data": {
+   "request_id": "job_583c37b4-b30b-4690-8f0d-07ff753e9e1e",
+   "job_id": "job_583c37b4-b30b-4690-8f0d-07ff753e9e1e",
+   "status": "COMPLETED",
+   "result": {
+    "artifacts": [
+     {
+      "id": "artf_grIPkFn415GdQUBrJg9Pn71jZS3lFvBQ",
+      "type": "image",
+      "url": "https://media.sume.com/artifacts/artf_grIPkFn415GdQUBrJg9Pn71jZS3lFvBQ/images.png",
+      "content_type": "image/png",
+      "public_artifact_id": "artf_grIPkFn415GdQUBrJg9Pn71jZS3lFvBQ",
+      "visibility": "public_by_link",
+      "size_bytes": 4039917,
+      "width": 2720,
+      "height": 1536,
+      "duration_ms": null,
+      "checksum_sha256": "34833d760ab9b2c16d3b64ae2f685a7104175a14be1ae8c984a08e657d44fbd4"
+     }
+    ]
+   },
+   "linked_resource": null,
+   "job": {
+    "id": "job_583c37b4-b30b-4690-8f0d-07ff753e9e1e",
+    "type": "image_generation",
+    "status": "completed",
+    "model": "bytedance-seed/seedream-5-pro",
+    "idempotency_key": "acd5a3b6-a4cb-49c8-978f-5de7936e0b6c",
+    "communication_mode": "sync",
+    "created_at": "2026-11-18T12:48:42.481Z",
+    "updated_at": "2026-11-18T12:49:46.809Z",
+    "started_at": "2026-11-18T12:48:43.347Z",
+    "completed_at": "2026-11-18T12:49:46.809Z",
+    "canceled_at": null,
+    "auth_source": "api_key",
+    "result": {
+     "artifacts": [
+      {
+       "id": "artf_grIPkFn415GdQUBrJg9Pn71jZS3lFvBQ",
+       "type": "image",
+       "url": "https://media.sume.com/artifacts/artf_grIPkFn415GdQUBrJg9Pn71jZS3lFvBQ/images.png",
+       "content_type": "image/png",
+       "public_artifact_id": "artf_grIPkFn415GdQUBrJg9Pn71jZS3lFvBQ",
+       "visibility": "public_by_link",
+       "size_bytes": 4039917,
+       "width": 2720,
+       "height": 1536,
+       "duration_ms": null,
+       "checksum_sha256": "34833d760ab9b2c16d3b64ae2f685a7104175a14be1ae8c984a08e657d44fbd4"
+      }
+     ]
+    },
+    "error": null,
+    "usage_summary": {
+     "status": "captured",
+     "reserved_credits": 6,
+     "captured_credits": 6,
+     "refunded_credits": 0,
+     "released_credits": 0,
+     "final": true,
+     "updated_at": "2026-11-18T12:49:47.440Z",
+     "reserved_usd_cents": 9,
+     "captured_usd_cents": 9,
+     "refunded_usd_cents": 0,
+     "released_usd_cents": 0
+    },
+    "webhook_delivery": null,
+    "input": {
+     "prompt": "The inside of a modern London trading firm's office, framed as a set for a casual seated talking-head interview. In the background, slightly out of focus: a wall of large screens showing abstract green and red market candlestick charts and dark dashboards, open-plan desks with monitors, exposed concrete ceiling with warm pendant lights, a few plants, big windows with soft daylight. An empty modern chair in the left third of the frame for the speaker, shallow depth of field. Calm, premium, tech-forward mood. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+     "resolution": "2K",
+     "aspect_ratio": "16:9",
+     "output_format": "png"
+    }
+   }
+  }
+ }
+}

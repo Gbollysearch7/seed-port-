@@ -1,0 +1,87 @@
+{
+ "url": "https://media.sume.com/artifacts/artf_YKs9_G8es9or32KV7OKARGS6O_PCFuqj/images.png",
+ "request": {
+  "model": "bytedance-seed/seedream-5-pro",
+  "prompt": "A deep London Underground station escalator shaft, seen from the top looking down the long bank of three parallel escalators. Brushed-steel balustrades, warm bronze uplighter lamps between the escalators, cream tiled tunnel walls and ceiling curving overhead, a few commuters with bags riding up and down in soft focus. Directional signs hang overhead but their writing is blurred and unreadable. Warm, slightly golden station light. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+  "aspect_ratio": "16:9",
+  "resolution": "2K",
+  "output_format": "png"
+ },
+ "response": {
+  "data": {
+   "request_id": "job_4802b964-5ea7-4db8-8033-d5620a3a3fa5",
+   "job_id": "job_4802b964-5ea7-4db8-8033-d5620a3a3fa5",
+   "status": "COMPLETED",
+   "result": {
+    "artifacts": [
+     {
+      "id": "artf_YKs9_G8es9or32KV7OKARGS6O_PCFuqj",
+      "type": "image",
+      "url": "https://media.sume.com/artifacts/artf_YKs9_G8es9or32KV7OKARGS6O_PCFuqj/images.png",
+      "content_type": "image/png",
+      "public_artifact_id": "artf_YKs9_G8es9or32KV7OKARGS6O_PCFuqj",
+      "visibility": "public_by_link",
+      "size_bytes": 5482775,
+      "width": 2720,
+      "height": 1536,
+      "duration_ms": null,
+      "checksum_sha256": "30f38d9c0b7c585eedc45a8a9eed56755b14375efb3bfb5cc406cd825cbed973"
+     }
+    ]
+   },
+   "linked_resource": null,
+   "job": {
+    "id": "job_4802b964-5ea7-4db8-8033-d5620a3a3fa5",
+    "type": "image_generation",
+    "status": "completed",
+    "model": "bytedance-seed/seedream-5-pro",
+    "idempotency_key": "51ca09e7-f0ee-47e7-b460-048aa36c7015",
+    "communication_mode": "sync",
+    "created_at": "2026-11-18T12:21:42.108Z",
+    "updated_at": "2026-11-18T12:22:22.559Z",
+    "started_at": "2026-11-18T12:21:42.662Z",
+    "completed_at": "2026-11-18T12:22:22.559Z",
+    "canceled_at": null,
+    "auth_source": "api_key",
+    "result": {
+     "artifacts": [
+      {
+       "id": "artf_YKs9_G8es9or32KV7OKARGS6O_PCFuqj",
+       "type": "image",
+       "url": "https://media.sume.com/artifacts/artf_YKs9_G8es9or32KV7OKARGS6O_PCFuqj/images.png",
+       "content_type": "image/png",
+       "public_artifact_id": "artf_YKs9_G8es9or32KV7OKARGS6O_PCFuqj",
+       "visibility": "public_by_link",
+       "size_bytes": 5482775,
+       "width": 2720,
+       "height": 1536,
+       "duration_ms": null,
+       "checksum_sha256": "30f38d9c0b7c585eedc45a8a9eed56755b14375efb3bfb5cc406cd825cbed973"
+      }
+     ]
+    },
+    "error": null,
+    "usage_summary": {
+     "status": "captured",
+     "reserved_credits": 6,
+     "captured_credits": 6,
+     "refunded_credits": 0,
+     "released_credits": 0,
+     "final": true,
+     "updated_at": "2026-11-18T12:22:23.231Z",
+     "reserved_usd_cents": 9,
+     "captured_usd_cents": 9,
+     "refunded_usd_cents": 0,
+     "released_usd_cents": 0
+    },
+    "webhook_delivery": null,
+    "input": {
+     "prompt": "A deep London Underground station escalator shaft, seen from the top looking down the long bank of three parallel escalators. Brushed-steel balustrades, warm bronze uplighter lamps between the escalators, cream tiled tunnel walls and ceiling curving overhead, a few commuters with bags riding up and down in soft focus. Directional signs hang overhead but their writing is blurred and unreadable. Warm, slightly golden station light. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+     "resolution": "2K",
+     "aspect_ratio": "16:9",
+     "output_format": "png"
+    }
+   }
+  }
+ }
+}

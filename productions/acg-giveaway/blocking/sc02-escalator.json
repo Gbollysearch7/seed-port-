@@ -1,0 +1,109 @@
+{
+ "title": "SC 02 / Escalator: rides up to street level",
+ "subtitle": "Camera rides at the top of the escalator looking down the shaft; A climbs up toward the lens",
+ "tables": [
+  {
+   "shape": "rect",
+   "x": 900,
+   "y": 420,
+   "w": 1200,
+   "h": 80
+  },
+  {
+   "shape": "rect",
+   "x": 900,
+   "y": 540,
+   "w": 1200,
+   "h": 80
+  },
+  {
+   "shape": "rect",
+   "x": 900,
+   "y": 660,
+   "w": 1200,
+   "h": 80
+  }
+ ],
+ "props": [
+  {
+   "kind": "box",
+   "x": 900,
+   "y": 480,
+   "w": 1100,
+   "h": 6,
+   "label": ""
+  },
+  {
+   "kind": "box",
+   "x": 900,
+   "y": 600,
+   "w": 1100,
+   "h": 6
+  },
+  {
+   "kind": "box",
+   "x": 900,
+   "y": 760,
+   "w": 4,
+   "h": 4,
+   "label": "bronze lamps between escalators; commuters on outer escalators"
+  },
+  {
+   "kind": "box",
+   "x": 300,
+   "y": 540,
+   "w": 4,
+   "h": 4,
+   "label": "down to platforms"
+  },
+  {
+   "kind": "box",
+   "x": 1640,
+   "y": 420,
+   "w": 4,
+   "h": 4,
+   "label": "street exit"
+  }
+ ],
+ "characters": [
+  {
+   "id": "A",
+   "name": "Banker, climbing two steps at a time",
+   "x": 700,
+   "y": 540,
+   "facing": 0,
+   "pose": "standing"
+  }
+ ],
+ "moves": [
+  {
+   "who": "A",
+   "path": [
+    [
+     740,
+     540
+    ],
+    [
+     950,
+     540
+    ],
+    [
+     1150,
+     540
+    ]
+   ],
+   "label": "climbs, checks watch"
+  }
+ ],
+ "cameras": [
+  {
+   "id": "1",
+   "x": 1450,
+   "y": 540,
+   "aim": 180,
+   "fov": 63,
+   "range": 420,
+   "note": "Handheld 3 steps above A on the same escalator, looking down the shaft, rising with him at 2 km/h."
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+SCENE CONTEXT
+A 15-second behind-the-scenes style brand film shot by a small handheld crew on a grey London winter morning. A senior investment banker sits on a moving Underground train and records a surprise announcement straight into the lens, like a vlog. A train announcement interrupts him, he gets up for his stop, and we cut to him riding up the station escalator.
+
+ACTIVE REFERENCES
+@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, light-blue eyes, tanned lined skin. Outfit exactly as @image1 in every shot: black crew-neck T-shirt with the teal-green ACGM logo centred on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. Voice: a warm, slightly gravelly British baritone with polished, educated London vowels, unhurried, with a smile in it. 100% matches the reference.
+@image2: the exact T-shirt logo: a small teal-green pointed peak chevron above a large angular "M" mountain zigzag, the word "ACGM" beneath in bold geometric capitals. It stays flat, sharp and readable on his chest.
+@image3: the Underground carriage, head-on view of the patterned blue-red-teal moquette bench with the dark tunnel window behind it, yellow grab pole and sliding doors on screen-right. 100% matches the reference.
+@image4: an overhead floor-plan blocking diagram of this carriage, used only for positions. It shows the banker (A) seated in the centre of the far bench facing the camera, camera 1 on the near bench directly opposite him across the aisle, and the doors to screen-right, where he exits. The diagram itself stays off screen; the film shows only the real carriage from @image3.
+@image5: the long Underground escalator shaft with bronze uplighter lamps and a cream tiled tunnel. 100% matches the reference.
+
+FORMAT MODE
+Timed multishot, two segments. Cuts only at the specified point, the camera does not cut on its own.
+
+0.0s to 13.0s — TUBE CARRIAGE (@image1, @image2, @image3, layout from @image4)
+OPTICS: opens on the dark tunnel window at 47°, whip pan right, settles on the banker as a medium shot at 47°, no drift mid-segment.
+CAMERA: handheld at seated eye level from the near bench straight across the aisle, exactly as camera 1 in @image4, gentle sway with the train, small natural operator breathing.
+FIRST FRAME / BLOCKING: the frame opens on the black tunnel wall streaking past the carriage window. The banker sits alone in the centre seat of the far bench, square to the lens, knees apart, forearms resting on his thighs, coat open so the ACGM logo faces camera. The doors are on screen-right.
+ACTION:
+0.0s–0.8s — tunnel lights strobe across the window; the camera whips right with motion blur.
+0.8s–1.4s — the whip lands on the banker, already glancing just above the lens at the crew member holding the camera.
+1.4s–3.0s — he raises his eyebrows and asks: "Are we recording?" A one-beat pause, a small nod, his eyes drop to the lens: "Good."
+3.0s–8.5s — he leans in, elbows on knees, and speaks to the viewer with a conspiratorial grin: "You know, Alpha Group isn't slowing down. Look, we're even doing this announcement on the go." He opens one palm toward the carriage, gives a short warm laugh through his nose, then taps two fingers on his chest: "I just couldn't wait."
+8.5s–11.0s — a soft two-tone chime; the train decelerates and his body leans gently with it. A calm British woman's voice comes over the carriage speakers: "The next station is ACG Markets. Alight here for the one-hundred-thousand-dollar giveaway." His eyes flick up to the ceiling speaker, his eyebrows lift, a delighted disbelieving grin spreads across his face.
+11.0s–13.0s — he points up at the speaker, looks back into the lens and says: "That's my stop. Come on, I'll tell you on the way." He pushes off his knees and rises, turning toward the doors on screen-right, coat swinging open.
+LIGHTING: cool overhead fluorescent strips at 4300K, soft and even, small cool catch-lights in his eyes, tunnel lights flickering past the window behind him.
+
+13.0s HARD CUT
+
+13.0s to 15.0s — ESCALATOR (@image1, @image5)
+OPTICS: medium-wide at 63°, no drift.
+CAMERA: handheld from three steps above him on the up escalator, rising with him at 2 km/h.
+ACTION: the banker climbs the moving steps two at a time toward the lens, right hand sliding on the handrail, a quick flick of the left wrist to check his gold watch, a small private smile. Commuters soft and out of focus on the parallel escalator.
+LIGHTING: warm bronze uplighters at 3400K glinting on his white hair and the teal logo.
+
+PERFORMANCE
+Relaxed, playful and completely sure of himself, a senior man enjoying the moment. Real conversational rhythm with small breaths and micro-pauses, natural lip sync on every word, asymmetric smiles, crow's-feet creasing when he grins, eyebrows moving with his emphasis, eyes alive with catch-lights and always returning to the lens. Pore-level skin and fine lines.
+
+PHYSICS
+His body sways with the braking train, his weight shifts as he stands, the wool coat hem swings with real weight, the escalator steps carry him upward.
+
+AUDIO
+Native synced dialogue only from the banker and the train announcement, no music. Wheel rumble and carriage rattle, the two-tone chime, the announcer's voice slightly band-limited through the carriage speakers with a little reverb, then the escalator's mechanical hum and footsteps on metal treads. His voice is close and dry, as if on a small clip-on microphone.
+
+STYLE
+Photoreal premium documentary brand film, handheld vlog intimacy with cinematic polish, natural cool London colour with the teal-green logo as the brightest accent, fine film grain, real-time speed.
+
+POSITIVE LOCKS
+The same man with the same face, white hair, beard and outfit in both segments. His coat stays open and the teal-green ACGM logo stays visible and correctly spelled whenever his chest faces camera. In the train he sits in the centre seat facing the lens, with the doors on screen-right, as in @image4. He speaks only the quoted lines, word for word, in a British accent; the announcer speaks only her quoted line. One cut only, at 13.0s.

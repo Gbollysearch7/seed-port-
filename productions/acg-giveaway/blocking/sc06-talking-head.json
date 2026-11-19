@@ -1,0 +1,77 @@
+{
+ "title": "SC 06 / Talking head: how it works",
+ "subtitle": "A seated left of centre facing camera; market-screen wall behind him; producer off camera beside the lens",
+ "tables": [
+  {
+   "shape": "rect",
+   "x": 960,
+   "y": 210,
+   "w": 1300,
+   "h": 40
+  }
+ ],
+ "props": [
+  {
+   "kind": "box",
+   "x": 960,
+   "y": 160,
+   "w": 4,
+   "h": 4,
+   "label": "wall of market screens (green/red charts)"
+  },
+  {
+   "kind": "box",
+   "x": 1350,
+   "y": 380,
+   "w": 360,
+   "h": 110,
+   "label": "desks + monitors"
+  },
+  {
+   "kind": "box",
+   "x": 760,
+   "y": 470,
+   "w": 110,
+   "h": 110,
+   "label": "chair"
+  }
+ ],
+ "characters": [
+  {
+   "id": "A",
+   "name": "Banker, seated, coat off, jacket open",
+   "x": 760,
+   "y": 480,
+   "facing": 90
+  },
+  {
+   "id": "B",
+   "name": "Producer (off camera)",
+   "x": 1180,
+   "y": 820,
+   "facing": 200,
+   "pose": "standing"
+  }
+ ],
+ "eyelines": [],
+ "cameras": [
+  {
+   "id": "1",
+   "x": 900,
+   "y": 860,
+   "aim": 250,
+   "fov": 29,
+   "range": 420,
+   "note": "Locked off MCU, eye level; A talks straight into the lens. Logo visible on chest."
+  },
+  {
+   "id": "2",
+   "x": 1350,
+   "y": 800,
+   "aim": 225,
+   "fov": 47,
+   "range": 500,
+   "note": "Optional wide 3/4 angle for cutaways."
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "title": "SC 03 / Station exit: \"So here it is\"",
+ "subtitle": "A by the blue column facing camera; then walks away along the pavement and turns back toward the station/camera: \"Follow me\"",
+ "tables": [
+  {
+   "shape": "rect",
+   "x": 960,
+   "y": 200,
+   "w": 1500,
+   "h": 110
+  }
+ ],
+ "props": [
+  {
+   "kind": "box",
+   "x": 960,
+   "y": 200,
+   "w": 4,
+   "h": 4,
+   "label": "road: red bus passes left to right"
+  },
+  {
+   "kind": "box",
+   "x": 260,
+   "y": 440,
+   "w": 60,
+   "h": 220,
+   "label": "tiled wall"
+  },
+  {
+   "kind": "box",
+   "x": 260,
+   "y": 820,
+   "w": 60,
+   "h": 220,
+   "label": "tiled wall"
+  },
+  {
+   "kind": "box",
+   "x": 1500,
+   "y": 420,
+   "w": 4,
+   "h": 4,
+   "label": "commuters cross both ways"
+  },
+  {
+   "kind": "box",
+   "x": 1180,
+   "y": 470,
+   "w": 40,
+   "h": 40,
+   "label": "blue-striped column"
+  },
+  {
+   "id": "phone",
+   "kind": "phone",
+   "x": 980,
+   "y": 700,
+   "rot": 0,
+   "hero": true,
+   "label": "phone"
+  }
+ ],
+ "characters": [
+  {
+   "id": "A",
+   "name": "Banker, stops and turns to camera",
+   "x": 1060,
+   "y": 600,
+   "facing": 180,
+   "pose": "standing"
+  }
+ ],
+ "eyelines": [
+  {
+   "from": "A",
+   "to": "phone"
+  }
+ ],
+ "moves": [
+  {
+   "who": "A",
+   "path": [
+    [
+     420,
+     640
+    ],
+    [
+     700,
+     660
+    ],
+    [
+     990,
+     610
+    ]
+   ],
+   "label": ""
+  },
+  {
+   "who": "A",
+   "path": [
+    [
+     1100,
+     620
+    ],
+    [
+     1300,
+     700
+    ],
+    [
+     1480,
+     760
+    ]
+   ],
+   "label": "walks off, turns back: \"Follow me\""
+  }
+ ],
+ "cameras": [
+  {
+   "id": "1",
+   "x": 640,
+   "y": 630,
+   "aim": 0,
+   "fov": 47,
+   "range": 380,
+   "note": "Handheld chest height outside the entrance; holds MS as he talks, then follows him after \"Follow me\"."
+  }
+ ]
+}

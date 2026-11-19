@@ -1,0 +1,86 @@
+{
+ "request_id": "job_1302da81-4a8a-47ff-b4ac-45731670ea3e",
+ "job": {
+  "id": "job_1302da81-4a8a-47ff-b4ac-45731670ea3e",
+  "type": "video_generation",
+  "status": "queued",
+  "model": "seedance-2",
+  "idempotency_key": "819b49b2-bb87-46f3-a130-5122bb65bb32",
+  "communication_mode": "async",
+  "created_at": "2026-11-18T13:38:35.406Z",
+  "updated_at": "2026-11-18T13:38:35.960Z",
+  "started_at": null,
+  "completed_at": null,
+  "canceled_at": null,
+  "auth_source": "api_key",
+  "result": null,
+  "error": null,
+  "usage_summary": null,
+  "webhook_delivery": null,
+  "input": {
+   "prompt": "SCENE CONTEXT\nA 15-second behind-the-scenes style brand film shot by a small handheld crew on a grey London winter morning. A senior investment banker sits on a moving Underground train and records a surprise announcement straight into the lens, like a vlog. A train announcement interrupts him, he gets up for his stop, and we cut to him riding up the station escalator.\n\nACTIVE REFERENCES\n@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, light-blue eyes, tanned lined skin. Outfit exactly as @image1 in every shot: black crew-neck T-shirt with the teal-green ACGM logo centred on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. Voice: a warm, slightly gravelly British baritone with polished, educated London vowels, unhurried, with a smile in it. 100% matches the reference.\n@image2: the exact T-shirt logo: a small teal-green pointed peak chevron above a large angular \"M\" mountain zigzag, the word \"ACGM\" beneath in bold geometric capitals. It stays flat, sharp and readable on his chest.\n@image3: the Underground carriage, head-on view of the patterned blue-red-teal moquette bench with the dark tunnel window behind it, yellow grab pole and sliding doors on screen-right. 100% matches the reference.\n@image4: an overhead floor-plan blocking diagram of this carriage, used only for positions. It shows the banker (A) seated in the centre of the far bench facing the camera, camera 1 on the near bench directly opposite him across the aisle, and the doors to screen-right, where he exits. The diagram itself stays off screen; the film shows only the real carriage from @image3.\n@image5: the long Underground escalator shaft with bronze uplighter lamps and a cream tiled tunnel. 100% matches the reference.\n\nFORMAT MODE\nTimed multishot, two segments. Cuts only at the specified point, the camera does not cut on its own.\n\n0.0s to 13.0s \u2014 TUBE CARRIAGE (@image1, @image2, @image3, layout from @image4)\nOPTICS: opens on the dark tunnel window at 47\u00b0, whip pan right, settles on the banker as a medium shot at 47\u00b0, no drift mid-segment.\nCAMERA: handheld at seated eye level from the near bench straight across the aisle, exactly as camera 1 in @image4, gentle sway with the train, small natural operator breathing.\nFIRST FRAME / BLOCKING: the frame opens on the black tunnel wall streaking past the carriage window. The banker sits alone in the centre seat of the far bench, square to the lens, knees apart, forearms resting on his thighs, coat open so the ACGM logo faces camera. The doors are on screen-right.\nACTION:\n0.0s\u20130.8s \u2014 tunnel lights strobe across the window; the camera whips right with motion blur.\n0.8s\u20131.4s \u2014 the whip lands on the banker, already glancing just above the lens at the crew member holding the camera.\n1.4s\u20133.0s \u2014 he raises his eyebrows and asks: \"Are we recording?\" A one-beat pause, a small nod, his eyes drop to the lens: \"Good.\"\n3.0s\u20138.5s \u2014 he leans in, elbows on knees, and speaks to the viewer with a conspiratorial grin: \"You know, Alpha Group isn't slowing down. Look, we're even doing this announcement on the go.\" He opens one palm toward the carriage, gives a short warm laugh through his nose, then taps two fingers on his chest: \"I just couldn't wait.\"\n8.5s\u201311.0s \u2014 a soft two-tone chime; the train decelerates and his body leans gently with it. A calm British woman's voice comes over the carriage speakers: \"The next station is ACG Markets. Alight here for the one-hundred-thousand-dollar giveaway.\" His eyes flick up to the ceiling speaker, his eyebrows lift, a delighted disbelieving grin spreads across his face.\n11.0s\u201313.0s \u2014 he points up at the speaker, looks back into the lens and says: \"That's my stop. Come on, I'll tell you on the way.\" He pushes off his knees and rises, turning toward the doors on screen-right, coat swinging open.\nLIGHTING: cool overhead fluorescent strips at 4300K, soft and even, small cool catch-lights in his eyes, tunnel lights flickering past the window behind him.\n\n13.0s HARD CUT\n\n13.0s to 15.0s \u2014 ESCALATOR (@image1, @image5)\nOPTICS: medium-wide at 63\u00b0, no drift.\nCAMERA: handheld from three steps above him on the up escalator, rising with him at 2 km/h.\nACTION: the banker climbs the moving steps two at a time toward the lens, right hand sliding on the handrail, a quick flick of the left wrist to check his gold watch, a small private smile. Commuters soft and out of focus on the parallel escalator.\nLIGHTING: warm bronze uplighters at 3400K glinting on his white hair and the teal logo.\n\nPERFORMANCE\nRelaxed, playful and completely sure of himself, a senior man enjoying the moment. Real conversational rhythm with small breaths and micro-pauses, natural lip sync on every word, asymmetric smiles, crow's-feet creasing when he grins, eyebrows moving with his emphasis, eyes alive with catch-lights and always returning to the lens. Pore-level skin and fine lines.\n\nPHYSICS\nHis body sways with the braking train, his weight shifts as he stands, the wool coat hem swings with real weight, the escalator steps carry him upward.\n\nAUDIO\nNative synced dialogue only from the banker and the train announcement, no music. Wheel rumble and carriage rattle, the two-tone chime, the announcer's voice slightly band-limited through the carriage speakers with a little reverb, then the escalator's mechanical hum and footsteps on metal treads. His voice is close and dry, as if on a small clip-on microphone.\n\nSTYLE\nPhotoreal premium documentary brand film, handheld vlog intimacy with cinematic polish, natural cool London colour with the teal-green logo as the brightest accent, fine film grain, real-time speed.\n\nPOSITIVE LOCKS\nThe same man with the same face, white hair, beard and outfit in both segments. His coat stays open and the teal-green ACGM logo stays visible and correctly spelled whenever his chest faces camera. In the train he sits in the centre seat facing the lens, with the doors on screen-right, as in @image4. He speaks only the quoted lines, word for word, in a British accent; the announcer speaks only her quoted line. One cut only, at 13.0s.",
+   "duration": 15,
+   "resolution": "480p",
+   "aspect_ratio": "16:9",
+   "generate_audio": true,
+   "reference_image_urls": [
+    "https://media.sume.com/artifacts/artf_dLzzr4DChM3URzs9MH7cq3g2YaM68j1v/images.png",
+    "https://media.sume.com/artifacts/artf_fHRliduv49jAohkuGR-j17PVxMQfOux3/images.png",
+    "https://media.sume.com/artifacts/artf_QU6VjdMJdoDTmBquWE4YYuGvhepBsP1O/images.png",
+    "https://media.sume.com/assets/asset_59ea0b90d3784068877162cf9a492f01/source.jpg",
+    "https://media.sume.com/artifacts/artf_YKs9_G8es9or32KV7OKARGS6O_PCFuqj/images.png"
+   ]
+  }
+ },
+ "status_url": "https://api.sume.com/v1/jobs/job_1302da81-4a8a-47ff-b4ac-45731670ea3e/status",
+ "result_url": "https://api.sume.com/v1/jobs/job_1302da81-4a8a-47ff-b4ac-45731670ea3e/result",
+ "events_url": "https://api.sume.com/v1/jobs/job_1302da81-4a8a-47ff-b4ac-45731670ea3e/events",
+ "cancel_url": null,
+ "cancelable": false,
+ "next_action": "poll_status",
+ "next_poll_after_seconds": 2,
+ "recommended_poll_interval_seconds": 2,
+ "retry_after_seconds": null,
+ "result_ready": false,
+ "terminal": false,
+ "idempotency_hit": false,
+ "usage": {
+  "credits": 66,
+  "usd": "1.06"
+ },
+ "generation_limits": {
+  "tier": "free",
+  "plan_id": "free",
+  "limit_source": "plan",
+  "purchased_credits_last_4_weeks": 8812,
+  "purchased_concurrency_limit": 20,
+  "purchased_queued_jobs_limit": 100,
+  "plan_concurrency_limit": 20,
+  "plan_queued_jobs_limit": 100,
+  "concurrency_limit": 20,
+  "queued_jobs_limit": 100,
+  "admin_override_expires_at": null,
+  "accepted_generation_jobs_limit": 120,
+  "active_generation_jobs": 1,
+  "queued_generation_jobs": 1,
+  "accepted_generation_jobs": 2,
+  "queue_capacity_remaining": 118,
+  "wave_size_hint": 88
+ },
+ "sync": null,
+ "request": {
+  "model": "seedance-2",
+  "prompt": "SCENE CONTEXT\nA 15-second behind-the-scenes style brand film shot by a small handheld crew on a grey London winter morning. A senior investment banker sits on a moving Underground train and records a surprise announcement straight into the lens, like a vlog. A train announcement interrupts him, he gets up for his stop, and we cut to him riding up the station escalator.\n\nACTIVE REFERENCES\n@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, light-blue eyes, tanned lined skin. Outfit exactly as @image1 in every shot: black crew-neck T-shirt with the teal-green ACGM logo centred on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. Voice: a warm, slightly gravelly British baritone with polished, educated London vowels, unhurried, with a smile in it. 100% matches the reference.\n@image2: the exact T-shirt logo: a small teal-green pointed peak chevron above a large angular \"M\" mountain zigzag, the word \"ACGM\" beneath in bold geometric capitals. It stays flat, sharp and readable on his chest.\n@image3: the Underground carriage, head-on view of the patterned blue-red-teal moquette bench with the dark tunnel window behind it, yellow grab pole and sliding doors on screen-right. 100% matches the reference.\n@image4: an overhead floor-plan blocking diagram of this carriage, used only for positions. It shows the banker (A) seated in the centre of the far bench facing the camera, camera 1 on the near bench directly opposite him across the aisle, and the doors to screen-right, where he exits. The diagram itself stays off screen; the film shows only the real carriage from @image3.\n@image5: the long Underground escalator shaft with bronze uplighter lamps and a cream tiled tunnel. 100% matches the reference.\n\nFORMAT MODE\nTimed multishot, two segments. Cuts only at the specified point, the camera does not cut on its own.\n\n0.0s to 13.0s \u2014 TUBE CARRIAGE (@image1, @image2, @image3, layout from @image4)\nOPTICS: opens on the dark tunnel window at 47\u00b0, whip pan right, settles on the banker as a medium shot at 47\u00b0, no drift mid-segment.\nCAMERA: handheld at seated eye level from the near bench straight across the aisle, exactly as camera 1 in @image4, gentle sway with the train, small natural operator breathing.\nFIRST FRAME / BLOCKING: the frame opens on the black tunnel wall streaking past the carriage window. The banker sits alone in the centre seat of the far bench, square to the lens, knees apart, forearms resting on his thighs, coat open so the ACGM logo faces camera. The doors are on screen-right.\nACTION:\n0.0s\u20130.8s \u2014 tunnel lights strobe across the window; the camera whips right with motion blur.\n0.8s\u20131.4s \u2014 the whip lands on the banker, already glancing just above the lens at the crew member holding the camera.\n1.4s\u20133.0s \u2014 he raises his eyebrows and asks: \"Are we recording?\" A one-beat pause, a small nod, his eyes drop to the lens: \"Good.\"\n3.0s\u20138.5s \u2014 he leans in, elbows on knees, and speaks to the viewer with a conspiratorial grin: \"You know, Alpha Group isn't slowing down. Look, we're even doing this announcement on the go.\" He opens one palm toward the carriage, gives a short warm laugh through his nose, then taps two fingers on his chest: \"I just couldn't wait.\"\n8.5s\u201311.0s \u2014 a soft two-tone chime; the train decelerates and his body leans gently with it. A calm British woman's voice comes over the carriage speakers: \"The next station is ACG Markets. Alight here for the one-hundred-thousand-dollar giveaway.\" His eyes flick up to the ceiling speaker, his eyebrows lift, a delighted disbelieving grin spreads across his face.\n11.0s\u201313.0s \u2014 he points up at the speaker, looks back into the lens and says: \"That's my stop. Come on, I'll tell you on the way.\" He pushes off his knees and rises, turning toward the doors on screen-right, coat swinging open.\nLIGHTING: cool overhead fluorescent strips at 4300K, soft and even, small cool catch-lights in his eyes, tunnel lights flickering past the window behind him.\n\n13.0s HARD CUT\n\n13.0s to 15.0s \u2014 ESCALATOR (@image1, @image5)\nOPTICS: medium-wide at 63\u00b0, no drift.\nCAMERA: handheld from three steps above him on the up escalator, rising with him at 2 km/h.\nACTION: the banker climbs the moving steps two at a time toward the lens, right hand sliding on the handrail, a quick flick of the left wrist to check his gold watch, a small private smile. Commuters soft and out of focus on the parallel escalator.\nLIGHTING: warm bronze uplighters at 3400K glinting on his white hair and the teal logo.\n\nPERFORMANCE\nRelaxed, playful and completely sure of himself, a senior man enjoying the moment. Real conversational rhythm with small breaths and micro-pauses, natural lip sync on every word, asymmetric smiles, crow's-feet creasing when he grins, eyebrows moving with his emphasis, eyes alive with catch-lights and always returning to the lens. Pore-level skin and fine lines.\n\nPHYSICS\nHis body sways with the braking train, his weight shifts as he stands, the wool coat hem swings with real weight, the escalator steps carry him upward.\n\nAUDIO\nNative synced dialogue only from the banker and the train announcement, no music. Wheel rumble and carriage rattle, the two-tone chime, the announcer's voice slightly band-limited through the carriage speakers with a little reverb, then the escalator's mechanical hum and footsteps on metal treads. His voice is close and dry, as if on a small clip-on microphone.\n\nSTYLE\nPhotoreal premium documentary brand film, handheld vlog intimacy with cinematic polish, natural cool London colour with the teal-green logo as the brightest accent, fine film grain, real-time speed.\n\nPOSITIVE LOCKS\nThe same man with the same face, white hair, beard and outfit in both segments. His coat stays open and the teal-green ACGM logo stays visible and correctly spelled whenever his chest faces camera. In the train he sits in the centre seat facing the lens, with the doors on screen-right, as in @image4. He speaks only the quoted lines, word for word, in a British accent; the announcer speaks only her quoted line. One cut only, at 13.0s.\n",
+  "duration": 15,
+  "resolution": "480p",
+  "aspect_ratio": "16:9",
+  "generate_audio": true,
+  "reference_image_urls": [
+   "talent-v3",
+   "prop-tee-flatlay-v2",
+   "loc-01-tube-carriage-v2",
+   "file:blocking/sc01-tube.png",
+   "loc-02-escalators"
+  ]
+ }
+}

@@ -1,0 +1,40 @@
+SCENE CONTEXT
+A 6-second shot of a white-haired senior banker arriving at his company's modern glass office building in the City of London on a winter morning: he walks in through the revolving door, then steps out of the lift.
+
+ACTIVE REFERENCES
+@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, tanned lined skin. Outfit exactly as @image1: black crew-neck T-shirt with the teal-green ACGM logo on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. 100% matches the reference.
+@image2: the office lobby: glass revolving door, polished pale stone floor, floor-to-ceiling glass walls, brushed-steel lift doors on the right, minimal reception desk at the far end, low morning sun throwing long shadows. 100% matches the reference.
+@image3: an overhead blocking diagram used only for positions: camera 1 behind the banker at the revolving door, the lifts along the lower wall, camera 2 facing a lift door as he steps out. The diagram itself stays off screen; the film shows only the real lobby from @image2.
+
+FORMAT MODE
+Two segments with one cut. Cuts only at the specified point, the camera does not cut on its own.
+
+0.0s to 3.0s — REVOLVING DOOR
+OPTICS: 63° wide, no drift.
+CAMERA: handheld, following one step behind him through the revolving door, as camera 1 in @image3.
+ACTION: he pushes through the revolving glass door into the sunlit lobby, long shadows sliding across the stone floor, and strides toward the lifts, giving a small friendly nod to the receptionist at the far desk. The lobby is alive with a normal morning: office workers in coats with coffees and lanyards crossing to the lifts, a courier signing for a parcel at reception, a security guard by the barriers.
+
+3.0s HARD CUT
+
+3.0s to 6.0s — OUT OF THE LIFT
+OPTICS: 47° medium-wide, no drift.
+CAMERA: handheld facing the brushed-steel lift doors at chest height, as camera 2 in @image3.
+ACTION: a soft lift chime; the doors slide open and the banker steps out toward the lens alongside two colleagues who peel off the other way, adjusting his gold watch, coat open on the ACGM logo, and walks briskly past the camera on screen-right with a confident half-smile.
+
+PERFORMANCE
+Purposeful and upbeat, a man arriving to deliver good news. Real skin texture, white hair catching the sunlight.
+
+PHYSICS
+The revolving door turns with real glass weight, his coat hem swings, the lift doors part smoothly.
+
+LIGHTING
+Strong low morning sun at 4500K slicing through the glass walls from screen-left, long hard shadows across the polished floor, soft bounce off the pale stone filling his face.
+
+AUDIO
+No dialogue, no music. The swish of the revolving door, footsteps on stone echoing in the lobby, the lift chime and doors sliding open.
+
+STYLE
+Photoreal premium documentary brand film, handheld, bright glassy City morning with the teal logo as the accent, fine film grain, real-time speed.
+
+POSITIVE LOCKS
+The same man with the same face, white hair and outfit in both segments; the ACGM logo stays readable when he faces camera. He enters through the revolving door and exits the lift past camera on screen-right, as in @image3. Office workers keep their own anonymous faces. One cut only, at 3.0s.

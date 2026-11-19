@@ -1,0 +1,41 @@
+SCENE CONTEXT
+A 20-second casual talking-head interview inside a modern London trading firm's office on a winter morning. A white-haired senior banker sits in a chair and explains, straight to camera, how his company's giveaway works. A producer stands off camera beside the lens.
+
+ACTIVE REFERENCES
+@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, light-blue eyes, tanned lined skin. Here his overcoat is off: he wears the black crew-neck T-shirt with the teal-green ACGM logo centred on the chest, the open navy suit jacket, navy trousers, black Chelsea boots and the slim gold watch on his left wrist. Voice: a warm, slightly gravelly British baritone with polished, educated London vowels, unhurried, with a smile in it. 100% matches the reference.
+@image2: the exact T-shirt logo: a small teal-green pointed peak chevron above a large angular "M" mountain zigzag, with the word "ACGM" beneath in bold geometric capitals. It stays flat, sharp and readable on his chest throughout.
+@image3: the office: a wall of large screens with green and red candlestick charts, open-plan desks with monitors, exposed concrete ceiling with warm pendant lights, plants, big daylight windows, and the grey upholstered chair. 100% matches the reference.
+@image4: an overhead blocking diagram used only for positions: the banker (A) seated left of centre facing camera 1, the market-screen wall behind him, the producer (B) off camera beside the lens. The diagram itself stays off screen; the film shows only the real office from @image3.
+
+FORMAT MODE
+One continuous locked-off shot, the camera does not cut on its own.
+
+OPTICS
+29° medium close-up from mid-chest to just above his head, shallow depth of field, the screens behind him soft but readable as charts, no drift.
+
+CAMERA
+Locked off on a tripod at his seated eye level, as camera 1 in @image4, with a very slow push-in at 0.2 km/h across the take.
+
+FIRST FRAME / BLOCKING
+He sits in the grey chair left of centre, turned square to the lens, jacket open so the full ACGM logo is visible, forearms resting on the chair arms, already looking into the lens with a warm half-smile. Behind him, softly out of focus, the trading floor is working: three or four colleagues at their desks watching screens, one walking past with a mug, another on a headset.
+
+ACTION
+0.0s–6.5s — he leans forward slightly and counts the steps on his fingers, one finger per step, at a calm pace: "Here's how it works. Open a live account and verify it. Deposit two hundred and fifty dollars, and keep it in until the draw."
+6.5s–9.5s — a third finger: "Then place five trades." He opens both palms with a small shrug and a grin: "That's it. You're in."
+9.5s–15.5s — he sits back, eyebrows up, savouring each number: "First prize, ten thousand dollars. Second, five. Third, two. Plus a hundred and forty-nine more prizes."
+15.5s–20.0s — he leans in again, a direct, friendly look into the lens: "Entries are open from the first of December. Don't miss it." He holds the look and a small nod as the take ends.
+
+PERFORMANCE
+Warm, clear and generous, like a trusted mentor explaining something simple. He speaks slowly, about two and a half words per second, with a breath between sentences and small pauses on the numbers. Natural lip sync, hands moving naturally with the counting, small asymmetric smiles, crow's-feet when he grins, eyes alive with catch-lights and fixed on the lens. Pore-level skin and fine lines.
+
+LIGHTING
+Soft daylight from the big windows on screen-right as a gentle key at 5600K, warm pendant lights at 3200K as small practicals in the background, the green and red chart screens glowing softly behind him, clean catch-lights in his eyes.
+
+AUDIO
+Native synced dialogue only from the banker, no music. Soft office room tone, a faint keyboard and distant murmur. His voice is close, warm and dry, as if on a small clip-on microphone.
+
+STYLE
+Photoreal premium brand interview, calm and polished, natural office colour with the teal-green logo as the brightest accent, fine film grain, real-time speed.
+
+POSITIVE LOCKS
+The same man with the same face, white hair, beard and outfit; the full ACGM logo stays visible on his chest the whole time. He speaks only the quoted lines, word for word, in a British accent, and looks into the lens. He sits left of centre with the screens behind him, as in @image4. One continuous 20-second take.

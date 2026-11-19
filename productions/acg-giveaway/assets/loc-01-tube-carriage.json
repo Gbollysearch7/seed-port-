@@ -1,0 +1,87 @@
+{
+ "url": "https://media.sume.com/artifacts/artf_MNI4z69LaCBHgGvtzDeubisSahXDB7Vk/images.png",
+ "request": {
+  "model": "bytedance-seed/seedream-5-pro",
+  "prompt": "The interior of a modern London Underground train carriage, seen from a seated passenger's eye level looking across the aisle. A row of seats upholstered in a busy blue, red and teal patterned moquette fabric, yellow-green grab poles, white curved interior panels, small red safety stickers by the doors, dark tunnel blur outside the windows, cool fluorescent ceiling light. The carriage is quiet, with a couple of anonymous commuters out of focus at the far end and the facing seats empty. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+  "aspect_ratio": "16:9",
+  "resolution": "2K",
+  "output_format": "png"
+ },
+ "response": {
+  "data": {
+   "request_id": "job_596e3568-7fe9-4f9c-88c0-039f88b49294",
+   "job_id": "job_596e3568-7fe9-4f9c-88c0-039f88b49294",
+   "status": "COMPLETED",
+   "result": {
+    "artifacts": [
+     {
+      "id": "artf_MNI4z69LaCBHgGvtzDeubisSahXDB7Vk",
+      "type": "image",
+      "url": "https://media.sume.com/artifacts/artf_MNI4z69LaCBHgGvtzDeubisSahXDB7Vk/images.png",
+      "content_type": "image/png",
+      "public_artifact_id": "artf_MNI4z69LaCBHgGvtzDeubisSahXDB7Vk",
+      "visibility": "public_by_link",
+      "size_bytes": 4646242,
+      "width": 2720,
+      "height": 1536,
+      "duration_ms": null,
+      "checksum_sha256": "9d8f257fe2063d7eea216958bf1433b638f320fef1e32b67a92e5a1ef73ffed5"
+     }
+    ]
+   },
+   "linked_resource": null,
+   "job": {
+    "id": "job_596e3568-7fe9-4f9c-88c0-039f88b49294",
+    "type": "image_generation",
+    "status": "completed",
+    "model": "bytedance-seed/seedream-5-pro",
+    "idempotency_key": "4753f6e7-7025-45e7-b098-5e4aa7568090",
+    "communication_mode": "sync",
+    "created_at": "2026-11-18T12:18:21.888Z",
+    "updated_at": "2026-11-18T12:19:11.662Z",
+    "started_at": "2026-11-18T12:18:22.488Z",
+    "completed_at": "2026-11-18T12:19:11.662Z",
+    "canceled_at": null,
+    "auth_source": "api_key",
+    "result": {
+     "artifacts": [
+      {
+       "id": "artf_MNI4z69LaCBHgGvtzDeubisSahXDB7Vk",
+       "type": "image",
+       "url": "https://media.sume.com/artifacts/artf_MNI4z69LaCBHgGvtzDeubisSahXDB7Vk/images.png",
+       "content_type": "image/png",
+       "public_artifact_id": "artf_MNI4z69LaCBHgGvtzDeubisSahXDB7Vk",
+       "visibility": "public_by_link",
+       "size_bytes": 4646242,
+       "width": 2720,
+       "height": 1536,
+       "duration_ms": null,
+       "checksum_sha256": "9d8f257fe2063d7eea216958bf1433b638f320fef1e32b67a92e5a1ef73ffed5"
+      }
+     ]
+    },
+    "error": null,
+    "usage_summary": {
+     "status": "captured",
+     "reserved_credits": 6,
+     "captured_credits": 6,
+     "refunded_credits": 0,
+     "released_credits": 0,
+     "final": true,
+     "updated_at": "2026-11-18T12:19:11.832Z",
+     "reserved_usd_cents": 9,
+     "captured_usd_cents": 9,
+     "refunded_usd_cents": 0,
+     "released_usd_cents": 0
+    },
+    "webhook_delivery": null,
+    "input": {
+     "prompt": "The interior of a modern London Underground train carriage, seen from a seated passenger's eye level looking across the aisle. A row of seats upholstered in a busy blue, red and teal patterned moquette fabric, yellow-green grab poles, white curved interior panels, small red safety stickers by the doors, dark tunnel blur outside the windows, cool fluorescent ceiling light. The carriage is quiet, with a couple of anonymous commuters out of focus at the far end and the facing seats empty. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+     "resolution": "2K",
+     "aspect_ratio": "16:9",
+     "output_format": "png"
+    }
+   }
+  }
+ }
+}

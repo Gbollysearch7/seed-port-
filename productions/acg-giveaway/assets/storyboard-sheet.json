@@ -1,0 +1,107 @@
+{
+ "url": "https://media.sume.com/artifacts/artf_wsamlplJGY57ckKZGf7pbpExC8sT31ck/images.png",
+ "request": {
+  "model": "bytedance-seed/seedream-5.5",
+  "prompt": "A clean, professional film storyboard presentation page for an advertising shoot, white page with a thin black outer border, flat graphic layout like a slide.\n\nTop centre: the bold black sans-serif title \"ACG Markets $100K Giveaway\".\n\nBelow it, a grid of exactly six equal 16:9 photographic panels in 2 rows of 3, each with a thin grey border, and directly under each panel a white rounded caption box with a thin grey border containing short black text. Bottom of the page: small text \"Page 1\" centred and \"Private and Confidential internal use only.\" at the bottom right.\n\nThe same man appears in every panel: the white-haired banker from image 1, aged 64, thick swept-back pure-white hair, short white beard, wearing the black T-shirt from image 2 with its teal-green ACGM logo on the chest, an open navy jacket and an open charcoal overcoat. Photorealistic cinematic stills, natural London winter light, realistic people around him.\n\nPanel 1 (top left), the Underground carriage from image 3: he sits in the centre of the patterned blue-red bench facing camera, leaning forward and talking, a passenger in earbuds two seats away. Caption: \"1. TUBE: whip pan to talent. Are we recording? Good. Announcer: next station, ACG Markets.\"\nPanel 2 (top middle), the escalator shaft from image 4: high angle down the moving escalators full of commuters, he rides up the middle one. Caption: \"2. ESCALATOR: B-roll of talent leaving the station.\"\nPanel 3 (top right), the station entrance from image 5: he stands by the blue-striped column holding a glowing phone, commuters passing. Caption: \"3. STATION EXIT: So here it is. ACG Markets is live. Follow me.\"\nPanel 4 (bottom left), the wet Covent Garden lane from image 6: side tracking shot of him walking and talking to camera past lit shopfronts, shoppers with umbrellas. Caption: \"4. COVENT GARDEN: walk and talk. We're giving away $100,000.\"\nPanel 5 (bottom middle), the glass office lobby from image 7: he strides out of a brushed-steel lift toward camera, low sun shadows on the stone floor. Caption: \"5. LOBBY: into the office, out of the lift.\"\nPanel 6 (bottom right), the trading office from image 8: casual seated talking head, market chart screens behind him, he counts on his fingers. Caption: \"6. TALKING HEAD: explains how to enter and the prizes.\"\n\nAll text spelled exactly as written, crisp and legible. The six panels are photographs; everything else is a clean flat white layout.",
+  "aspect_ratio": "16:9",
+  "resolution": "2K",
+  "output_format": "png",
+  "input_references": [
+   "assets/talent-v3.png",
+   "assets/prop-tee-flatlay-v2.png",
+   "assets/loc-01-tube-carriage-v2.png",
+   "assets/loc-02-escalators.png",
+   "assets/loc-03-station-exit-v2.png",
+   "assets/loc-04-london-lane.png",
+   "assets/loc-05-office-lobby.png",
+   "assets/loc-06-office-talking-head.png"
+  ]
+ },
+ "response": {
+  "data": {
+   "request_id": "job_a4d508dd-d3b5-4087-9977-938ade8bee4b",
+   "job_id": "job_a4d508dd-d3b5-4087-9977-938ade8bee4b",
+   "status": "COMPLETED",
+   "result": {
+    "artifacts": [
+     {
+      "id": "artf_wsamlplJGY57ckKZGf7pbpExC8sT31ck",
+      "type": "image",
+      "url": "https://media.sume.com/artifacts/artf_wsamlplJGY57ckKZGf7pbpExC8sT31ck/images.png",
+      "content_type": "image/png",
+      "public_artifact_id": "artf_wsamlplJGY57ckKZGf7pbpExC8sT31ck",
+      "visibility": "public_by_link",
+      "size_bytes": 5419726,
+      "width": 2816,
+      "height": 1584,
+      "duration_ms": null,
+      "checksum_sha256": "2dd54bfe8903314748e89a6fdc458fd0e8b1f46af01b6b7724644ccc54aa15ce"
+     }
+    ]
+   },
+   "linked_resource": null,
+   "job": {
+    "id": "job_a4d508dd-d3b5-4087-9977-938ade8bee4b",
+    "type": "image_generation",
+    "status": "completed",
+    "model": "bytedance-seed/seedream-5.5",
+    "idempotency_key": "5a81169a-9eb4-469e-99b8-709f68f96029",
+    "communication_mode": "sync",
+    "created_at": "2026-11-18T16:15:52.403Z",
+    "updated_at": "2026-11-18T16:16:45.494Z",
+    "started_at": "2026-11-18T16:15:56.320Z",
+    "completed_at": "2026-11-18T16:16:45.494Z",
+    "canceled_at": null,
+    "auth_source": "api_key",
+    "result": {
+     "artifacts": [
+      {
+       "id": "artf_wsamlplJGY57ckKZGf7pbpExC8sT31ck",
+       "type": "image",
+       "url": "https://media.sume.com/artifacts/artf_wsamlplJGY57ckKZGf7pbpExC8sT31ck/images.png",
+       "content_type": "image/png",
+       "public_artifact_id": "artf_wsamlplJGY57ckKZGf7pbpExC8sT31ck",
+       "visibility": "public_by_link",
+       "size_bytes": 5419726,
+       "width": 2816,
+       "height": 1584,
+       "duration_ms": null,
+       "checksum_sha256": "2dd54bfe8903314748e89a6fdc458fd0e8b1f46af01b6b7724644ccc54aa15ce"
+      }
+     ]
+    },
+    "error": null,
+    "usage_summary": {
+     "status": "captured",
+     "reserved_credits": 7,
+     "captured_credits": 7,
+     "refunded_credits": 0,
+     "released_credits": 0,
+     "final": true,
+     "updated_at": "2026-11-18T16:16:45.925Z",
+     "reserved_usd_cents": 10,
+     "captured_usd_cents": 10,
+     "refunded_usd_cents": 0,
+     "released_usd_cents": 0
+    },
+    "webhook_delivery": null,
+    "input": {
+     "prompt": "A clean, professional film storyboard presentation page for an advertising shoot, white page with a thin black outer border, flat graphic layout like a slide.\n\nTop centre: the bold black sans-serif title \"ACG Markets $100K Giveaway\".\n\nBelow it, a grid of exactly six equal 16:9 photographic panels in 2 rows of 3, each with a thin grey border, and directly under each panel a white rounded caption box with a thin grey border containing short black text. Bottom of the page: small text \"Page 1\" centred and \"Private and Confidential internal use only.\" at the bottom right.\n\nThe same man appears in every panel: the white-haired banker from image 1, aged 64, thick swept-back pure-white hair, short white beard, wearing the black T-shirt from image 2 with its teal-green ACGM logo on the chest, an open navy jacket and an open charcoal overcoat. Photorealistic cinematic stills, natural London winter light, realistic people around him.\n\nPanel 1 (top left), the Underground carriage from image 3: he sits in the centre of the patterned blue-red bench facing camera, leaning forward and talking, a passenger in earbuds two seats away. Caption: \"1. TUBE: whip pan to talent. Are we recording? Good. Announcer: next station, ACG Markets.\"\nPanel 2 (top middle), the escalator shaft from image 4: high angle down the moving escalators full of commuters, he rides up the middle one. Caption: \"2. ESCALATOR: B-roll of talent leaving the station.\"\nPanel 3 (top right), the station entrance from image 5: he stands by the blue-striped column holding a glowing phone, commuters passing. Caption: \"3. STATION EXIT: So here it is. ACG Markets is live. Follow me.\"\nPanel 4 (bottom left), the wet Covent Garden lane from image 6: side tracking shot of him walking and talking to camera past lit shopfronts, shoppers with umbrellas. Caption: \"4. COVENT GARDEN: walk and talk. We're giving away $100,000.\"\nPanel 5 (bottom middle), the glass office lobby from image 7: he strides out of a brushed-steel lift toward camera, low sun shadows on the stone floor. Caption: \"5. LOBBY: into the office, out of the lift.\"\nPanel 6 (bottom right), the trading office from image 8: casual seated talking head, market chart screens behind him, he counts on his fingers. Caption: \"6. TALKING HEAD: explains how to enter and the prizes.\"\n\nAll text spelled exactly as written, crisp and legible. The six panels are photographs; everything else is a clean flat white layout.",
+     "image_urls": [
+      "https://media.sume.com/assets/asset_825675bd17c74ccc8f92f2fdde09ef82/source.jpg",
+      "https://media.sume.com/assets/asset_2963ad1775df424580a9e32dea604e4f/source.jpg",
+      "https://media.sume.com/assets/asset_ea692c7cc91e4968a3a656e5fceaa2c3/source.jpg",
+      "https://media.sume.com/assets/asset_12b8db0bf9d046b88918333355fd8276/source.jpg",
+      "https://media.sume.com/assets/asset_b6c2b7bbeb984f08a3854f04c0b2900c/source.jpg",
+      "https://media.sume.com/assets/asset_ba46cced7b4a4e29adf16789196c1aba/source.jpg",
+      "https://media.sume.com/assets/asset_02b210075d7a4649a7c9cc965cf52bae/source.jpg",
+      "https://media.sume.com/assets/asset_ca8bc85b088248c7a7e9721b3fa08896/source.jpg"
+     ],
+     "resolution": "2K",
+     "aspect_ratio": "16:9",
+     "output_format": "png"
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+<defs><marker id="arr0" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#222"/></marker><marker id="arr1" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#4A5A78"/></marker></defs>
+<rect width="1920" height="1080" fill="#ffffff"/>
+<text x="40" y="58" font-family="Helvetica,Arial" font-size="30" font-weight="700" fill="#333333">SC 02 / Escalator: rides up to street level</text>
+<text x="40" y="94" font-family="Helvetica,Arial" font-size="20" fill="#777">Camera rides at the top of the escalator looking down the shaft; A climbs up toward the lens</text>
+<rect x="300.0" y="380.0" width="1200" height="80" rx="10" fill="none" stroke="#9a9a9a" stroke-width="2.5"/>
+<rect x="300.0" y="500.0" width="1200" height="80" rx="10" fill="none" stroke="#9a9a9a" stroke-width="2.5"/>
+<rect x="300.0" y="620.0" width="1200" height="80" rx="10" fill="none" stroke="#9a9a9a" stroke-width="2.5"/>
+<g transform="translate(900 480) rotate(0)">
+<rect x="-550.0" y="-3.0" width="1100" height="6" rx="6" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<g transform="translate(900 600) rotate(0)">
+<rect x="-550.0" y="-3.0" width="1100" height="6" rx="6" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<g transform="translate(900 760) rotate(0)">
+<rect x="-2.0" y="-2.0" width="4" height="4" rx="6" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<text x="900" y="840" text-anchor="middle" font-family="Helvetica,Arial" font-size="18" fill="#777">bronze lamps between escalators; commuters on outer escalators</text>
+<g transform="translate(300 540) rotate(0)">
+<rect x="-2.0" y="-2.0" width="4" height="4" rx="6" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<text x="300" y="620" text-anchor="middle" font-family="Helvetica,Arial" font-size="18" fill="#777">down to platforms</text>
+<g transform="translate(1640 420) rotate(0)">
+<rect x="-2.0" y="-2.0" width="4" height="4" rx="6" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+</g>
+<text x="1640" y="500" text-anchor="middle" font-family="Helvetica,Arial" font-size="18" fill="#777">street exit</text>
+<g transform="translate(700 540) rotate(0)" color="#4A5A78">
+<path d="M -10 -62 Q -55 -60 -58 0 Q -55 60 -10 62 Q 20 55 22 0 Q 20 -55 -10 -62 Z" fill="currentColor" fill-opacity="0.10" stroke="currentColor" stroke-width="3"/>
+<path d="M 5 -50 Q 21.0 -60 35 -40" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="43" cy="-38" rx="11" ry="9" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<path d="M 5 50 Q 21.0 60 35 40" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="43" cy="38" rx="11" ry="9" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<circle cx="-6" cy="0" r="30" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<path d="M 22 -8 L 34 0 L 22 8" fill="none" stroke="currentColor" stroke-width="3"/>
+</g>
+<text x="595.0" y="548.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="26" font-weight="700" fill="#4A5A78">A</text>
+<path d="M 740 540 Q 950 540 1150 540" fill="none" stroke="#4A5A78" stroke-width="3.5" stroke-dasharray="12 9" marker-end="url(#arr1)"/>
+<text x="1164" y="526" font-family="Helvetica,Arial" font-size="20" fill="#4A5A78">climbs, checks watch</text>
+<path d="M 1450 540 L 1092 759 L 1092 321 Z" fill="#222" fill-opacity="0.05" stroke="#222" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="6 6"/>
+<g transform="translate(1450 540) rotate(180)"><rect x="-26" y="-15" width="32" height="30" rx="4" fill="#222"/><path d="M 6 -8 L 26 -18 L 26 18 L 6 8 Z" fill="#222"/></g>
+<circle cx="1498.0" cy="540.0" r="20" fill="#fff" stroke="#222" stroke-width="2.5"/><text x="1498.0" y="547.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="20" font-weight="700" fill="#222">1</text>
+<rect x="40" y="956" width="20" height="20" rx="4" fill="#4A5A78"/><text x="72" y="972" font-family="Helvetica,Arial" font-size="20" fill="#333333">A: Banker, climbing two steps at a time</text>
+<text x="40" y="1006" font-family="Helvetica,Arial" font-size="20" fill="#333333"><tspan font-weight="700">1</tspan>  Handheld 3 steps above A on the same escalator, looking down the shaft, rising with him at 2 km/h.</text>
+</svg>

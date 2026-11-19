@@ -1,0 +1,87 @@
+{
+ "url": "https://media.sume.com/artifacts/artf_e8euBRiRRXsPgCTdDVfxVG-nWoLRh0DN/images.png",
+ "request": {
+  "model": "bytedance-seed/seedream-5-pro",
+  "prompt": "A narrow pedestrian street in Covent Garden, London, on a grey winter morning just after rain. Wet stone paving reflecting the light, red-brick and painted Georgian shopfronts with dark wooden window frames, black iron bollards, a bare tree with tiny warm fairy lights at the far end, a few shoppers with umbrellas and coats in soft focus walking away. Camera at head height in the middle of the street looking down its length, a classic 'day in the life' walking shot. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+  "aspect_ratio": "16:9",
+  "resolution": "2K",
+  "output_format": "png"
+ },
+ "response": {
+  "data": {
+   "request_id": "job_637b64ea-67fb-4212-bc93-27b25fb1f73e",
+   "job_id": "job_637b64ea-67fb-4212-bc93-27b25fb1f73e",
+   "status": "COMPLETED",
+   "result": {
+    "artifacts": [
+     {
+      "id": "artf_e8euBRiRRXsPgCTdDVfxVG-nWoLRh0DN",
+      "type": "image",
+      "url": "https://media.sume.com/artifacts/artf_e8euBRiRRXsPgCTdDVfxVG-nWoLRh0DN/images.png",
+      "content_type": "image/png",
+      "public_artifact_id": "artf_e8euBRiRRXsPgCTdDVfxVG-nWoLRh0DN",
+      "visibility": "public_by_link",
+      "size_bytes": 5213465,
+      "width": 2720,
+      "height": 1536,
+      "duration_ms": null,
+      "checksum_sha256": "ef6144f8d2d443a599a527322f592856133ac82596f719660f14a96b712b7bc9"
+     }
+    ]
+   },
+   "linked_resource": null,
+   "job": {
+    "id": "job_637b64ea-67fb-4212-bc93-27b25fb1f73e",
+    "type": "image_generation",
+    "status": "completed",
+    "model": "bytedance-seed/seedream-5-pro",
+    "idempotency_key": "af58138e-c264-442e-a886-d5d4234db69a",
+    "communication_mode": "sync",
+    "created_at": "2026-11-18T12:45:45.900Z",
+    "updated_at": "2026-11-18T12:46:28.652Z",
+    "started_at": "2026-11-18T12:45:46.792Z",
+    "completed_at": "2026-11-18T12:46:28.652Z",
+    "canceled_at": null,
+    "auth_source": "api_key",
+    "result": {
+     "artifacts": [
+      {
+       "id": "artf_e8euBRiRRXsPgCTdDVfxVG-nWoLRh0DN",
+       "type": "image",
+       "url": "https://media.sume.com/artifacts/artf_e8euBRiRRXsPgCTdDVfxVG-nWoLRh0DN/images.png",
+       "content_type": "image/png",
+       "public_artifact_id": "artf_e8euBRiRRXsPgCTdDVfxVG-nWoLRh0DN",
+       "visibility": "public_by_link",
+       "size_bytes": 5213465,
+       "width": 2720,
+       "height": 1536,
+       "duration_ms": null,
+       "checksum_sha256": "ef6144f8d2d443a599a527322f592856133ac82596f719660f14a96b712b7bc9"
+      }
+     ]
+    },
+    "error": null,
+    "usage_summary": {
+     "status": "reserved",
+     "reserved_credits": 6,
+     "captured_credits": 0,
+     "refunded_credits": 0,
+     "released_credits": 0,
+     "final": false,
+     "updated_at": "2026-11-18T12:45:45.917Z",
+     "reserved_usd_cents": 9,
+     "captured_usd_cents": 0,
+     "refunded_usd_cents": 0,
+     "released_usd_cents": 0
+    },
+    "webhook_delivery": null,
+    "input": {
+     "prompt": "A narrow pedestrian street in Covent Garden, London, on a grey winter morning just after rain. Wet stone paving reflecting the light, red-brick and painted Georgian shopfronts with dark wooden window frames, black iron bollards, a bare tree with tiny warm fairy lights at the far end, a few shoppers with umbrellas and coats in soft focus walking away. Camera at head height in the middle of the street looking down its length, a classic 'day in the life' walking shot. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+     "resolution": "2K",
+     "aspect_ratio": "16:9",
+     "output_format": "png"
+    }
+   }
+  }
+ }
+}

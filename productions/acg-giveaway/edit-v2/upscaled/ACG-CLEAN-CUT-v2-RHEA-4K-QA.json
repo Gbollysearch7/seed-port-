@@ -1,0 +1,26 @@
+{
+  "file": "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/acg-giveaway/edit-v2/upscaled/ACG-CLEAN-CUT-v2-RHEA-4K.mp4",
+  "source": "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/acg-giveaway/edit-v2/ACG-CLEAN-CUT-v2.mp4",
+  "width": 3840,
+  "height": 2160,
+  "fps": "24/1",
+  "frames": "1518",
+  "source_frames": "1518",
+  "duration": "63.250000",
+  "source_duration": "63.250000",
+  "color_tags": {
+    "color_primaries": "bt709",
+    "color_transfer": "bt709",
+    "color_space": "bt709"
+  },
+  "decode_ok": true,
+  "black_events": [],
+  "audio_zero_offset_correlation": 1.0,
+  "audio_samples_source": 2789312,
+  "audio_samples_output": 2789312,
+  "sample_peak": 0.8193188905715942,
+  "visual_review": "pending",
+  "listening_review": "not performed; audio continuity checked technically",
+  "technical_pass": true,
+  "peak_measurement": "native stereo, 48kHz; avoids +3dB equal-power mono downmix"
+}

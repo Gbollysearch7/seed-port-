@@ -1,0 +1,44 @@
+SCENE CONTEXT
+A 12-second day-in-the-life walk-and-talk on a narrow Covent Garden street in London on a wet grey winter morning. A white-haired senior banker walks briskly along the lane, filmed by a handheld crew moving with him, and talks to the camera about his company's giveaway.
+
+ACTIVE REFERENCES
+@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, light-blue eyes, tanned lined skin. Outfit exactly as @image1: black crew-neck T-shirt with the teal-green ACGM logo centred on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. Voice: a warm, slightly gravelly British baritone with polished, educated London vowels, unhurried, with a smile in it. 100% matches the reference.
+@image2: the exact T-shirt logo: a small teal-green pointed peak chevron above a large angular "M" mountain zigzag, with the word "ACGM" beneath in bold geometric capitals. It stays flat and readable on his chest when he faces camera.
+@image3: the Covent Garden lane: wet stone paving, red-brick and painted Georgian shopfronts with warm-lit windows, black iron bollards along both sides, a bare tree with tiny warm fairy lights at the far end, shoppers with umbrellas. 100% matches the reference.
+@image4: an overhead blocking diagram used only for positions: the banker (A) walking along the lane from screen-left to screen-right toward the fairy-light tree, camera 1 tracking alongside him, camera 2 following behind. The diagram itself stays off screen; the film shows only the real lane from @image3.
+
+FORMAT MODE
+Two segments with one cut. Cuts only at the specified point, the camera does not cut on its own.
+
+0.0s to 3.0s — FOLLOW BEHIND
+OPTICS: 29° medium-wide from behind, no drift.
+CAMERA: handheld, walking two metres behind him at his pace, 4 km/h, as camera 2 in @image4.
+ACTION: the banker walks away from the lens down the middle of the wet lane toward the fairy-light tree, coat swinging, white hair catching the grey light, a realistic morning crowd around him: shoppers with umbrellas and paper bags, a courier pushing a bike, two office workers chatting with coffees, a shop assistant putting out a sandwich board; people part around him naturally; at 2.0s he glances back over his shoulder at the lens with a grin.
+
+3.0s HARD CUT
+
+3.0s to 12.0s — WALK AND TALK ALONGSIDE
+OPTICS: 47° medium shot, waist up, no drift.
+CAMERA: handheld side-tracking shot level with him on his left, matching his pace at 4 km/h, as camera 1 in @image4, the shopfronts sliding past behind him.
+ACTION: he walks and talks, turning his head to the lens on each line, coat open on the ACGM logo, one hand gesturing loosely:
+3.0s–6.5s — "We wanted to make it a real opportunity for you."
+6.5s–9.5s — "So we're giving away a hundred thousand dollars." A small emphatic nod on the number.
+9.5s–12.0s — a short laugh through his nose, eyebrows up: "Honestly? It's so big, we need to head back to the office." He gestures ahead down the street.
+
+PERFORMANCE
+Energised, warm and conspiratorial, a senior man enjoying his own news. He speaks slowly and clearly while walking, about two and a half words per second, with natural breaths from the walk. Natural lip sync, crow's-feet when he grins, faint redness at his nose and ears from the cold, faint visible breath.
+
+PHYSICS
+Heel strikes on the wet stone with small splashes, reflections of the shop lights sliding across the wet paving, coat hem swinging with each stride, umbrellas and shopping bags moving with passers-by.
+
+LIGHTING
+Soft grey winter daylight at 6000K from the open sky above the lane, warm 3200K glow from the shop windows on his face side, the fairy lights twinkling softly in the background.
+
+AUDIO
+Native synced dialogue only from the banker, no music. Footsteps on wet stone, light drizzle on umbrellas, distant street chatter and a far-off bicycle bell. His voice is close and dry, as if on a small clip-on microphone.
+
+STYLE
+Photoreal premium documentary brand film, handheld day-in-the-life energy, natural cool London colour with warm shop-window accents and the teal logo, fine film grain, real-time speed.
+
+POSITIVE LOCKS
+The same man with the same face, white hair, beard and outfit in both segments; his coat stays open and the ACGM logo stays readable when he faces camera. He walks from screen-left to screen-right toward the tree, as in @image4. Passers-by keep their own anonymous faces and move at their own pace. He speaks only the quoted lines, word for word, in a British accent. One cut only, at 3.0s.

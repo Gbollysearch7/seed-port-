@@ -1,0 +1,87 @@
+{
+ "url": "https://media.sume.com/artifacts/artf_FRORv1wOXj_HBkbXcRJmhaQfOP-00ife/images.png",
+ "request": {
+  "model": "bytedance-seed/seedream-5-pro",
+  "prompt": "A busy central London pavement just outside the street-level entrance of an Underground station on a cold, grey winter morning just after rain. The camera stands just inside the station entrance at chest height looking out: the station wall on both edges of frame clad in bold black-and-white geometric tiles, a stainless-steel column with a blue stripe near the entrance, a wide pale stone pavement that is damp and softly reflective. Across the road, red-brick Victorian buildings and modern glass offices, a red double-decker bus passing in soft focus. Office workers and shoppers in dark wool coats, scarves and a few closed umbrellas walk past out of focus. Open space in the centre of the pavement for one person to stop. Soft, even overcast light, no hard sun, no shadows from the sun. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+  "aspect_ratio": "16:9",
+  "resolution": "2K",
+  "output_format": "png"
+ },
+ "response": {
+  "data": {
+   "request_id": "job_c3928d04-6be8-47f5-9f4b-c138c99eeb3b",
+   "job_id": "job_c3928d04-6be8-47f5-9f4b-c138c99eeb3b",
+   "status": "COMPLETED",
+   "result": {
+    "artifacts": [
+     {
+      "id": "artf_FRORv1wOXj_HBkbXcRJmhaQfOP-00ife",
+      "type": "image",
+      "url": "https://media.sume.com/artifacts/artf_FRORv1wOXj_HBkbXcRJmhaQfOP-00ife/images.png",
+      "content_type": "image/png",
+      "public_artifact_id": "artf_FRORv1wOXj_HBkbXcRJmhaQfOP-00ife",
+      "visibility": "public_by_link",
+      "size_bytes": 5048153,
+      "width": 2720,
+      "height": 1536,
+      "duration_ms": null,
+      "checksum_sha256": "95aadde1cb84c43ba0033baa79db56b71e618594c85857e595915dda1d4e59e7"
+     }
+    ]
+   },
+   "linked_resource": null,
+   "job": {
+    "id": "job_c3928d04-6be8-47f5-9f4b-c138c99eeb3b",
+    "type": "image_generation",
+    "status": "completed",
+    "model": "bytedance-seed/seedream-5-pro",
+    "idempotency_key": "f0964d1b-9b65-423d-8843-295c6a7afb2a",
+    "communication_mode": "sync",
+    "created_at": "2026-11-18T12:55:41.655Z",
+    "updated_at": "2026-11-18T12:56:38.480Z",
+    "started_at": "2026-11-18T12:55:42.449Z",
+    "completed_at": "2026-11-18T12:56:38.480Z",
+    "canceled_at": null,
+    "auth_source": "api_key",
+    "result": {
+     "artifacts": [
+      {
+       "id": "artf_FRORv1wOXj_HBkbXcRJmhaQfOP-00ife",
+       "type": "image",
+       "url": "https://media.sume.com/artifacts/artf_FRORv1wOXj_HBkbXcRJmhaQfOP-00ife/images.png",
+       "content_type": "image/png",
+       "public_artifact_id": "artf_FRORv1wOXj_HBkbXcRJmhaQfOP-00ife",
+       "visibility": "public_by_link",
+       "size_bytes": 5048153,
+       "width": 2720,
+       "height": 1536,
+       "duration_ms": null,
+       "checksum_sha256": "95aadde1cb84c43ba0033baa79db56b71e618594c85857e595915dda1d4e59e7"
+      }
+     ]
+    },
+    "error": null,
+    "usage_summary": {
+     "status": "reserved",
+     "reserved_credits": 6,
+     "captured_credits": 0,
+     "refunded_credits": 0,
+     "released_credits": 0,
+     "final": false,
+     "updated_at": "2026-11-18T12:55:41.670Z",
+     "reserved_usd_cents": 9,
+     "captured_usd_cents": 0,
+     "refunded_usd_cents": 0,
+     "released_usd_cents": 0
+    },
+    "webhook_delivery": null,
+    "input": {
+     "prompt": "A busy central London pavement just outside the street-level entrance of an Underground station on a cold, grey winter morning just after rain. The camera stands just inside the station entrance at chest height looking out: the station wall on both edges of frame clad in bold black-and-white geometric tiles, a stainless-steel column with a blue stripe near the entrance, a wide pale stone pavement that is damp and softly reflective. Across the road, red-brick Victorian buildings and modern glass offices, a red double-decker bus passing in soft focus. Office workers and shoppers in dark wool coats, scarves and a few closed umbrellas walk past out of focus. Open space in the centre of the pavement for one person to stop. Soft, even overcast light, no hard sun, no shadows from the sun. Photorealistic, shot on a cinema camera with a 35mm lens, natural London light, high-end commercial colour grade, fine film grain. One single continuous photograph, not a collage. No readable text, no logos, no brand names, no watermarks.",
+     "resolution": "2K",
+     "aspect_ratio": "16:9",
+     "output_format": "png"
+    }
+   }
+  }
+ }
+}

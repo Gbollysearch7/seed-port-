@@ -1,0 +1,41 @@
+SCENE CONTEXT
+A 6-second B-roll shot inside a deep London Underground station on a winter morning: a busy up escalator full of commuters, with a white-haired banker among them riding toward street level.
+
+ACTIVE REFERENCES
+@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, tanned lined skin. Outfit exactly as @image1: black crew-neck T-shirt with the teal-green ACGM logo on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. 100% matches the reference.
+@image2: the long escalator shaft with three parallel escalators, brushed-steel balustrades, warm bronze uplighter lamps between them and a cream tiled curved tunnel. 100% matches the reference.
+@image3: an overhead blocking diagram used only for positions: the camera at the top of the escalator looking down the shaft, the banker (A) climbing up the middle escalator toward it. The diagram itself stays off screen; the film shows only the real station from @image2.
+
+FORMAT MODE
+One continuous shot, the camera does not cut on its own.
+
+OPTICS
+63° medium-wide, no drift.
+
+CAMERA
+Handheld from three steps above the banker on the same up escalator, looking down the shaft, rising with the escalator, as in @image3.
+
+FIRST FRAME / BLOCKING
+All three escalators are running and full of real commuters: the two outer ones carry people up and down, every step visibly moving, a steady stream of people in dark winter coats, rucksacks, tote bags, headphones and takeaway coffees standing on the right, a few walking past on the left. The banker is in the middle escalator, eight steps below the camera, walking up on the left side.
+
+ACTION
+0.0s–4.0s — the banker climbs the moving steps two at a time toward the lens, right hand sliding along the black handrail, passing two standing commuters with a polite nod; on the parallel escalators commuters ride up and down past the bronze lamps.
+4.0s–6.0s — he reaches two steps below the camera, flicks his left wrist to check his gold watch, a small private smile, coat open on the ACGM logo.
+
+PERFORMANCE
+Brisk, purposeful and good-humoured. Real skin texture, white hair moving slightly in the draught of the shaft.
+
+PHYSICS
+All three escalators run continuously the whole time: the metal steps visibly flow upward and downward at a steady 2 km/h, the black handrails glide with them, riders rise and sink smoothly, coats sway with each step he takes.
+
+LIGHTING
+Warm bronze uplighters at 3400K glinting on his white hair, the steel balustrades and the teal logo.
+
+AUDIO
+No dialogue, no music. Steady mechanical escalator hum, footsteps on metal treads, a distant platform announcement echo, murmured commuter chatter.
+
+STYLE
+Photoreal premium documentary brand film, handheld, warm station tones with the teal logo as the accent, fine film grain, real-time speed.
+
+POSITIVE LOCKS
+The same man with the same face, white hair and outfit; the ACGM logo stays readable when he faces camera. He climbs up toward the lens on the middle escalator, as in @image3. The escalators keep moving for the full take and the crowd keeps flowing. Commuters keep their own anonymous faces. One continuous 6-second take.

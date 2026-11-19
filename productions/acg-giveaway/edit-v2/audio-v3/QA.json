@@ -1,0 +1,22 @@
+[
+  {
+    "file": "productions/acg-giveaway/edit-v2/delivery/ACG-FINAL-v3-16x9-4K.mp4",
+    "video_bitstream_unchanged": true,
+    "frames": "1518",
+    "duration": "63.250000",
+    "audio_decode_ok": true,
+    "true_peak_dBFS": -2.1,
+    "integrated_LUFS": -19.5,
+    "listening_check": "pending; train/piano separation not verified by listening"
+  },
+  {
+    "file": "productions/acg-giveaway/edit-v2/delivery/ACG-FINAL-v3-9x16-1080p.mp4",
+    "video_bitstream_unchanged": true,
+    "frames": "1518",
+    "duration": "63.250000",
+    "audio_decode_ok": true,
+    "true_peak_dBFS": -2.1,
+    "integrated_LUFS": -19.5,
+    "listening_check": "pending; train/piano separation not verified by listening"
+  }
+]

@@ -1,0 +1,84 @@
+{
+ "request_id": "job_131b4f7c-b429-4aac-9a00-db0488f616bb",
+ "job": {
+  "id": "job_131b4f7c-b429-4aac-9a00-db0488f616bb",
+  "type": "video_generation",
+  "status": "queued",
+  "model": "seedance-2.5",
+  "idempotency_key": "15a91efc-2f32-43b8-ad98-3a99697b5921",
+  "communication_mode": "async",
+  "created_at": "2026-11-18T14:24:20.669Z",
+  "updated_at": "2026-11-18T14:24:21.260Z",
+  "started_at": null,
+  "completed_at": null,
+  "canceled_at": null,
+  "auth_source": "api_key",
+  "result": null,
+  "error": null,
+  "usage_summary": null,
+  "webhook_delivery": null,
+  "input": {
+   "prompt": "SCENE CONTEXT\nAn 8-second handheld shot just outside a central London Underground station entrance on a grey winter morning. A white-haired banker, filmed by a small crew, stops on the busy pavement, pulls out his phone, tells the camera about his company's launch, then sets off and turns back to call the crew after him.\n\nACTIVE REFERENCES\n@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, light-blue eyes, tanned lined skin. Outfit exactly as @image1: black crew-neck T-shirt with the teal-green ACGM logo centred on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. Voice: a warm, slightly gravelly British baritone with polished, educated London vowels, unhurried, with a smile in it. 100% matches the reference.\n@image2: the exact T-shirt logo: a small teal-green pointed peak chevron above a large angular \"M\" mountain zigzag, with the word \"ACGM\" beneath in bold geometric capitals. It stays flat, sharp and readable on his chest.\n@image3: the station entrance with black-and-white geometric tiled walls on both sides, a stainless column with a blue stripe, the damp pale stone pavement, red-brick buildings and a red double-decker bus across the road. 100% matches the reference.\n@image4: an overhead blocking diagram used only for positions: the camera just outside the tiled entrance, the banker (A) stopped by the blue-striped column facing the camera, then walking away along the pavement and turning back toward the camera. The diagram itself stays off screen; the film shows only the real street from @image3.\n\nFORMAT MODE\nOne continuous shot, the camera does not cut on its own.\n\nOPTICS\n47\u00b0 medium shot, no drift.\n\nCAMERA\nHandheld at chest height just outside the tiled entrance, as in @image4, small natural sway, holding on him; when he walks off it stays put for a beat, then starts to follow.\n\nFIRST FRAME / BLOCKING\nThe banker already stands beside the blue-striped column, turned to face the lens, phone in his right hand with its screen glowing, a busy weekday crowd around him: commuters in dark coats and scarves streaming out of the station past both sides of the camera, people crossing behind him with coffees, briefcases and closed umbrellas, a cyclist on the road, the red bus slowly passing across the road.\n\nACTION\n0.0s\u20131.5s \u2014 he glances down at the glowing phone in his right hand, thumb on the screen, then turns the screen briefly toward the lens.\n1.5s\u20135.5s \u2014 he lowers the phone and speaks to the lens at a calm pace, with a small proud nod: \"So here it is. ACG Markets is live. And that's a big moment for us.\"\n5.5s\u20138.0s \u2014 he slips the phone into his coat, turns and takes three strides away from the camera along the pavement, weaving between commuters, then stops, turns back over his shoulder toward the station and the camera he has just come from, beckons with a tilt of his head and a grin, and calls: \"Follow me.\"\n\nPERFORMANCE\nConfident, warm and a little mischievous, as if sharing good news with a friend. He speaks slowly, about two words per second, with a breath between the sentences. Natural lip sync, eyebrows lifting on \"live\", crow's-feet creasing when he grins, faint redness at his nose and ears from the cold, faint visible breath in the air.\n\nPHYSICS\nThe phone has weight in his hand, his coat hem swings as he turns, commuters' coats and closed umbrellas move naturally.\n\nLIGHTING\nSoft overcast winter daylight at 6000K, no hard sun, gentle reflections on the damp paving, soft cool key on his face from the open sky, a faint teal glow from the phone screen on his chin.\n\nAUDIO\nNative synced dialogue only from the banker, no music. Traffic wash, the bus engine passing, footsteps on wet stone, distant chatter. His voice is close and dry, as if on a small clip-on microphone.\n\nSTYLE\nPhotoreal premium documentary brand film, handheld vlog intimacy, natural cool London colour with the teal logo as the brightest accent, fine film grain, real-time speed.\n\nPOSITIVE LOCKS\nThe same man with the same face, white hair and outfit; his coat stays open and the ACGM logo stays readable. He holds only his phone, then puts it inside his coat. He speaks only the quoted lines, word for word, in a British accent. He starts by the blue-striped column facing the lens, walks away, and turns back toward the camera for \"Follow me\", as in @image4. Passers-by keep their own anonymous faces and keep moving. One continuous 8-second take.",
+   "duration": 8,
+   "resolution": "480p",
+   "aspect_ratio": "16:9",
+   "generate_audio": true,
+   "reference_image_urls": [
+    "https://media.sume.com/artifacts/artf_dLzzr4DChM3URzs9MH7cq3g2YaM68j1v/images.png",
+    "https://media.sume.com/artifacts/artf_fHRliduv49jAohkuGR-j17PVxMQfOux3/images.png",
+    "https://media.sume.com/artifacts/artf_FRORv1wOXj_HBkbXcRJmhaQfOP-00ife/images.png",
+    "https://media.sume.com/assets/asset_cb670aedb8f747dfa0a5d149c0401144/source.jpg"
+   ]
+  }
+ },
+ "status_url": "https://api.sume.com/v1/jobs/job_131b4f7c-b429-4aac-9a00-db0488f616bb/status",
+ "result_url": "https://api.sume.com/v1/jobs/job_131b4f7c-b429-4aac-9a00-db0488f616bb/result",
+ "events_url": "https://api.sume.com/v1/jobs/job_131b4f7c-b429-4aac-9a00-db0488f616bb/events",
+ "cancel_url": null,
+ "cancelable": false,
+ "next_action": "poll_status",
+ "next_poll_after_seconds": 2,
+ "recommended_poll_interval_seconds": 2,
+ "retry_after_seconds": null,
+ "result_ready": false,
+ "terminal": false,
+ "idempotency_hit": false,
+ "usage": {
+  "credits": 52,
+  "usd": "0.83"
+ },
+ "generation_limits": {
+  "tier": "free",
+  "plan_id": "free",
+  "limit_source": "plan",
+  "purchased_credits_last_4_weeks": 8812,
+  "purchased_concurrency_limit": 20,
+  "purchased_queued_jobs_limit": 100,
+  "plan_concurrency_limit": 20,
+  "plan_queued_jobs_limit": 100,
+  "concurrency_limit": 20,
+  "queued_jobs_limit": 100,
+  "admin_override_expires_at": null,
+  "accepted_generation_jobs_limit": 120,
+  "active_generation_jobs": 0,
+  "queued_generation_jobs": 6,
+  "accepted_generation_jobs": 6,
+  "queue_capacity_remaining": 114,
+  "wave_size_hint": 85
+ },
+ "sync": null,
+ "request": {
+  "model": "seedance-2.5",
+  "prompt": "SCENE CONTEXT\nAn 8-second handheld shot just outside a central London Underground station entrance on a grey winter morning. A white-haired banker, filmed by a small crew, stops on the busy pavement, pulls out his phone, tells the camera about his company's launch, then sets off and turns back to call the crew after him.\n\nACTIVE REFERENCES\n@image1: the banker, aged 64, tall and lean, thick swept-back pure-white hair, short white stubble beard, light-blue eyes, tanned lined skin. Outfit exactly as @image1: black crew-neck T-shirt with the teal-green ACGM logo centred on the chest, open navy suit jacket, open charcoal wool overcoat, navy trousers, black Chelsea boots, slim gold watch on his left wrist. Voice: a warm, slightly gravelly British baritone with polished, educated London vowels, unhurried, with a smile in it. 100% matches the reference.\n@image2: the exact T-shirt logo: a small teal-green pointed peak chevron above a large angular \"M\" mountain zigzag, with the word \"ACGM\" beneath in bold geometric capitals. It stays flat, sharp and readable on his chest.\n@image3: the station entrance with black-and-white geometric tiled walls on both sides, a stainless column with a blue stripe, the damp pale stone pavement, red-brick buildings and a red double-decker bus across the road. 100% matches the reference.\n@image4: an overhead blocking diagram used only for positions: the camera just outside the tiled entrance, the banker (A) stopped by the blue-striped column facing the camera, then walking away along the pavement and turning back toward the camera. The diagram itself stays off screen; the film shows only the real street from @image3.\n\nFORMAT MODE\nOne continuous shot, the camera does not cut on its own.\n\nOPTICS\n47\u00b0 medium shot, no drift.\n\nCAMERA\nHandheld at chest height just outside the tiled entrance, as in @image4, small natural sway, holding on him; when he walks off it stays put for a beat, then starts to follow.\n\nFIRST FRAME / BLOCKING\nThe banker already stands beside the blue-striped column, turned to face the lens, phone in his right hand with its screen glowing, a busy weekday crowd around him: commuters in dark coats and scarves streaming out of the station past both sides of the camera, people crossing behind him with coffees, briefcases and closed umbrellas, a cyclist on the road, the red bus slowly passing across the road.\n\nACTION\n0.0s\u20131.5s \u2014 he glances down at the glowing phone in his right hand, thumb on the screen, then turns the screen briefly toward the lens.\n1.5s\u20135.5s \u2014 he lowers the phone and speaks to the lens at a calm pace, with a small proud nod: \"So here it is. ACG Markets is live. And that's a big moment for us.\"\n5.5s\u20138.0s \u2014 he slips the phone into his coat, turns and takes three strides away from the camera along the pavement, weaving between commuters, then stops, turns back over his shoulder toward the station and the camera he has just come from, beckons with a tilt of his head and a grin, and calls: \"Follow me.\"\n\nPERFORMANCE\nConfident, warm and a little mischievous, as if sharing good news with a friend. He speaks slowly, about two words per second, with a breath between the sentences. Natural lip sync, eyebrows lifting on \"live\", crow's-feet creasing when he grins, faint redness at his nose and ears from the cold, faint visible breath in the air.\n\nPHYSICS\nThe phone has weight in his hand, his coat hem swings as he turns, commuters' coats and closed umbrellas move naturally.\n\nLIGHTING\nSoft overcast winter daylight at 6000K, no hard sun, gentle reflections on the damp paving, soft cool key on his face from the open sky, a faint teal glow from the phone screen on his chin.\n\nAUDIO\nNative synced dialogue only from the banker, no music. Traffic wash, the bus engine passing, footsteps on wet stone, distant chatter. His voice is close and dry, as if on a small clip-on microphone.\n\nSTYLE\nPhotoreal premium documentary brand film, handheld vlog intimacy, natural cool London colour with the teal logo as the brightest accent, fine film grain, real-time speed.\n\nPOSITIVE LOCKS\nThe same man with the same face, white hair and outfit; his coat stays open and the ACGM logo stays readable. He holds only his phone, then puts it inside his coat. He speaks only the quoted lines, word for word, in a British accent. He starts by the blue-striped column facing the lens, walks away, and turns back toward the camera for \"Follow me\", as in @image4. Passers-by keep their own anonymous faces and keep moving. One continuous 8-second take.\n",
+  "duration": 8,
+  "resolution": "480p",
+  "aspect_ratio": "16:9",
+  "generate_audio": true,
+  "reference_image_urls": [
+   "talent-v3",
+   "prop-tee-flatlay-v2",
+   "loc-03-station-exit-v2",
+   "file:blocking/sc03-station-exit.png"
+  ]
+ }
+}

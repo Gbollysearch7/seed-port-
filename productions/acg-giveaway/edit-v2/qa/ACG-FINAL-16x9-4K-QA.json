@@ -1,0 +1,19 @@
+{
+  "file": "/Users/gbolahan/Documents/SEED PORTFOLIO/productions/acg-giveaway/edit-v2/delivery/ACG-FINAL-16x9-4K.mp4",
+  "width": 3840,
+  "height": 2160,
+  "fps": "24/1",
+  "frames": "1518",
+  "duration": "63.250000",
+  "decode_ok": true,
+  "black_events": [],
+  "true_peak_dBFS": -2.0,
+  "color": {
+    "color_primaries": "bt709",
+    "color_transfer": "bt709",
+    "color_space": "bt709"
+  },
+  "audio_duration": "63.250000",
+  "review": "Contact sheets and technical audio checks; final real-time listening not checked.",
+  "technical_pass": true
+}

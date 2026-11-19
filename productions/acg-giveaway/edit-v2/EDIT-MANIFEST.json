@@ -1,0 +1,44 @@
+{
+  "source": "../video/ACG-ROUGH-CUT-v1.mp4",
+  "editor": "CapCut 9.5.0",
+  "project_name": "ACG-CLEAN-CUT-v2",
+  "native_project": "/Users/gbolahan/Movies/CapCut/User Data/Projects/com.lveditor.draft/1118",
+  "fps": 24,
+  "kept_source_ranges_seconds": [
+    [
+      0,
+      42.25
+    ],
+    [
+      46.416666,
+      67.416666
+    ]
+  ],
+  "removed_source_range_timecode": [
+    "00:00:42:06",
+    "00:00:46:10"
+  ],
+  "removed_frames": 100,
+  "duration_seconds": 63.25,
+  "frames": 1518,
+  "audio_fade_out_before_cut_seconds": 0.125,
+  "audio_fade_in_after_cut_seconds": 0.125,
+  "native_export_resolution": [
+    854,
+    480
+  ],
+  "upscale": "Local Topaz Rhea 1 x4 then Lanczos 3840x2160, HEVC 60Mbps, Rec709, source audio copied",
+  "grade": "ACG-SOFT-FILM-709.cube; local FFmpeg finishing after Topaz",
+  "vertical": "1080x1920; keyframed crop from the Topaz 4K master, see qa/portrait-framing.json",
+  "audio": "CapCut Keep Vocal isolation, 10% original ambience, theme fitted to 63.25s, ducked under dialogue, limited to avoid clipping",
+  "finishing_scripts": [
+    "finish_delivery.py",
+    "portrait_finish.py"
+  ],
+  "downloads_audio": "/Users/gbolahan/Downloads/ACG-EDITED-FULL-AUDIO-48k24.wav",
+  "deliveries": [
+    "delivery/ACG-FINAL-16x9-4K.mp4",
+    "delivery/ACG-FINAL-9x16-1080p.mp4"
+  ],
+  "review_limits": "Export contact sheets and technical audio checks completed. Full normal-speed listening review not performed."
+}

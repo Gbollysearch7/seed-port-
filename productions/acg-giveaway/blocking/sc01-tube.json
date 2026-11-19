@@ -1,0 +1,135 @@
+{
+ "title": "SC 01 / Tube carriage: \"Are we recording?\"",
+ "subtitle": "Opens on the dark window left of A where the crew is reflected, pans right onto A; announcer while he's seated; he exits through the doors screen-right",
+ "tables": [
+  {
+   "shape": "rect",
+   "x": 860,
+   "y": 280,
+   "w": 1300,
+   "h": 100
+  },
+  {
+   "shape": "rect",
+   "x": 860,
+   "y": 720,
+   "w": 1300,
+   "h": 100
+  }
+ ],
+ "props": [
+  {
+   "kind": "box",
+   "x": 860,
+   "y": 215,
+   "w": 1300,
+   "h": 14
+  },
+  {
+   "kind": "box",
+   "x": 420,
+   "y": 500,
+   "w": 4,
+   "h": 4,
+   "label": "aisle"
+  },
+  {
+   "kind": "box",
+   "x": 420,
+   "y": 175,
+   "w": 4,
+   "h": 4,
+   "label": "windows, dark tunnel"
+  },
+  {
+   "kind": "door",
+   "x": 1600,
+   "y": 280,
+   "label": "doors"
+  },
+  {
+   "kind": "door",
+   "x": 1600,
+   "y": 720
+  },
+  {
+   "kind": "box",
+   "x": 560,
+   "y": 215,
+   "w": 220,
+   "h": 14,
+   "label": "reflection of B and C here"
+  }
+ ],
+ "characters": [
+  {
+   "id": "A",
+   "name": "Banker (talent), seated, faces camera",
+   "x": 860,
+   "y": 300,
+   "facing": 90
+  },
+  {
+   "id": "B",
+   "name": "Camera op (reflected in the window at the open)",
+   "x": 860,
+   "y": 790,
+   "facing": 270,
+   "pose": "standing"
+  },
+  {
+   "id": "C",
+   "name": "Crew: \"Yep, we're rolling\" (off camera)",
+   "x": 1060,
+   "y": 760,
+   "facing": 250,
+   "pose": "standing"
+  }
+ ],
+ "moves": [
+  {
+   "who": "A",
+   "path": [
+    [
+     900,
+     360
+    ],
+    [
+     1250,
+     450
+    ],
+    [
+     1560,
+     340
+    ]
+   ],
+   "label": "stop announced: stands, exits"
+  }
+ ],
+ "cameras": [
+  {
+   "id": "1",
+   "x": 860,
+   "y": 700,
+   "aim": 255,
+   "fov": 45,
+   "range": 360,
+   "note": "Starts on the window left of A (crew reflection), pans right onto A at 2 s, holds MS; A faces lens."
+  },
+  {
+   "id": "2",
+   "x": 1180,
+   "y": 700,
+   "aim": 315,
+   "fov": 30,
+   "range": 380,
+   "note": "Same take continues: A stands and steps out of the doors screen-right; cut at 15 s."
+  }
+ ],
+ "eyelines": [
+  {
+   "from": "A",
+   "to": "C"
+  }
+ ]
+}
